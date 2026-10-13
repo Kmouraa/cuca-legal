@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+[hidden] { display: none !important; }
+
+
+:root {
+    --azul-profundo: #073B83;
+    --azul-vivido: #0879D9;
+    --amarelo: #ffd629;
+    --laranja: #FF7A18;
+    
+    --branco: #fff;
+    --cinza-azulado: #F3F6FB;
+    --cinza-black: #172033;
+    --cinza: #64748B;
+
+    --atualidades: #ffd629;
+    --ciencias: #0879D9;
+    --historia: #FF7A18;
+    --esportes: #39A852;
+    --geografia: #8055C7;
+    --portugues: #E83D45;
+
+    --novato:var(--amarelo);
+    --sabichao:var(--esportes);
+    --fera:var(--azul-vivido);
+    --racha-cuca:var(--portugues);
+
+    
+}
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    background-color: var(--cinza-azulado);
+}
+
+#tela-inicio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 100px;
+    background-color: var(--azul-profundo);
+}
+
+#tela-inicio img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+#tela-inicio h1 {
+    margin-top: -30px;
+}
+
+#tela-inicio h1 img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.marca-jogo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.marca-jogo p {
+    color: var(--branco);
+    font-size: 10px;
+    font-weight: 500;
+    margin: 0px;
+}
+
+.marca-jogo h1 {
+    margin: 0px;
+    padding: 0px;
+}
+
+#btn-jogar {
+    height: 50px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: var(--cinza-black);
+    color: var(--branco);
+    font-weight: bold;
+}
+
+#btn-como-jogar {
+    height: 50px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: var(--branco);
+    color: var(--cinza-black);
+}
+
+.botoes {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
