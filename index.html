@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuca Legal</title>
+</head>
+<body>
+    <section id="tela-inicio">
+        <img src="src/img/logo-jogo.png" alt="professor cuca, personagem do jogo" width="200" height="200">
+        <h1><img src="src/img/logo-cucalegal.png" alt="CUCA LEGAL" width="210" height="70"></h1>
+        <p>Cartas digitais do jogo.</p>
+        <button type="button" id="btn-jogar">Jogar</button>
+        <button type="button" id="btn-como-jogar">Como Jogar?</button>
+    </section>
+
+
+    <section id="tela-jogo" hidden>
+        <header>
+            <button type="button" id="btn-home">
+                <img src="src/img/logo-cucalegal.png" alt="Voltar para a tela inicial" width="90" height="30">
+            </button>
+        </header>
+        <nav aria-label="Níveis de dificuldade">
+            <button type="button" data-nivel="novato" aria-pressed="true" class="nivel">Novato</button>
+            <button type="button" data-nivel="sabichao" aria-pressed="false" class="nivel">Sabichão</button>
+            <button type="button" data-nivel="fera" aria-pressed="false" class="nivel">Fera</button>
+            <button type="button" data-nivel="racha-cuca" aria-pressed="false" class="nivel">Racha Cuca</button>
+        </nav>
+        <article id="carta">
+            <h2>Novato - Perguntas</h2>
+            <ul>
+                <li data-tema="atualidades"><span class="marca">A</span> <span class="texto">Pergunta exemplo</span></li>
+                <li data-tema="ciencias"><span class="marca">C</span> <span class="texto">Pergunta exemplo</span></li>
+                <li data-tema="esportes"><span class="marca">E</span> <span class="texto">Pergunta exemplo</span></li>
+                <li data-tema="geografia"><span class="marca">G</span> <span class="texto">Pergunta exemplo</span></li>
+                <li data-tema="historia"><span class="marca">H</span> <span class="texto">Pergunta exemplo</span></li>
+                <li data-tema="portugues"><span class="marca">P</span> <span class="texto">Pergunta exemplo</span></li>
+            </ul>
+        </article>
+        <button type="button" id="btn-virar">Ver respostas</button>
+        <button type="button" id="btn-nova">Nova carta</button>
+        
+    </section>
+</body>
+</html>
