@@ -26,9 +26,13 @@
     --portugues: #E83D45;
 
     --novato:var(--amarelo);
+    --novato-escuro: #a18400;
     --sabichao:var(--esportes);
+    --sabichao-escuro: #1f6e3a;
     --fera:var(--azul-vivido);
-    --racha-cuca:var(--portugues);
+    --fera-escuro: #0559a1;
+    --racha-cuca: #B3123A;
+    --racha-cuca-escuro: #7a0e2b;
 
     
 }
@@ -141,4 +145,79 @@ body {
     display: flex;
     flex-direction: column;
     gap: 20px;
+}
+
+/* aqui começa o estilo para a tela do jogo */
+
+#tela-jogo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    gap: 20px;
+    padding: 20px;
+    background-color: var(--cinza-azulado);
+}
+
+
+#btn-home {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    min-height: 44px;
+}
+
+nav {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    width: 100%;
+}
+
+.nivel {
+    border-radius: 8px;
+    border: 2px solid var(--cinza);
+    font-family: 'luckiest guy', cursive;
+    box-shadow: 3px 3px 4px 0px rgb(0 0 0 / 92%);
+    min-height: 44px
+}
+
+.nivel:active {
+    transform: translateY(4px) translateX(3px);
+    box-shadow: 1px 2px 4px 1px rgb(0 0 0 / 92%);
+}
+
+.nivel[data-nivel="novato"] {
+    background-color: var(--novato);
+}
+
+.nivel[data-nivel="novato"]:active {
+    background-color: var(--novato-escuro);
+}
+
+.nivel[data-nivel="sabichao"] {
+    background-color: var(--sabichao);
+}
+
+.nivel[data-nivel="sabichao"]:active {
+    background-color: var(--sabichao-escuro);
+}
+
+.nivel[data-nivel="fera"] {
+    background-color: var(--fera);
+}
+
+.nivel[data-nivel="fera"]:active {
+    background-color: var(--fera-escuro);
+}
+
+.nivel[data-nivel="racha-cuca"] {
+    background-color: #B3123A;
+    grid-column: 1 / -1;
+    color: var(--branco);
+}
+
+.nivel[data-nivel="racha-cuca"]:active {
+    background-color: var(--racha-cuca-escuro);
 }
