@@ -91,9 +91,25 @@ body {
     height: 50px;
     width: 200px;
     border-radius: 15px;
+    background-color: black;
+    color: var(--branco);
+    font-size: 20px;
+    font-family: 'luckiest guy', cursive;
+    border: 2px solid var(--branco);
+    box-shadow: 0px 4px 6px 3px rgba(0, 0, 0, 0.582);
+}
+
+#btn-jogar:hover {
+    background-color: var(--branco);
+    color: var(--cinza-black);
+    border: 2px solid var(--cinza-black);
+}
+
+#btn-jogar:active {
     background-color: var(--cinza-black);
     color: var(--branco);
-    font-weight: bold;
+    border: 2px solid var(--branco);
+    transform: translateY(4px)
 }
 
 #btn-como-jogar {
@@ -102,6 +118,23 @@ body {
     border-radius: 15px;
     background-color: var(--branco);
     color: var(--cinza-black);
+    font-size: 13px;
+    font-family: 'luckiest guy', cursive;
+    border: 2px solid var(--cinza-black);
+    box-shadow: 0px 4px 6px 3px rgba(0, 0, 0, 0.582);
+}
+
+#btn-como-jogar:hover {
+    background-color: var(--cinza-black);
+    color: var(--branco);
+    border: 2px solid var(--branco);
+}
+
+#btn-como-jogar:active {
+    background-color: var(--branco);
+    color: var(--cinza-black);
+    border: 2px solid var(--cinza-black);
+    transform: translateY(4px)
 }
 
 .botoes {
