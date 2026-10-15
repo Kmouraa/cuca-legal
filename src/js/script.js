@@ -10,8 +10,9 @@ const carta = document.querySelector('#carta')
 
 //---------estados do jogo--------
 
-let perguntas = [];
+let perguntas = []
 let nivelAtual = "novato"
+let cartaAtual = []
 
 async function carregarPerguntas() {
     const arquivo = await fetch('src/data/perguntas.json');
@@ -26,12 +27,14 @@ function sortearPergunta(nivel, tema) {
 }
 
 function montarCarta() {
+    cartaAtual = []
     const linhas = document.querySelectorAll("#carta li")
     linhas.forEach(function (linha) {
         const tema = linha.dataset.tema
         const pergunta = sortearPergunta(nivelAtual, tema)
         const texto = linha.querySelector(".texto")
         texto.textContent = pergunta.pergunta
+        cartaAtual.push(pergunta)
     });
 }
 
@@ -59,7 +62,12 @@ niveis.forEach(function (botaoNivel) {
         montarCarta()
         carta.dataset.nivel = nivelAtual
         carta.querySelector("h2").textContent = botaoNivel.textContent + " - Perguntas"
+        niveis.forEach(function (outro) {         // 2º forEach: DENTRO do clique
+            outro.setAttribute("aria-pressed", "false")
+        })
+        botaoNivel.setAttribute("aria-pressed", "true")
     })
+
 })
 
 
