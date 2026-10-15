@@ -262,6 +262,7 @@ nav {
     align-items: center;
     padding: 8px;
     padding-left: 10px;
+    border-bottom: 1px solid black;
 }
 
 #carta[data-nivel="novato"] h2 {
