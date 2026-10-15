@@ -22,9 +22,21 @@ function sortearPergunta(nivel, tema) {
     return perguntaSorteada;
 }
 
+function montarCarta() {
+    const linhas = document.querySelectorAll("#carta li")
+    linhas.forEach(function (linha) {
+        const tema = linha.dataset.tema
+        const pergunta = sortearPergunta("novato", tema)
+        const texto = linha.querySelector(".texto")
+        texto.textContent = pergunta.pergunta
+    });
+}
+
+
 function jogar() {
     telaInicio.hidden = true
     telaJogo.hidden = false
+    montarCarta()
 }
 
 function home() {
