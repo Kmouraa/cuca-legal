@@ -19,11 +19,17 @@
     --cinza: #64748B;
 
     --atualidades: #ffd629;
+    --atualidades-claro: #f8edb3;
     --ciencias: #0879D9;
+    --ciencias-claro: #d1e9ff;
     --historia: #FF7A18;
+    --historia-claro: #ffae70;
     --esportes: #39A852;
+    --esportes-claro: #b5f5d4;
     --geografia: #8055C7;
+    --geografia-claro: #d2b2f3;
     --portugues: #E83D45;
+    --portugues-claro: #f8a6ac;
 
     --novato:var(--amarelo);
     --novato-escuro: #a18400;
@@ -157,7 +163,7 @@ body {
     height: 100vh;
     gap: 20px;
     padding: 20px;
-    background-color: var(--cinza-azulado);
+    background-color: var(--azul-profundo);
 }
 
 
@@ -183,16 +189,20 @@ nav {
     min-height: 44px
 }
 
-.nivel:active {
+.nivel:active, .nivel[aria-pressed="true"] {
     transform: translateY(4px) translateX(3px);
     box-shadow: 1px 2px 4px 1px rgb(0 0 0 / 92%);
+}
+
+.nivel[aria-pressed="true"] {
+    border: 2px solid rgb(218, 214, 214);
 }
 
 .nivel[data-nivel="novato"] {
     background-color: var(--novato);
 }
 
-.nivel[data-nivel="novato"]:active {
+.nivel[data-nivel="novato"]:active, .nivel[data-nivel="novato"][aria-pressed="true"] {
     background-color: var(--novato-escuro);
 }
 
@@ -200,7 +210,7 @@ nav {
     background-color: var(--sabichao);
 }
 
-.nivel[data-nivel="sabichao"]:active {
+.nivel[data-nivel="sabichao"]:active, .nivel[data-nivel="sabichao"][aria-pressed="true"] {
     background-color: var(--sabichao-escuro);
 }
 
@@ -208,7 +218,7 @@ nav {
     background-color: var(--fera);
 }
 
-.nivel[data-nivel="fera"]:active {
+.nivel[data-nivel="fera"]:active, .nivel[data-nivel="fera"][aria-pressed="true"] {
     background-color: var(--fera-escuro);
 }
 
@@ -218,6 +228,124 @@ nav {
     color: var(--branco);
 }
 
-.nivel[data-nivel="racha-cuca"]:active {
+.nivel[data-nivel="racha-cuca"]:active, .nivel[data-nivel="racha-cuca"][aria-pressed="true"] {
     background-color: var(--racha-cuca-escuro);
+}
+
+#carta {
+    background-color: var(--branco);
+    border-radius: 8px;
+    box-shadow: 3px 3px 4px 0px rgb(0 0 0 / 92%);
+    padding: 0px;
+    width: 100%;
+    max-width: 480px;
+    margin: 0 auto;
+    overflow: hidden;
+}  
+
+#carta h2 {
+    font-family: 'luckiest guy', cursive;
+    font-size: 16px;
+    align-items: center;
+    padding: 8px;
+    padding-left: 10px;
+}
+
+#carta[data-nivel="novato"] h2 {
+    background-color: var(--novato);
+}
+#carta[data-nivel="sabichao"] h2 {
+    background-color: var(--sabichao);
+}
+#carta[data-nivel="fera"] h2 {
+    background-color: var(--fera);
+}
+#carta[data-nivel="racha-cuca"] h2 {
+    background-color: var(--racha-cuca);
+}
+
+#carta ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+
+#carta li {
+    align-items: center;
+    gap: 10px;
+    display: flex;
+    border-bottom: 1px solid var(--cinza);
+    height: 55px;
+    padding-left: 10px;
+}
+
+#carta li:last-child {
+    border-bottom: none;
+}
+
+.marca {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    flex-shrink: 0;
+    height: 36px;
+    width: 36px;
+    color: black;
+    font-family: 'luckiest guy', cursive;
+}
+
+li[data-tema="atualidades"] .marca {
+    background-color: var(--atualidades);
+}
+
+li[data-tema="ciencias"] .marca {
+    background-color: var(--ciencias);
+}
+
+li[data-tema="historia"] .marca {
+    background-color: var(--historia);
+}
+
+li[data-tema="esportes"] .marca {
+    background-color: var(--esportes);
+}
+
+li[data-tema="geografia"] .marca {
+    background-color: var(--geografia);
+}
+
+li[data-tema="portugues"] .marca {
+    background-color: var(--portugues);
+}
+
+li[data-tema="atualidades"] {
+    background-color: var(--atualidades-claro);
+}
+
+li[data-tema="ciencias"] {
+    background-color: var(--ciencias-claro);
+}
+
+li[data-tema="historia"] {
+    background-color: var(--historia-claro);
+}
+
+li[data-tema="esportes"] {
+    background-color: var(--esportes-claro);
+}
+
+li[data-tema="geografia"] {
+    background-color: var(--geografia-claro);
+}
+
+li[data-tema="portugues"] {
+    background-color: var(--portugues-claro);
+}
+
+.texto {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
 }
