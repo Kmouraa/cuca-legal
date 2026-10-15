@@ -1,6 +1,6 @@
 # 🧠 Racha Cuca Digital
 
-Versão digital do jogo de tabuleiro de perguntas e respostas **Racha Cuca**, feita para dar uma nova vida às cartas depois que todo mundo já decorou as 600 perguntas da caixa.
+Versão digital do jogo de tabuleiro de perguntas e respostas **Cuca Legal**, feita para dar uma nova vida às cartas depois que todo mundo já decorou as 600 perguntas da caixa.
 
 > 🚧 **Status:** em desenvolvimento. Este é um projeto de estudo, criado para praticar programação e Git/GitHub.
 
@@ -105,12 +105,12 @@ O projeto segue um fluxo simples:
 Por enquanto, basta clonar o repositório e abrir o arquivo `index.html` no navegador.
 
 ```bash
-git clone https://github.com/Kmouraa/racha-cuca.git
+git clone https://github.com/Kmouraa/cuca-legal.git
 ```
 
 ## ⚠️ Aviso
 
-Este é um projeto de estudo, sem fins comerciais, inspirado no jogo de tabuleiro Racha Cuca. Não tem vínculo com os criadores ou fabricantes do jogo original.
+Este é um projeto de estudo, sem fins comerciais, inspirado no jogo de tabuleiro Cuca Legal. Não tem vínculo com os criadores ou fabricantes do jogo original.
 
 ## 👤 Autor
 
