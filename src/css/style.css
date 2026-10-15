@@ -153,6 +153,11 @@ body {
     gap: 20px;
 }
 
+section footer a img {
+    height: auto;
+    width: 40px;
+}
+
 /* aqui começa o estilo para a tela do jogo */
 
 #tela-jogo {
@@ -172,7 +177,15 @@ body {
     border: none;
     cursor: pointer;
     min-height: 44px;
+
+    img {
+        max-width: 100%;
+        height: auto;
+        width: 120px;
+    }
 }
+
+
 
 nav {
     display:grid;
@@ -386,4 +399,29 @@ li[data-tema="portugues"] {
 .acoes button#btn-nova {
     background-color: var(--azul-vivido);
     color: black;
+}
+
+
+@media (min-width: 768px) {
+    #tela-inicio {
+        max-width: 600px;
+        margin: 0 auto;
+        img {
+            max-width: 100%;
+            height: auto;
+            width: 400px;
+        }
+        .marca-jogo img {
+            margin-bottom: -12px;
+        }
+        footer a img {
+            height: auto;
+            width: 50px;
+        }
+    }
+
+    #tela-jogo {
+        max-width: 600px;
+        margin: 0 auto;
+    }
 }
