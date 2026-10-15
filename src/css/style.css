@@ -1,0 +1,427 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+[hidden] { display: none !important; }
+
+
+:root {
+    --azul-profundo: #073B83;
+    --azul-vivido: #0879D9;
+    --amarelo: #ffd629;
+    --laranja: #FF7A18;
+    
+    --branco: #fff;
+    --cinza-azulado: #F3F6FB;
+    --cinza-black: #172033;
+    --cinza: #64748B;
+
+    --atualidades: #ffd629;
+    --atualidades-claro: #f8edb3;
+    --ciencias: #0879D9;
+    --ciencias-claro: #d1e9ff;
+    --historia: #FF7A18;
+    --historia-claro: #ffae70;
+    --esportes: #39A852;
+    --esportes-claro: #b5f5d4;
+    --geografia: #8055C7;
+    --geografia-claro: #d2b2f3;
+    --portugues: #E83D45;
+    --portugues-claro: #f8a6ac;
+
+    --novato:var(--amarelo);
+    --novato-escuro: #a18400;
+    --sabichao:var(--esportes);
+    --sabichao-escuro: #1f6e3a;
+    --fera:var(--azul-vivido);
+    --fera-escuro: #0559a1;
+    --racha-cuca: #B3123A;
+    --racha-cuca-escuro: #7a0e2b;
+
+    
+}
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    background-color: var(--cinza-azulado);
+}
+
+#tela-inicio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 100px;
+    background-color: var(--azul-profundo);
+}
+
+#tela-inicio img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+#tela-inicio h1 {
+    margin-top: -30px;
+}
+
+#tela-inicio h1 img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.marca-jogo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.marca-jogo p {
+    color: var(--branco);
+    font-size: 10px;
+    font-weight: 500;
+    margin: 0px;
+}
+
+.marca-jogo h1 {
+    margin: 0px;
+    padding: 0px;
+}
+
+#btn-jogar {
+    height: 50px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: black;
+    color: var(--branco);
+    font-size: 20px;
+    font-family: 'luckiest guy', cursive;
+    border: 2px solid var(--branco);
+    box-shadow: 0px 4px 6px 3px rgba(0, 0, 0, 0.582);
+}
+
+#btn-jogar:hover {
+    background-color: var(--branco);
+    color: var(--cinza-black);
+    border: 2px solid var(--cinza-black);
+}
+
+#btn-jogar:active {
+    background-color: var(--cinza-black);
+    color: var(--branco);
+    border: 2px solid var(--branco);
+    transform: translateY(4px)
+}
+
+#btn-como-jogar {
+    height: 50px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: var(--branco);
+    color: var(--cinza-black);
+    font-size: 13px;
+    font-family: 'luckiest guy', cursive;
+    border: 2px solid var(--cinza-black);
+    box-shadow: 0px 4px 6px 3px rgba(0, 0, 0, 0.582);
+}
+
+#btn-como-jogar:hover {
+    background-color: var(--cinza-black);
+    color: var(--branco);
+    border: 2px solid var(--branco);
+}
+
+#btn-como-jogar:active {
+    background-color: var(--branco);
+    color: var(--cinza-black);
+    border: 2px solid var(--cinza-black);
+    transform: translateY(4px)
+}
+
+.botoes {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+section footer a img {
+    height: auto;
+    width: 40px;
+}
+
+/* aqui começa o estilo para a tela do jogo */
+
+#tela-jogo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    gap: 20px;
+    padding: 20px;
+    background-color: var(--azul-profundo);
+}
+
+
+#btn-home {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    min-height: 44px;
+
+    img {
+        max-width: 100%;
+        height: auto;
+        width: 120px;
+    }
+}
+
+
+
+nav {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    width: 100%;
+}
+
+.nivel {
+    border-radius: 8px;
+    border: 2px solid var(--cinza);
+    font-family: 'luckiest guy', cursive;
+    box-shadow: 3px 3px 4px 0px rgb(0 0 0 / 92%);
+    min-height: 44px
+}
+
+.nivel:active, .nivel[aria-pressed="true"] {
+    transform: translateY(4px) translateX(3px);
+    box-shadow: 1px 2px 4px 1px rgb(0 0 0 / 92%);
+}
+
+.nivel[aria-pressed="true"] {
+    border: 2px solid rgb(218, 214, 214);
+}
+
+.nivel[data-nivel="novato"] {
+    background-color: var(--novato);
+}
+
+.nivel[data-nivel="novato"]:active, .nivel[data-nivel="novato"][aria-pressed="true"] {
+    background-color: var(--novato-escuro);
+}
+
+.nivel[data-nivel="sabichao"] {
+    background-color: var(--sabichao);
+}
+
+.nivel[data-nivel="sabichao"]:active, .nivel[data-nivel="sabichao"][aria-pressed="true"] {
+    background-color: var(--sabichao-escuro);
+}
+
+.nivel[data-nivel="fera"] {
+    background-color: var(--fera);
+}
+
+.nivel[data-nivel="fera"]:active, .nivel[data-nivel="fera"][aria-pressed="true"] {
+    background-color: var(--fera-escuro);
+}
+
+.nivel[data-nivel="racha-cuca"] {
+    background-color: #B3123A;
+    grid-column: 1 / -1;
+    color: var(--branco);
+}
+
+.nivel[data-nivel="racha-cuca"]:active, .nivel[data-nivel="racha-cuca"][aria-pressed="true"] {
+    background-color: var(--racha-cuca-escuro);
+}
+
+#carta {
+    background-color: var(--branco);
+    border-radius: 8px;
+    box-shadow: 3px 3px 4px 0px rgb(0 0 0 / 92%);
+    padding: 0px;
+    width: 100%;
+    max-width: 480px;
+    margin: 0 auto;
+    overflow: hidden;
+}  
+
+#carta h2 {
+    font-family: 'luckiest guy', cursive;
+    font-size: 16px;
+    align-items: center;
+    padding: 8px;
+    padding-left: 10px;
+}
+
+#carta[data-nivel="novato"] h2 {
+    background-color: var(--novato);
+}
+#carta[data-nivel="sabichao"] h2 {
+    background-color: var(--sabichao);
+}
+#carta[data-nivel="fera"] h2 {
+    background-color: var(--fera);
+}
+#carta[data-nivel="racha-cuca"] h2 {
+    background-color: var(--racha-cuca);
+}
+
+#carta ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+
+#carta li {
+    align-items: center;
+    gap: 10px;
+    display: flex;
+    border-bottom: 1px solid var(--cinza);
+    height: 55px;
+    padding-left: 10px;
+}
+
+#carta li:last-child {
+    border-bottom: none;
+}
+
+.marca {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    flex-shrink: 0;
+    height: 36px;
+    width: 36px;
+    color: black;
+    font-family: 'luckiest guy', cursive;
+}
+
+li[data-tema="atualidades"] .marca {
+    background-color: var(--atualidades);
+}
+
+li[data-tema="ciencias"] .marca {
+    background-color: var(--ciencias);
+}
+
+li[data-tema="historia"] .marca {
+    background-color: var(--historia);
+}
+
+li[data-tema="esportes"] .marca {
+    background-color: var(--esportes);
+}
+
+li[data-tema="geografia"] .marca {
+    background-color: var(--geografia);
+}
+
+li[data-tema="portugues"] .marca {
+    background-color: var(--portugues);
+}
+
+li[data-tema="atualidades"] {
+    background-color: var(--atualidades-claro);
+}
+
+li[data-tema="ciencias"] {
+    background-color: var(--ciencias-claro);
+}
+
+li[data-tema="historia"] {
+    background-color: var(--historia-claro);
+}
+
+li[data-tema="esportes"] {
+    background-color: var(--esportes-claro);
+}
+
+li[data-tema="geografia"] {
+    background-color: var(--geografia-claro);
+}
+
+li[data-tema="portugues"] {
+    background-color: var(--portugues-claro);
+}
+
+.texto {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+
+.acoes {
+    display: flex;
+    flex: 1;
+    gap: 8px;
+    margin: 0 auto;
+    width: 100%;
+    margin-top: 8px;
+    min-height: 44px;
+}
+
+.acoes button {
+    flex: 1;
+    height: 50px;
+    border-radius: 8px;
+    font-family: 'luckiest guy', cursive;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 3px 3px 4px 0px rgb(0 0 0 / 92%);
+    min-height: 44px;
+    position: sticky;
+}
+
+.acoes button:active {
+    transform: translateY(4px) translateX(3px);
+    box-shadow: 1px 2px 4px 1px rgb(0 0 0 / 92%);
+}
+
+.acoes button#btn-virar {
+    background-color: var(--esportes);
+    color: black;
+}
+
+.acoes button#btn-nova {
+    background-color: var(--azul-vivido);
+    color: black;
+}
+
+
+@media (min-width: 768px) {
+    #tela-inicio {
+        max-width: 600px;
+        margin: 0 auto;
+        img {
+            max-width: 100%;
+            height: auto;
+            width: 400px;
+        }
+        .marca-jogo img {
+            margin-bottom: -12px;
+        }
+        footer a img {
+            height: auto;
+            width: 50px;
+        }
+    }
+
+    #tela-jogo {
+        max-width: 600px;
+        margin: 0 auto;
+    }
+}
