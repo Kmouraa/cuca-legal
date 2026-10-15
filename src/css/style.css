@@ -349,3 +349,41 @@ li[data-tema="portugues"] {
     font-weight: 500;
     font-family: 'Poppins', sans-serif;
 }
+
+.acoes {
+    display: flex;
+    flex: 1;
+    gap: 8px;
+    margin: 0 auto;
+    width: 100%;
+    margin-top: 8px;
+    min-height: 44px;
+}
+
+.acoes button {
+    flex: 1;
+    height: 50px;
+    border-radius: 8px;
+    font-family: 'luckiest guy', cursive;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 3px 3px 4px 0px rgb(0 0 0 / 92%);
+    min-height: 44px;
+    position: sticky;
+}
+
+.acoes button:active {
+    transform: translateY(4px) translateX(3px);
+    box-shadow: 1px 2px 4px 1px rgb(0 0 0 / 92%);
+}
+
+.acoes button#btn-virar {
+    background-color: var(--esportes);
+    color: black;
+}
+
+.acoes button#btn-nova {
+    background-color: var(--azul-vivido);
+    color: black;
+}
