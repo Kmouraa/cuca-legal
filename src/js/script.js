@@ -6,6 +6,7 @@ const botaoJogar = document.getElementById('btn-jogar');
 const botaoHome = document.querySelector('#btn-home')
 const niveis = document.querySelectorAll(".nivel")
 const carta = document.querySelector('#carta')
+const virar = document.querySelector('#btn-virar')
 
 
 //---------estados do jogo--------
@@ -13,6 +14,7 @@ const carta = document.querySelector('#carta')
 let perguntas = []
 let nivelAtual = "novato"
 let cartaAtual = []
+let mostrandoRespostas = false
 
 async function carregarPerguntas() {
     const arquivo = await fetch('src/data/perguntas.json');
@@ -37,6 +39,29 @@ function montarCarta() {
         cartaAtual.push(pergunta)
     });
 }
+
+
+
+function mostrarVerso() {
+    const linhas = document.querySelectorAll("#carta li");
+    mostrandoRespostas = true;
+
+    linhas.forEach(function (resposta, i) {
+        const texto = resposta.querySelector(".texto");
+        texto.textContent = cartaAtual[i].resposta;
+    });
+}
+
+function mostrarFrente() {
+    const linhas = document.querySelectorAll("#carta li");
+    mostrandoRespostas = false;
+
+    linhas.forEach(function (resposta, i) {
+        const texto = resposta.querySelector(".texto");
+        texto.textContent = cartaAtual[i].pergunta;
+    });
+}
+
 
 
 function jogar() {
@@ -69,6 +94,24 @@ niveis.forEach(function (botaoNivel) {
     })
 
 })
+
+
+
+
+virar.addEventListener("click", function () {
+    if (mostrandoRespostas) {
+        mostrarFrente();
+        mostrandoRespostas = false;
+        virar.textContent = "Ver respostas";
+    } else {
+        mostrarVerso();
+        mostrandoRespostas = true;
+        virar.textContent = "Ver perguntas";
+    }
+});
+
+
+
 
 
 carregarPerguntas();
