@@ -24,9 +24,10 @@
             <p>Cartas digitais do jogo.</p>
         </div>
         <div class="botoes">
-            <button type="button" id="btn-jogar">Jogar</button>
+            <button type="button" id="btn-jogar" disabled>Jogar</button>
             <button type="button" id="btn-como-jogar">Como Jogar?</button>
         </div>
+        <p id="aviso-erro" role="alert" hidden>Não foi possível carregar as perguntas. Recarregue a página ou tente de novo mais tarde.</p>
         <footer>
             <a href="https://github.com/Kmouraa" target="_blank" rel="noopener noreferrer"><img src="src/img/github.svg" alt="GitHub" width="30" height="30"></a>
         </footer>
@@ -46,7 +47,7 @@
             <button type="button" data-nivel="fera" aria-pressed="false" class="nivel">Fera</button>
             <button type="button" data-nivel="racha-cuca" aria-pressed="false" class="nivel">Racha Cuca</button>
         </nav>
-        <article id="carta" data-nivel="novato">
+        <article id="carta" aria-live="polite" data-nivel="novato">
             <h2>Novato - Perguntas</h2>
             <ul>
                 <li data-tema="atualidades"><span class="marca">A</span> <span class="texto">Pergunta exemplo</span></li>

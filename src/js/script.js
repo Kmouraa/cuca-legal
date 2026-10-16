@@ -10,6 +10,7 @@ const niveis = document.querySelectorAll(".nivel")
 const carta = document.querySelector('#carta')
 const virar = document.querySelector('#btn-virar')
 const novaCarta = document.querySelector('#btn-nova')
+const avisoErro = document.querySelector("#aviso-erro")
 
 
 //---------estados do jogo--------
@@ -21,13 +22,26 @@ let mostrandoRespostas = false
 let usadas = []
 
 async function carregarPerguntas() {
-    const arquivo = await fetch('src/data/perguntas.json');
-    const dados = await arquivo.json();
-    perguntas = dados;
+    try {
+        const arquivo = await fetch("src/data/perguntas.json")
+        if (!arquivo.ok) {
+            throw new Error("Não foi possível ler o arquivo (código " + arquivo.status + ")")
+        }
+        perguntas = await arquivo.json()
+        botaoJogar.disabled = false
+    } catch (erro) {
+        console.error(erro)
+        avisoErro.hidden = false
+    }
 }
 
 function sortearPergunta(nivel, tema) {
     const perguntasFiltradas = perguntas.filter(p => p.nivel === nivel && p.tema === tema && !usadas.includes(p.id));
+    const existentes = perguntas.filter(p => p.nivel === nivel && p.tema === tema)
+if (existentes.length === 0) {
+    console.error("Não existem perguntas para", nivel, tema)
+    return undefined
+}
     if (perguntasFiltradas.length === 0) {
     usadas = [];
     return sortearPergunta(nivel, tema);
@@ -40,6 +54,11 @@ function sortearPergunta(nivel, tema) {
 
 function sortearCharada(numero) {
     const perguntasFiltradas = perguntas.filter(p => p.nivel === "racha-cuca" && p.numero === numero && !usadas.includes(p.id));
+    const existentes = perguntas.filter(p => p.nivel === "racha-cuca" && p.numero === numero)
+if (existentes.length === 0) {
+    console.error("Não existe charada de número", numero)
+    return undefined
+}
     if (perguntasFiltradas.length === 0) {
     usadas = [];
     return sortearCharada(numero);
@@ -61,12 +80,30 @@ function montarCarta() {
         } else {
             sorteada = sortearPergunta(nivelAtual, tema)
         }
+        if (!sorteada) {
+    sorteada = { pergunta: "Pergunta indisponível", resposta: "-" }
+}
         const texto = linha.querySelector(".texto")
         texto.textContent = sorteada.pergunta
         cartaAtual.push(sorteada)
     });
+    ajustarCarta()
 }
 
+function ajustarTexto(linha) {
+    const texto = linha.querySelector(".texto")
+    let tamanho = 16
+    texto.style.fontSize = tamanho + "px"
+
+    while (linha.scrollHeight > linha.clientHeight && tamanho > 10) {
+        tamanho = tamanho - 0.5
+        texto.style.fontSize = tamanho + "px"
+    }
+}
+
+function ajustarCarta() {
+    document.querySelectorAll("#carta li").forEach(ajustarTexto)
+}
 
 
 function mostrarVerso() {
@@ -77,6 +114,7 @@ function mostrarVerso() {
         const texto = resposta.querySelector(".texto");
         texto.textContent = cartaAtual[i].resposta;
     });
+    ajustarCarta()
 }
 
 function mostrarFrente() {
@@ -87,11 +125,13 @@ function mostrarFrente() {
         const texto = resposta.querySelector(".texto");
         texto.textContent = cartaAtual[i].pergunta;
     });
+    ajustarCarta()
 }
 
 
 
 function jogar() {
+    if (perguntas.length === 0) return
     telaInicio.hidden = true
     telaJogo.hidden = false
     montarCarta()
@@ -113,12 +153,15 @@ function fecharRegras() {
 }
 
 
+
+
 //---------eventos----------
 
 botaoJogar.addEventListener("click", jogar)
 botaoHome.addEventListener("click", home)
 btnComoJogar.addEventListener("click", abrirRegras)
 btnFecharRegras.addEventListener("click", fecharRegras)
+window.addEventListener("resize", ajustarCarta)
 
 comoJogar.addEventListener("click", function (evento) {
     if (evento.target === comoJogar) {
