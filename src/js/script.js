@@ -36,15 +36,32 @@ function sortearPergunta(nivel, tema) {
     
 }
 
+function sortearCharada(numero) {
+    const perguntasFiltradas = perguntas.filter(p => p.nivel === "racha-cuca" && p.numero === numero && !usadas.includes(p.id));
+    if (perguntasFiltradas.length === 0) {
+    usadas = [];
+    return sortearCharada(numero);
+}
+    const perguntaSorteada = perguntasFiltradas[Math.floor(Math.random() * perguntasFiltradas.length)];
+    usadas.push(perguntaSorteada.id)
+    return perguntaSorteada;
+    
+}
+
 function montarCarta() {
     cartaAtual = []
     const linhas = document.querySelectorAll("#carta li")
-    linhas.forEach(function (linha) {
+    linhas.forEach(function (linha, i) {
         const tema = linha.dataset.tema
-        const pergunta = sortearPergunta(nivelAtual, tema)
+        let sorteada
+        if (nivelAtual === "racha-cuca") {
+            sorteada = sortearCharada(i + 1)
+        } else {
+            sorteada = sortearPergunta(nivelAtual, tema)
+        }
         const texto = linha.querySelector(".texto")
-        texto.textContent = pergunta.pergunta
-        cartaAtual.push(pergunta)
+        texto.textContent = sorteada.pergunta
+        cartaAtual.push(sorteada)
     });
 }
 

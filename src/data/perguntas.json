@@ -250,5 +250,47 @@
     "nivel": "fera",
     "pergunta": "Qual é o coletivo de \"abelhas\"?",
     "resposta": "Enxame"
+  },
+  {
+    "id": "racha-cuca-001",
+    "nivel": "racha-cuca",
+    "numero": 1,
+    "pergunta": "O que é, o que é? Cai em pé e corre deitada.",
+    "resposta": "A chuva"
+  },
+  {
+    "id": "racha-cuca-002",
+    "nivel": "racha-cuca",
+    "numero": 2,
+    "pergunta": "O que é, o que é? Quanto mais se tira, maior fica.",
+    "resposta": "O buraco"
+  },
+  {
+    "id": "racha-cuca-003",
+    "nivel": "racha-cuca",
+    "numero": 3,
+    "pergunta": "O que é, o que é? Tem coroa, mas não é rei; tem escamas, mas não é peixe.",
+    "resposta": "O abacaxi"
+  },
+  {
+    "id": "racha-cuca-004",
+    "nivel": "racha-cuca",
+    "numero": 4,
+    "pergunta": "O que é, o que é? Quanto mais seca, mais molhada fica.",
+    "resposta": "A toalha"
+  },
+  {
+    "id": "racha-cuca-005",
+    "nivel": "racha-cuca",
+    "numero": 5,
+    "pergunta": "O que é, o que é? Anda com os pés na cabeça.",
+    "resposta": "O piolho"
+  },
+  {
+    "id": "racha-cuca-006",
+    "nivel": "racha-cuca",
+    "numero": 6,
+    "pergunta": "O que é, o que é? Tem cidades, mas não tem casas; tem rios, mas não tem água.",
+    "resposta": "O mapa"
   }
 ]

@@ -310,6 +310,8 @@ nav {
     font-family: 'luckiest guy', cursive;
 }
 
+
+
 li[data-tema="atualidades"] .marca {
     background-color: var(--atualidades);
 }
