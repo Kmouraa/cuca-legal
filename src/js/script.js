@@ -7,6 +7,7 @@ const botaoHome = document.querySelector('#btn-home')
 const niveis = document.querySelectorAll(".nivel")
 const carta = document.querySelector('#carta')
 const virar = document.querySelector('#btn-virar')
+const novaCarta = document.querySelector('#btn-nova')
 
 
 //---------estados do jogo--------
@@ -95,7 +96,7 @@ niveis.forEach(function (botaoNivel) {
 
 })
 
-
+novaCarta.addEventListener("click", montarCarta)
 
 
 virar.addEventListener("click", function () {
