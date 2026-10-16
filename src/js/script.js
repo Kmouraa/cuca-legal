@@ -16,6 +16,7 @@ let perguntas = []
 let nivelAtual = "novato"
 let cartaAtual = []
 let mostrandoRespostas = false
+let usadas = []
 
 async function carregarPerguntas() {
     const arquivo = await fetch('src/data/perguntas.json');
@@ -24,9 +25,15 @@ async function carregarPerguntas() {
 }
 
 function sortearPergunta(nivel, tema) {
-    const perguntasFiltradas = perguntas.filter(p => p.nivel === nivel && p.tema === tema);
+    const perguntasFiltradas = perguntas.filter(p => p.nivel === nivel && p.tema === tema && !usadas.includes(p.id));
+    if (perguntasFiltradas.length === 0) {
+    usadas = [];
+    return sortearPergunta(nivel, tema);
+}
     const perguntaSorteada = perguntasFiltradas[Math.floor(Math.random() * perguntasFiltradas.length)];
+    usadas.push(perguntaSorteada.id)
     return perguntaSorteada;
+    
 }
 
 function montarCarta() {
