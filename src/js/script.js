@@ -1,5 +1,7 @@
 //---------elementos---------
-
+const comoJogar = document.querySelector("#como-jogar")
+const btnComoJogar = document.querySelector("#btn-como-jogar")
+const btnFecharRegras = document.querySelector("#btn-fechar-regras")
 const telaInicio = document.getElementById('tela-inicio');
 const telaJogo = document.getElementById('tela-jogo');
 const botaoJogar = document.getElementById('btn-jogar');
@@ -100,11 +102,35 @@ function home() {
     telaJogo.hidden = true
 }
 
+function abrirRegras() {
+    comoJogar.hidden = false
+    btnFecharRegras.focus()
+}
+
+function fecharRegras() {
+    comoJogar.hidden = true
+    btnComoJogar.focus()
+}
+
 
 //---------eventos----------
 
 botaoJogar.addEventListener("click", jogar)
 botaoHome.addEventListener("click", home)
+btnComoJogar.addEventListener("click", abrirRegras)
+btnFecharRegras.addEventListener("click", fecharRegras)
+
+comoJogar.addEventListener("click", function (evento) {
+    if (evento.target === comoJogar) {
+        fecharRegras()
+    }
+})
+
+document.addEventListener("keydown", function (evento) {
+    if (evento.key === "Escape" && !comoJogar.hidden) {
+        fecharRegras()
+    }
+})
 
 niveis.forEach(function (botaoNivel) {
     botaoNivel.addEventListener("click", function () {
