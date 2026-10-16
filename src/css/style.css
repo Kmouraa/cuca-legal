@@ -262,6 +262,7 @@ nav {
     align-items: center;
     padding: 8px;
     padding-left: 10px;
+    border-bottom: 1px solid black;
 }
 
 #carta[data-nivel="novato"] h2 {
@@ -308,6 +309,8 @@ nav {
     color: black;
     font-family: 'luckiest guy', cursive;
 }
+
+
 
 li[data-tema="atualidades"] .marca {
     background-color: var(--atualidades);
@@ -424,4 +427,74 @@ li[data-tema="portugues"] {
         max-width: 600px;
         margin: 0 auto;
     }
+}
+
+.modal {
+    position: fixed;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    background: rgba(23, 32, 51, 0.7);
+    z-index: 10;
+}
+
+.modal-caixa {
+    width: 100%;
+    max-width: 420px;
+    max-height: 85vh;
+    overflow-y: auto;
+    padding: 24px 20px;
+    border-radius: 16px;
+    background: var(--branco);
+    color: var(--cinza-black);
+}
+
+.modal-caixa h2 {
+    margin-bottom: 12px;
+    color: var(--azul-profundo);
+}
+
+.modal-caixa ol {
+    display: grid;
+    gap: 10px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    list-style: decimal;
+    line-height: 1.4;
+}
+
+#btn-fechar-regras {
+    width: 100%;
+    padding: 14px;
+    border: 0;
+    border-radius: 12px;
+    background: var(--azul-vivido);
+    color: var(--branco);
+    font: inherit;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+/*erros*/
+
+#aviso-erro {
+    margin-top: 16px;
+    padding: 12px 16px;
+    border-radius: 12px;
+    background: var(--branco);
+    color: var(--racha-cuca-escuro);
+    font-weight: 600;
+    text-align: center;
+}
+
+button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+button:focus-visible,
+a:focus-visible {
+    outline: 3px solid var(--laranja);
+    outline-offset: 3px;
 }

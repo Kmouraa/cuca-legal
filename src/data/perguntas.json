@@ -1,0 +1,296 @@
+[
+  {
+    "id": "atualidades-novato-001",
+    "tema": "atualidades",
+    "nivel": "novato",
+    "pergunta": "Como se chama a tecnologia que permite acessar a internet sem fio em casa?",
+    "resposta": "Wi-Fi"
+  },
+  {
+    "id": "atualidades-novato-002",
+    "tema": "atualidades",
+    "nivel": "novato",
+    "pergunta": "Qual aplicativo de mensagens tem um ícone verde com um telefone?",
+    "resposta": "WhatsApp"
+  },
+  {
+    "id": "atualidades-sabichao-001",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual país sediou as Olimpíadas de 2016?",
+    "resposta": "Brasil (Rio de Janeiro)"
+  },
+  {
+    "id": "atualidades-sabichao-002",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual organização reúne a maioria dos países do mundo e tem sede em Nova York?",
+    "resposta": "ONU (Organização das Nações Unidas)"
+  },
+  {
+    "id": "atualidades-fera-001",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Quem era o presidente do Brasil durante a Copa do Mundo de 2014?",
+    "resposta": "Dilma Rousseff"
+  },
+  {
+    "id": "atualidades-fera-002",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual é o nome do acordo climático firmado em 2015 na capital francesa?",
+    "resposta": "Acordo de Paris"
+  },
+  {
+    "id": "ciencias-novato-001",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual planeta é conhecido como planeta vermelho?",
+    "resposta": "Marte"
+  },
+  {
+    "id": "ciencias-novato-002",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantas patas tem uma aranha?",
+    "resposta": "Oito"
+  },
+  {
+    "id": "ciencias-sabichao-001",
+    "tema": "ciencias",
+    "nivel": "sabichao",
+    "pergunta": "Qual é o símbolo químico do ouro?",
+    "resposta": "Au"
+  },
+  {
+    "id": "ciencias-sabichao-002",
+    "tema": "ciencias",
+    "nivel": "sabichao",
+    "pergunta": "Qual gás as plantas absorvem na fotossíntese?",
+    "resposta": "Gás carbônico (dióxido de carbono)"
+  },
+  {
+    "id": "ciencias-fera-001",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é a unidade de medida de força no Sistema Internacional?",
+    "resposta": "Newton"
+  },
+  {
+    "id": "ciencias-fera-002",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual organela celular é responsável pela produção de energia?",
+    "resposta": "Mitocôndria"
+  },
+  {
+    "id": "esportes-novato-001",
+    "tema": "esportes",
+    "nivel": "novato",
+    "pergunta": "Quantos jogadores de cada time ficam em campo numa partida de futebol?",
+    "resposta": "Onze"
+  },
+  {
+    "id": "esportes-novato-002",
+    "tema": "esportes",
+    "nivel": "novato",
+    "pergunta": "Em qual esporte o objetivo é fazer cestas?",
+    "resposta": "Basquete"
+  },
+  {
+    "id": "esportes-sabichao-001",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Em que país nasceu o futebol moderno?",
+    "resposta": "Inglaterra"
+  },
+  {
+    "id": "esportes-sabichao-002",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantos sets uma equipe precisa vencer para ganhar uma partida de vôlei no formato melhor de cinco?",
+    "resposta": "Três"
+  },
+  {
+    "id": "esportes-fera-001",
+    "tema": "esportes",
+    "nivel": "fera",
+    "pergunta": "Qual país venceu a Copa do Mundo de futebol masculino em 2002?",
+    "resposta": "Brasil"
+  },
+  {
+    "id": "esportes-fera-002",
+    "tema": "esportes",
+    "nivel": "fera",
+    "pergunta": "Qual nadador americano é o maior medalhista de ouro olímpico da história?",
+    "resposta": "Michael Phelps"
+  },
+  {
+    "id": "geografia-novato-001",
+    "tema": "geografia",
+    "nivel": "novato",
+    "pergunta": "Qual é a capital do Brasil?",
+    "resposta": "Brasília"
+  },
+  {
+    "id": "geografia-novato-002",
+    "tema": "geografia",
+    "nivel": "novato",
+    "pergunta": "Qual é o maior oceano do planeta?",
+    "resposta": "Oceano Pacífico"
+  },
+  {
+    "id": "geografia-sabichao-001",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital da Argentina?",
+    "resposta": "Buenos Aires"
+  },
+  {
+    "id": "geografia-sabichao-002",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é o maior país do mundo em área?",
+    "resposta": "Rússia"
+  },
+  {
+    "id": "geografia-fera-001",
+    "tema": "geografia",
+    "nivel": "fera",
+    "pergunta": "Qual é a capital da Austrália?",
+    "resposta": "Camberra"
+  },
+  {
+    "id": "geografia-fera-002",
+    "tema": "geografia",
+    "nivel": "fera",
+    "pergunta": "Qual é o menor país do mundo em área?",
+    "resposta": "Vaticano"
+  },
+  {
+    "id": "historia-novato-001",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Quem chegou ao Brasil em 1500 comandando a frota portuguesa?",
+    "resposta": "Pedro Álvares Cabral"
+  },
+  {
+    "id": "historia-novato-002",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Em que ano o Brasil declarou sua independência?",
+    "resposta": "1822"
+  },
+  {
+    "id": "historia-sabichao-001",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual princesa assinou a Lei Áurea em 1888?",
+    "resposta": "Princesa Isabel"
+  },
+  {
+    "id": "historia-sabichao-002",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual civilização antiga construiu as pirâmides de Gizé?",
+    "resposta": "A egípcia"
+  },
+  {
+    "id": "historia-fera-001",
+    "tema": "historia",
+    "nivel": "fera",
+    "pergunta": "Em que ano caiu o Muro de Berlim?",
+    "resposta": "1989"
+  },
+  {
+    "id": "historia-fera-002",
+    "tema": "historia",
+    "nivel": "fera",
+    "pergunta": "Quem liderou os bolcheviques na Revolução Russa de 1917?",
+    "resposta": "Lênin"
+  },
+  {
+    "id": "portugues-novato-001",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o plural de \"pão\"?",
+    "resposta": "Pães"
+  },
+  {
+    "id": "portugues-novato-002",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o antônimo de \"alto\"?",
+    "resposta": "Baixo"
+  },
+  {
+    "id": "portugues-sabichao-001",
+    "tema": "portugues",
+    "nivel": "sabichao",
+    "pergunta": "Qual é o aumentativo de \"casa\"?",
+    "resposta": "Casarão"
+  },
+  {
+    "id": "portugues-sabichao-002",
+    "tema": "portugues",
+    "nivel": "sabichao",
+    "pergunta": "Complete: Ele é um homem ___. (mal ou mau)",
+    "resposta": "Mau"
+  },
+  {
+    "id": "portugues-fera-001",
+    "tema": "portugues",
+    "nivel": "fera",
+    "pergunta": "Qual é a classe gramatical da palavra \"rapidamente\"?",
+    "resposta": "Advérbio"
+  },
+  {
+    "id": "portugues-fera-002",
+    "tema": "portugues",
+    "nivel": "fera",
+    "pergunta": "Qual é o coletivo de \"abelhas\"?",
+    "resposta": "Enxame"
+  },
+  {
+    "id": "racha-cuca-001",
+    "nivel": "racha-cuca",
+    "numero": 1,
+    "pergunta": "O que é, o que é? Cai em pé e corre deitada.",
+    "resposta": "A chuva"
+  },
+  {
+    "id": "racha-cuca-002",
+    "nivel": "racha-cuca",
+    "numero": 2,
+    "pergunta": "O que é, o que é? Quanto mais se tira, maior fica.",
+    "resposta": "O buraco"
+  },
+  {
+    "id": "racha-cuca-003",
+    "nivel": "racha-cuca",
+    "numero": 3,
+    "pergunta": "O que é, o que é? Tem coroa, mas não é rei; tem escamas, mas não é peixe.",
+    "resposta": "O abacaxi"
+  },
+  {
+    "id": "racha-cuca-004",
+    "nivel": "racha-cuca",
+    "numero": 4,
+    "pergunta": "O que é, o que é? Quanto mais seca, mais molhada fica.",
+    "resposta": "A toalha"
+  },
+  {
+    "id": "racha-cuca-005",
+    "nivel": "racha-cuca",
+    "numero": 5,
+    "pergunta": "O que é, o que é? Anda com os pés na cabeça.",
+    "resposta": "O piolho"
+  },
+  {
+    "id": "racha-cuca-006",
+    "nivel": "racha-cuca",
+    "numero": 6,
+    "pergunta": "O que é, o que é? Tem cidades, mas não tem casas; tem rios, mas não tem água.",
+    "resposta": "O mapa"
+  }
+]
