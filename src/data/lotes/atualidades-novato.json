@@ -1,0 +1,842 @@
+[
+    {
+        "id": "atualidades-novato-003",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual encanador de videogame usa boné vermelho e bigode?",
+        "resposta": "Mario"
+    },
+    {
+        "id": "atualidades-novato-004",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual personagem amarelo da Nintendo é famoso por soltar eletricidade?",
+        "resposta": "Pikachu"
+    },
+    {
+        "id": "atualidades-novato-005",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual jogo permite construir casas e explorar mundos feitos de blocos?",
+        "resposta": "Minecraft"
+    },
+    {
+        "id": "atualidades-novato-006",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual ouriço azul dos videogames é conhecido por correr muito rápido?",
+        "resposta": "Sonic"
+    },
+    {
+        "id": "atualidades-novato-007",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual jogo de celular ficou famoso por capturar criaturas usando a câmera e o GPS?",
+        "resposta": "Pokémon GO"
+    },
+    {
+        "id": "atualidades-novato-008",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual jogo de corrida da Nintendo tem pistas com cascos e bananas?",
+        "resposta": "Mario Kart"
+    },
+    {
+        "id": "atualidades-novato-009",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual jogo de futebol virtual é conhecido pela sigla FIFA?",
+        "resposta": "EA Sports FC (antigo FIFA)"
+    },
+    {
+        "id": "atualidades-novato-010",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual jogo de construção ficou famoso por seu modo de batalha entre muitos jogadores?",
+        "resposta": "Fortnite"
+    },
+    {
+        "id": "atualidades-novato-011",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual personagem de videogame usa uma roupa verde e costuma salvar a princesa Zelda?",
+        "resposta": "Link"
+    },
+    {
+        "id": "atualidades-novato-012",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual jogo de peças coloridas desafia os jogadores a completar linhas?",
+        "resposta": "Tetris"
+    },
+    {
+        "id": "atualidades-novato-013",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual programa de televisão brasileiro tem um palco com provas e o apresentador Silvio Santos?",
+        "resposta": "Programa Silvio Santos"
+    },
+    {
+        "id": "atualidades-novato-014",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual novela brasileira tem uma personagem chamada Nazaré Tedesco, famosa por seus memes?",
+        "resposta": "Senhora do Destino"
+    },
+    {
+        "id": "atualidades-novato-015",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual reality show brasileiro coloca participantes em uma casa vigiada por câmeras?",
+        "resposta": "Big Brother Brasil"
+    },
+    {
+        "id": "atualidades-novato-016",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual programa infantil brasileiro ficou conhecido por uma apresentadora com nave espacial?",
+        "resposta": "Xuxa"
+    },
+    {
+        "id": "atualidades-novato-017",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Em qual novela do sbt crianças passam por aventuras escolares?",
+        "resposta": "Carrossel"
+    },
+    {
+        "id": "atualidades-novato-018",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual programa de auditório brasileiro é conhecido pelo quadro 'passa ou repassa'?",
+        "resposta": "Domingo Legal"
+    },
+    {
+        "id": "atualidades-novato-019",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual novela brasileira acompanha a personagem Griselda, conhecida como Pereirão?",
+        "resposta": "Fina Estampa"
+    },
+    {
+        "id": "atualidades-novato-020",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual programa infantil tem um ratinho azul como personagem famoso?",
+        "resposta": "Topo Gigio"
+    },
+    {
+        "id": "atualidades-novato-021",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual programa de talentos musicais reúne cantores que se apresentam diante de jurados?",
+        "resposta": "The Voice"
+    },
+    {
+        "id": "atualidades-novato-022",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual série brasileira acompanha a rotina de estudantes no colégio fictício Elite Way?",
+        "resposta": "Rebelde"
+    },
+    {
+        "id": "atualidades-novato-023",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual filme de animação apresenta um brinquedo espacial chamado Buzz Lightyear?",
+        "resposta": "Toy Story"
+    },
+    {
+        "id": "atualidades-novato-024",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual herói da Marvel usa um escudo redondo com uma estrela no centro?",
+        "resposta": "Capitão América"
+    },
+    {
+        "id": "atualidades-novato-025",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual filme acompanha um ogro verde que vive em um pântano e faz amizade com um burro falante?",
+        "resposta": "Shrek"
+    },
+    {
+        "id": "atualidades-novato-026",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual saga de filmes acompanha um jovem bruxo que estuda em Hogwarts?",
+        "resposta": "Harry Potter"
+    },
+    {
+        "id": "atualidades-novato-027",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual filme da Disney apresenta duas irmãs chamadas Elsa e Anna?",
+        "resposta": "Frozen"
+    },
+    {
+        "id": "atualidades-novato-028",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual herói de Gotham City usa uma capa preta e um símbolo de morcego?",
+        "resposta": "Batman"
+    },
+    {
+        "id": "atualidades-novato-029",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual filme mostra brinquedos que ganham vida quando os humanos não estão olhando?",
+        "resposta": "Toy Story"
+    },
+    {
+        "id": "atualidades-novato-030",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual filme de animação acompanha uma família de super-heróis com o sobrenome Pêra?",
+        "resposta": "Os Incríveis"
+    },
+    {
+        "id": "atualidades-novato-031",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual série de fantasia mostra a disputa por um trono em um reino chamado Westeros?",
+        "resposta": "Game of Thrones"
+    },
+    {
+        "id": "atualidades-novato-032",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual filme da Pixar acompanha um robô que limpa o lixo em uma Terra abandonada?",
+        "resposta": "WALL-E"
+    },
+    {
+        "id": "atualidades-novato-033",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual série acompanha um grupo de amigos que enfrenta mistérios sobrenaturais em Hawkins?",
+        "resposta": "Stranger Things"
+    },
+    {
+        "id": "atualidades-novato-034",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual filme mostra um parque temático onde dinossauros recriados escapam do controle?",
+        "resposta": "Jurassic Park"
+    },
+    {
+        "id": "atualidades-novato-035",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual filme de animação acompanha um rato que sonha em cozinhar em Paris?",
+        "resposta": "Ratatouille"
+    },
+    {
+        "id": "atualidades-novato-036",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual série apresenta uma família amarela que vive na cidade fictícia de Springfield?",
+        "resposta": "Os Simpsons"
+    },
+    {
+        "id": "atualidades-novato-037",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual filme da Marvel apresenta um herói que encolhe usando um traje tecnológico?",
+        "resposta": "Homem-Formiga"
+    },
+    {
+        "id": "atualidades-novato-038",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual série acompanha um grupo de amigos que vive aventuras em uma cidade chamada South Park?",
+        "resposta": "South Park"
+    },
+    {
+        "id": "atualidades-novato-039",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual filme da Disney acompanha um leão chamado Simba?",
+        "resposta": "O Rei Leão"
+    },
+    {
+        "id": "atualidades-novato-040",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual série apresenta um cientista excêntrico chamado Rick e seu neto Morty?",
+        "resposta": "Rick and Morty"
+    },
+    {
+        "id": "atualidades-novato-041",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual filme de animação acompanha emoções como Alegria, Tristeza e Raiva dentro de uma menina?",
+        "resposta": "Divertida Mente"
+    },
+    {
+        "id": "atualidades-novato-042",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual série de filmes apresenta um arqueólogo aventureiro conhecido por usar chapéu e chicote?",
+        "resposta": "Indiana Jones"
+    },
+    {
+        "id": "atualidades-novato-043",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual cantor britânico ficou conhecido mundialmente pela música Shape of You?",
+        "resposta": "Ed Sheeran"
+    },
+    {
+        "id": "atualidades-novato-044",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual cantora brasileira lançou o sucesso Show das Poderosas?",
+        "resposta": "Anitta"
+    },
+    {
+        "id": "atualidades-novato-045",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual banda britânica gravou a música Hey Jude?",
+        "resposta": "The Beatles"
+    },
+    {
+        "id": "atualidades-novato-046",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual cantor ficou conhecido como o Rei do Pop?",
+        "resposta": "Michael Jackson"
+    },
+    {
+        "id": "atualidades-novato-047",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual cantora colombiana interpreta a música Hips Don't Lie?",
+        "resposta": "Shakira"
+    },
+    {
+        "id": "atualidades-novato-048",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual artista canta a música brasileira Evidências ao lado de Chitãozinho?",
+        "resposta": "Xororó"
+    },
+    {
+        "id": "atualidades-novato-049",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual cantora americana lançou o sucesso Firework?",
+        "resposta": "Katy Perry"
+    },
+    {
+        "id": "atualidades-novato-050",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual rapper americano é conhecido pelo nome artístico Eminem?",
+        "resposta": "Eminem"
+    },
+    {
+        "id": "atualidades-novato-051",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual cantora brasileira é conhecida pelo apelido de Rainha dos Baixinhos?",
+        "resposta": "Xuxa"
+    },
+    {
+        "id": "atualidades-novato-052",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual cantor havaiano ficou famoso pela versão de Somewhere Over the Rainbow com ukulele?",
+        "resposta": "Israel Kamakawiwo'ole"
+    },
+    {
+        "id": "atualidades-novato-053",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual cantora americana lançou o álbum Lemonade e ficou famosa com Single Ladies?",
+        "resposta": "Beyoncé"
+    },
+    {
+        "id": "atualidades-novato-054",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual cantor brasileiro é conhecido como o Rei da Música Sertaneja e gravou Pense em Mim?",
+        "resposta": "Leandro"
+    },
+    {
+        "id": "atualidades-novato-055",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual cantora americana interpretou a música My Heart Will Go On?",
+        "resposta": "Céline Dion"
+    },
+    {
+        "id": "atualidades-novato-056",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual grupo sul-coreano ficou famoso pela música Dynamite?",
+        "resposta": "BTS"
+    },
+    {
+        "id": "atualidades-novato-057",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual cantor brasileiro lançou a música Ai Se Eu Te Pego?",
+        "resposta": "Michel Teló"
+    },
+    {
+        "id": "atualidades-novato-058",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual cantora americana é conhecida pelo apelido de Material Girl?",
+        "resposta": "Madonna"
+    },
+    {
+        "id": "atualidades-novato-059",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual ator interpretou o personagem Toretto na franquia Velozes e Furiosos?",
+        "resposta": "Vin Diesel"
+    },
+    {
+        "id": "atualidades-novato-060",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual ator americano interpretou o personagem Jack Sparrow nos filmes de piratas?",
+        "resposta": "Johnny Depp"
+    },
+    {
+        "id": "atualidades-novato-061",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual atriz interpretou Hermione Granger nos filmes de um famoso jovem bruxo?",
+        "resposta": "Emma Watson"
+    },
+    {
+        "id": "atualidades-novato-062",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual ator interpreta o personagem Wolverine nos filmes dos X-Men?",
+        "resposta": "Hugh Jackman"
+    },
+    {
+        "id": "atualidades-novato-063",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual atriz brasileira interpretou Dona Flor na adaptação cinematográfica de 1976?",
+        "resposta": "Sônia Braga"
+    },
+    {
+        "id": "atualidades-novato-064",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual ator interpreta o personagem Mr. Bean na famosa comédia britânica?",
+        "resposta": "Rowan Atkinson"
+    },
+    {
+        "id": "atualidades-novato-065",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual atriz interpretou a personagem principal no filme O Diabo Veste Prada?",
+        "resposta": "Anne Hathaway"
+    },
+    {
+        "id": "atualidades-novato-066",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual ator interpretou o protagonista da série de filmes Rocky?",
+        "resposta": "Sylvester Stallone"
+    },
+    {
+        "id": "atualidades-novato-067",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual ator interpreta o personagem principal da franquia Missão: Impossível?",
+        "resposta": "Tom Cruise"
+    },
+    {
+        "id": "atualidades-novato-068",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual atriz interpreta a Mulher-Maravilha nos filmes lançados em 2017 e 2020?",
+        "resposta": "Gal Gadot"
+    },
+    {
+        "id": "atualidades-novato-069",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual ator interpretou o cientista Doc Brown na trilogia De Volta para o Futuro?",
+        "resposta": "Christopher Lloyd"
+    },
+    {
+        "id": "atualidades-novato-070",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual cantora colombiana é famosa por cantar musicas sobre a Copa do Mundo?",
+        "resposta": "Shakira"
+    },
+    {
+        "id": "atualidades-novato-071",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual plataforma de vídeos foi criada por três ex-funcionários do PayPal em 2005?",
+        "resposta": "YouTube"
+    },
+    {
+        "id": "atualidades-novato-072",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual rede social é conhecida por publicações chamadas de tweets?",
+        "resposta": "X (antigo Twitter)"
+    },
+    {
+        "id": "atualidades-novato-073",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual aplicativo permite enviar mensagens, fotos e áudios pelo celular usando a internet?",
+        "resposta": "WhatsApp"
+    },
+    {
+        "id": "atualidades-novato-074",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual rede social ficou famosa por compartilhar fotos, vídeos e Stories?",
+        "resposta": "Instagram"
+    },
+    {
+        "id": "atualidades-novato-075",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual rede social profissional é usada para divulgar currículos e vagas de emprego?",
+        "resposta": "LinkedIn"
+    },
+    {
+        "id": "atualidades-novato-076",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual aplicativo ficou famoso por vídeos curtos acompanhados de músicas e dublagens?",
+        "resposta": "TikTok"
+    },
+    {
+        "id": "atualidades-novato-077",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Como se chama a imagem ou animação usada para representar alguém em jogos e ambientes virtuais?",
+        "resposta": "Avatar"
+    },
+    {
+        "id": "atualidades-novato-078",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual serviço permite ouvir músicas pela internet e criar listas de reprodução?",
+        "resposta": "Spotify"
+    },
+    {
+        "id": "atualidades-novato-079",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Oque se fala quando um post se espalha rapidamente pela internet?",
+        "resposta": "Viralizou"
+    },
+    {
+        "id": "atualidades-novato-080",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual ferramenta do Google permite encontrar páginas, imagens e informações na internet?",
+        "resposta": "Google Pesquisa"
+    },
+    {
+        "id": "atualidades-novato-081",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Como se chama uma transmissão de vídeo feita ao vivo pela internet?",
+        "resposta": "Live"
+    },
+    {
+        "id": "atualidades-novato-082",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual plataforma ficou conhecida por transmissões ao vivo de jogos e conversas com espectadores?",
+        "resposta": "Twitch"
+    },
+    {
+        "id": "atualidades-novato-083",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual aparelho usamos para fazer ligações, tirar fotos e acessar aplicativos fora de casa?",
+        "resposta": "Celular"
+    },
+    {
+        "id": "atualidades-novato-084",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual dispositivo transforma documentos de papel em arquivos digitais?",
+        "resposta": "Scanner"
+    },
+    {
+        "id": "atualidades-novato-085",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual aparelho usamos para mudar de canal e controlar o volume da televisão à distância?",
+        "resposta": "Controle remoto"
+    },
+    {
+        "id": "atualidades-novato-086",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual tecnologia sem fio permite conectar fones de ouvido a um celular sem usar cabos?",
+        "resposta": "Bluetooth"
+    },
+    {
+        "id": "atualidades-novato-087",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual peça do computador mostra imagens, textos e vídeos na tela?",
+        "resposta": "Monitor"
+    },
+    {
+        "id": "atualidades-novato-088",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual aparelho distribui a conexão sem fio para celulares e computadores em casa?",
+        "resposta": "Roteador Wi-Fi"
+    },
+    {
+        "id": "atualidades-novato-089",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual equipamento usamos para imprimir textos e imagens em folhas de papel?",
+        "resposta": "Impressora"
+    },
+    {
+        "id": "atualidades-novato-090",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual tecnologia permite pagar uma compra aproximando o cartão da maquininha?",
+        "resposta": "Pagamento por aproximação"
+    },
+    {
+        "id": "atualidades-novato-091",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual código quadrado pode ser lido pela câmera do celular para abrir um endereço na internet?",
+        "resposta": "QR Code"
+    },
+    {
+        "id": "atualidades-novato-092",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual peça portátil armazena energia para recarregar um celular longe da tomada?",
+        "resposta": "Power bank"
+    },
+    {
+        "id": "atualidades-novato-093",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "O que devemos separar do lixo comum para facilitar a fabricação de novos produtos?",
+        "resposta": "Materiais recicláveis"
+    },
+    {
+        "id": "atualidades-novato-094",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual recipiente colorido costuma receber garrafas e potes de vidro na coleta seletiva?",
+        "resposta": "Coletor verde"
+    },
+    {
+        "id": "atualidades-novato-095",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Como se chama o processo de transformar restos de alimentos em adubo natural?",
+        "resposta": "Compostagem"
+    },
+    {
+        "id": "atualidades-novato-096",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual fonte de energia aproveita a luz do Sol para produzir eletricidade?",
+        "resposta": "Energia solar"
+    },
+    {
+        "id": "atualidades-novato-097",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual fonte de energia usa a força do vento para movimentar turbinas?",
+        "resposta": "Energia eólica"
+    },
+    {
+        "id": "atualidades-novato-098",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual gás liberado pela queima de combustíveis contribui para o aquecimento global?",
+        "resposta": "Dióxido de carbono"
+    },
+    {
+        "id": "atualidades-novato-099",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Como se chama a variedade de seres vivos que existem em uma região ou no planeta?",
+        "resposta": "Biodiversidade"
+    },
+    {
+        "id": "atualidades-novato-100",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual fenômeno acontece quando grandes áreas de vegetação são derrubadas ou destruídas?",
+        "resposta": "Desmatamento"
+    },
+    {
+        "id": "atualidades-novato-101",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual camada de gases ao redor da Terra ajuda a proteger o planeta e manter o ar?",
+        "resposta": "Atmosfera"
+    },
+    {
+        "id": "atualidades-novato-102",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Que atitude simples ajuda a economizar água enquanto escovamos os dentes?",
+        "resposta": "Fechar a torneira"
+    },
+    {
+        "id": "atualidades-novato-103",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual material é muito usado em embalagens de bebidas e pode ser reciclado várias vezes?",
+        "resposta": "Alumínio"
+    },
+    {
+        "id": "atualidades-novato-104",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção permite registrar imagens de pessoas, lugares e acontecimentos?",
+        "resposta": "Câmera fotográfica"
+    },
+    {
+        "id": "atualidades-novato-105",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção permite conversar com alguém que está longe usando a voz?",
+        "resposta": "Telefone"
+    },
+    {
+        "id": "atualidades-novato-106",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção tornou possível viajar rapidamente por trilhos usando locomotivas?",
+        "resposta": "Trem"
+    },
+    {
+        "id": "atualidades-novato-107",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção é usada para enxergar objetos muito pequenos, como células, ampliados?",
+        "resposta": "Microscópio"
+    },
+    {
+        "id": "atualidades-novato-108",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção ajuda a observar estrelas e planetas distantes no céu?",
+        "resposta": "Telescópio"
+    },
+    {
+        "id": "atualidades-novato-109",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual objeto inventado ajuda a encontrar o norte usando uma agulha magnética?",
+        "resposta": "Bússola"
+    },
+    {
+        "id": "atualidades-novato-110",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção permite transportar pessoas e cargas por estradas usando rodas e motor?",
+        "resposta": "Automóvel"
+    },
+    {
+        "id": "atualidades-novato-111",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção de duas rodas é movida pelos pedais e ajuda a fazer exercícios?",
+        "resposta": "Bicicleta"
+    },
+    {
+        "id": "atualidades-novato-112",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção permite conservar alimentos frios dentro de casa por vários dias?",
+        "resposta": "Geladeira"
+    },
+    {
+        "id": "atualidades-novato-113",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção usa ondas para aquecer alimentos rapidamente em um recipiente?",
+        "resposta": "Forno de micro-ondas"
+    },
+    {
+        "id": "atualidades-novato-114",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção de Johannes Gutenberg ajudou a produzir livros em grande quantidade?",
+        "resposta": "Imprensa de tipos móveis"
+    },
+    {
+        "id": "atualidades-novato-115",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção permite registrar palavras e ideias usando tinta sobre papel?",
+        "resposta": "Caneta"
+    },
+    {
+        "id": "atualidades-novato-116",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção transforma energia elétrica em luz para iluminar ambientes?",
+        "resposta": "Lâmpada"
+    },
+    {
+        "id": "atualidades-novato-117",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual equipamento inventado permite lavar roupas automaticamente com água e sabão?",
+        "resposta": "Máquina de lavar"
+    },
+    {
+        "id": "atualidades-novato-118",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção ajuda a subir ou descer entre andares sem usar escadas?",
+        "resposta": "Elevador"
+    },
+    {
+        "id": "atualidades-novato-119",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção permite voar transportando passageiros entre cidades e países?",
+        "resposta": "Avião"
+    },
+    {
+        "id": "atualidades-novato-120",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual objeto inventado ajuda a corrigir a visão e fica apoiado sobre o nariz e as orelhas?",
+        "resposta": "Óculos"
+    },
+    {
+        "id": "atualidades-novato-121",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção permite medir a temperatura do corpo ou de outros objetos?",
+        "resposta": "Termômetro"
+    },
+    {
+        "id": "atualidades-novato-122",
+        "tema": "atualidades",
+        "nivel": "novato",
+        "pergunta": "Qual invenção usa lentes para ampliar letras pequenas em livros e jornais?",
+        "resposta": "Lupa"
+    }
+]
