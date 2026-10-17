@@ -1,0 +1,842 @@
+[
+  {
+    "id": "ciencias-novato-003",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual órgão do corpo faz tum-tum e bombeia o sangue?",
+    "resposta": "Coração"
+  },
+  {
+    "id": "ciencias-novato-004",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Com qual órgão do corpo nós enxergamos?",
+    "resposta": "Olhos (olho)"
+  },
+  {
+    "id": "ciencias-novato-005",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quais órgãos, em par, enchem de ar quando respiramos?",
+    "resposta": "Pulmões (pulmão)"
+  },
+  {
+    "id": "ciencias-novato-006",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantos dedos temos nas duas mãos, somando todos?",
+    "resposta": "10 (dez)"
+  },
+  {
+    "id": "ciencias-novato-007",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual órgão, protegido pelo crânio, comanda os pensamentos e movimentos?",
+    "resposta": "Cérebro"
+  },
+  {
+    "id": "ciencias-novato-008",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Como se chama cada peça dura que forma o esqueleto humano?",
+    "resposta": "Osso (ossos)"
+  },
+  {
+    "id": "ciencias-novato-009",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Com qual parte do rosto sentimos cheiros?",
+    "resposta": "Nariz"
+  },
+  {
+    "id": "ciencias-novato-010",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual parte da boca usamos para sentir o sabor da comida?",
+    "resposta": "Língua"
+  },
+  {
+    "id": "ciencias-novato-011",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Visão, audição, olfato, paladar e tato: quantos sentidos são esses?",
+    "resposta": "5 (cinco)"
+  },
+  {
+    "id": "ciencias-novato-012",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual parte do corpo cobre tudo por fora e nos protege?",
+    "resposta": "Pele"
+  },
+  {
+    "id": "ciencias-novato-013",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual líquido vermelho circula no corpo e sai quando nos machucamos?",
+    "resposta": "Sangue"
+  },
+  {
+    "id": "ciencias-novato-014",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual parte do corpo liga a cabeça ao tronco?",
+    "resposta": "Pescoço"
+  },
+  {
+    "id": "ciencias-novato-015",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual parte do corpo nos permite escutar os sons?",
+    "resposta": "Orelha (ouvido)"
+  },
+  {
+    "id": "ciencias-novato-016",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual órgão, em forma de saco, recebe a comida depois que a engolimos?",
+    "resposta": "Estômago"
+  },
+  {
+    "id": "ciencias-novato-017",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual animal de juba é conhecido como o rei da selva?",
+    "resposta": "Leão"
+  },
+  {
+    "id": "ciencias-novato-018",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual é o maior animal do mundo, que vive nos oceanos?",
+    "resposta": "Baleia-azul (baleia)"
+  },
+  {
+    "id": "ciencias-novato-019",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Como se chama o grupo de animais que têm penas, bico e asas?",
+    "resposta": "Aves (ave, pássaros)"
+  },
+  {
+    "id": "ciencias-novato-020",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual inseto listrado produz o mel que comemos?",
+    "resposta": "Abelha"
+  },
+  {
+    "id": "ciencias-novato-021",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual animal parecido com um cavalo tem listras pretas e brancas?",
+    "resposta": "Zebra"
+  },
+  {
+    "id": "ciencias-novato-022",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual animal enorme tem tromba e presas de marfim?",
+    "resposta": "Elefante"
+  },
+  {
+    "id": "ciencias-novato-023",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual é o animal terrestre mais alto, de pescoço muito comprido?",
+    "resposta": "Girafa"
+  },
+  {
+    "id": "ciencias-novato-024",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual réptil lento carrega um casco duro nas costas?",
+    "resposta": "Tartaruga (jabuti, cágado)"
+  },
+  {
+    "id": "ciencias-novato-025",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual é o único mamífero capaz de voar de verdade?",
+    "resposta": "Morcego"
+  },
+  {
+    "id": "ciencias-novato-026",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual inseto de asas coloridas nasce de um casulo, depois de ser lagarta?",
+    "resposta": "Borboleta"
+  },
+  {
+    "id": "ciencias-novato-027",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual animal é chamado de melhor amigo do homem?",
+    "resposta": "Cachorro (cão)"
+  },
+  {
+    "id": "ciencias-novato-028",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual animal marinho de oito braços com ventosas tem a cabeça redonda?",
+    "resposta": "Polvo"
+  },
+  {
+    "id": "ciencias-novato-029",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual ave que não voa, nada muito bem e vive em lugares gelados?",
+    "resposta": "Pinguim"
+  },
+  {
+    "id": "ciencias-novato-030",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual parte da planta fica embaixo da terra e absorve a água?",
+    "resposta": "Raiz (raízes)"
+  },
+  {
+    "id": "ciencias-novato-031",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual parte verde e achatada da planta capta a luz do sol?",
+    "resposta": "Folha (folhas)"
+  },
+  {
+    "id": "ciencias-novato-032",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual parte colorida e perfumada da planta dá origem ao fruto?",
+    "resposta": "Flor (flores)"
+  },
+  {
+    "id": "ciencias-novato-033",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Como se chama o processo em que a planta usa a luz do sol para fazer seu alimento?",
+    "resposta": "Fotossíntese"
+  },
+  {
+    "id": "ciencias-novato-034",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Além de luz, qual líquido as plantas precisam receber para crescer?",
+    "resposta": "Água"
+  },
+  {
+    "id": "ciencias-novato-035",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual parte da árvore sustenta os galhos e fica entre a raiz e a copa?",
+    "resposta": "Tronco (caule)"
+  },
+  {
+    "id": "ciencias-novato-036",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual planta cheia de espinhos vive no deserto e guarda água dentro?",
+    "resposta": "Cacto"
+  },
+  {
+    "id": "ciencias-novato-037",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual planta oca e muito resistente é o alimento preferido dos pandas?",
+    "resposta": "Bambu"
+  },
+  {
+    "id": "ciencias-novato-038",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual flor amarela gigante dá sementes que viram óleo e petisco?",
+    "resposta": "Girassol"
+  },
+  {
+    "id": "ciencias-novato-039",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual planta rasteira e verde cobre os campos de futebol?",
+    "resposta": "Grama (gramado)"
+  },
+  {
+    "id": "ciencias-novato-040",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual fruta grande tem casca verde, polpa vermelha e sementes pretas?",
+    "resposta": "Melancia"
+  },
+  {
+    "id": "ciencias-novato-041",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual raiz alaranjada, que coelhos adoram, é comida crua ou cozida?",
+    "resposta": "Cenoura"
+  },
+  {
+    "id": "ciencias-novato-042",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual cereal, plantado em grandes campos, vira a farinha usada para fazer pão?",
+    "resposta": "Trigo"
+  },
+  {
+    "id": "ciencias-novato-043",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quando a água do freezer congela, em qual estado físico ela fica?",
+    "resposta": "Sólido (gelo)"
+  },
+  {
+    "id": "ciencias-novato-044",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Em qual estado físico a água fica quando ferve e vira vapor?",
+    "resposta": "Gasoso (gás)"
+  },
+  {
+    "id": "ciencias-novato-045",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual é a fórmula química da água, que todo mundo conhece?",
+    "resposta": "H2O"
+  },
+  {
+    "id": "ciencias-novato-046",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Que força invisível puxa os objetos para o chão quando os soltamos?",
+    "resposta": "Gravidade"
+  },
+  {
+    "id": "ciencias-novato-047",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual objeto com dois polos atrai pedaços de ferro?",
+    "resposta": "Ímã (imã)"
+  },
+  {
+    "id": "ciencias-novato-048",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual material transparente, feito de areia, quebra fácil e vira copos e janelas?",
+    "resposta": "Vidro"
+  },
+  {
+    "id": "ciencias-novato-049",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "O que faz a lâmpada de casa acender quando apertamos o interruptor?",
+    "resposta": "Eletricidade (energia elétrica)"
+  },
+  {
+    "id": "ciencias-novato-050",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual verbo descreve o gelo virando água quando esquenta?",
+    "resposta": "Derreter (derretimento, fusão)"
+  },
+  {
+    "id": "ciencias-novato-051",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual instrumento mede a temperatura do corpo quando estamos com febre?",
+    "resposta": "Termômetro"
+  },
+  {
+    "id": "ciencias-novato-052",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual gás do ar precisamos respirar para viver?",
+    "resposta": "Oxigênio"
+  },
+  {
+    "id": "ciencias-novato-053",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual instrumento, com agulha magnética, aponta sempre para o Norte?",
+    "resposta": "Bússola"
+  },
+  {
+    "id": "ciencias-novato-054",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual material leve e moldável é usado em garrafas PET e sacolas?",
+    "resposta": "Plástico"
+  },
+  {
+    "id": "ciencias-novato-055",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual combustível, extraído do fundo da terra, vira gasolina?",
+    "resposta": "Petróleo"
+  },
+  {
+    "id": "ciencias-novato-056",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "O que devemos lavar com água e sabão antes de comer?",
+    "resposta": "Mãos (mão)"
+  },
+  {
+    "id": "ciencias-novato-057",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual objeto com cerdas e pasta usamos para limpar a boca depois de comer?",
+    "resposta": "Escova de dentes (escova)"
+  },
+  {
+    "id": "ciencias-novato-058",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual bebida branca vem da vaca e é rica em cálcio?",
+    "resposta": "Leite"
+  },
+  {
+    "id": "ciencias-novato-059",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "O que se aplica com uma agulha para nos proteger de doenças?",
+    "resposta": "Vacina"
+  },
+  {
+    "id": "ciencias-novato-060",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual aparelho apoiado no peito permite ouvir as batidas do coração?",
+    "resposta": "Estetoscópio"
+  },
+  {
+    "id": "ciencias-novato-061",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual grupo de alimentos verdes, como alface e couve, faz bem à saúde?",
+    "resposta": "Verduras (verdura, hortaliças)"
+  },
+  {
+    "id": "ciencias-novato-062",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual doença comum causa febre, tosse e nariz entupido?",
+    "resposta": "Gripe (resfriado)"
+  },
+  {
+    "id": "ciencias-novato-063",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "O que fazemos à noite para descansar o corpo e a mente?",
+    "resposta": "Dormir (sono)"
+  },
+  {
+    "id": "ciencias-novato-064",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual fruta amarela e comprida, que vem em cachos, é a favorita dos macacos?",
+    "resposta": "Banana"
+  },
+  {
+    "id": "ciencias-novato-065",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual fruta vermelha em forma de coração tem sementinhas do lado de fora?",
+    "resposta": "Morango"
+  },
+  {
+    "id": "ciencias-novato-066",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual profissional de jaleco branco cuida de quem está doente?",
+    "resposta": "Médico (médica)"
+  },
+  {
+    "id": "ciencias-novato-067",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual alimento derrete no forno e é a base da pizza de muçarela?",
+    "resposta": "Queijo"
+  },
+  {
+    "id": "ciencias-novato-068",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual grão de caldo escuro é servido com arroz em quase toda casa brasileira?",
+    "resposta": "Feijão"
+  },
+  {
+    "id": "ciencias-novato-069",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual doce feito de cacau é o preferido de muita criança?",
+    "resposta": "Chocolate"
+  },
+  {
+    "id": "ciencias-novato-070",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Que fenômeno colorido aparece no céu quando o sol brilha logo depois de uma garoa?",
+    "resposta": "Arco-íris"
+  },
+  {
+    "id": "ciencias-novato-071",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual estrela fornece luz e calor para a Terra?",
+    "resposta": "Sol"
+  },
+  {
+    "id": "ciencias-novato-072",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual satélite natural gira ao redor da Terra e brilha à noite?",
+    "resposta": "Lua"
+  },
+  {
+    "id": "ciencias-novato-073",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual estação do ano vem depois do inverno e é cheia de flores?",
+    "resposta": "Primavera"
+  },
+  {
+    "id": "ciencias-novato-074",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual é a estação do ano mais quente?",
+    "resposta": "Verão"
+  },
+  {
+    "id": "ciencias-novato-075",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual clarão de luz cruza o céu durante uma tempestade?",
+    "resposta": "Relâmpago (raio)"
+  },
+  {
+    "id": "ciencias-novato-076",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Como se chama o estrondo que ouvimos no céu durante uma tempestade?",
+    "resposta": "Trovão"
+  },
+  {
+    "id": "ciencias-novato-077",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quais massas brancas ou cinzentas de vapor flutuam no céu?",
+    "resposta": "Nuvens (nuvem)"
+  },
+  {
+    "id": "ciencias-novato-078",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual é o nome da maior floresta tropical do planeta, no Norte do Brasil?",
+    "resposta": "Amazônia"
+  },
+  {
+    "id": "ciencias-novato-079",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual é o nome da água congelada que cai do céu como flocos brancos?",
+    "resposta": "Neve"
+  },
+  {
+    "id": "ciencias-novato-080",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Como chamamos as gotas de água que caem do céu quando o tempo fecha?",
+    "resposta": "Chuva"
+  },
+  {
+    "id": "ciencias-novato-081",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual é o nome do planeta onde nós vivemos?",
+    "resposta": "Terra"
+  },
+  {
+    "id": "ciencias-novato-082",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Como se chamam os pontinhos brilhantes que vemos no céu à noite?",
+    "resposta": "Estrelas (estrela)"
+  },
+  {
+    "id": "ciencias-novato-083",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual brasileiro construiu o avião 14-Bis?",
+    "resposta": "Santos Dumont (Alberto Santos Dumont)"
+  },
+  {
+    "id": "ciencias-novato-084",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual invenção redonda, muito antiga, está em carros e carroças?",
+    "resposta": "Roda (rodas)"
+  },
+  {
+    "id": "ciencias-novato-085",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual objeto com duas lentes e armação ajuda quem enxerga mal?",
+    "resposta": "Óculos"
+  },
+  {
+    "id": "ciencias-novato-086",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual instrumento ajuda a ver estrelas e planetas bem de perto?",
+    "resposta": "Telescópio"
+  },
+  {
+    "id": "ciencias-novato-087",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual cientista americano aperfeiçoou a lâmpada elétrica?",
+    "resposta": "Thomas Edison (Edison)"
+  },
+  {
+    "id": "ciencias-novato-088",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual invenção usamos para saber as horas?",
+    "resposta": "Relógio"
+  },
+  {
+    "id": "ciencias-novato-089",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual invenção feita de folhas de papel encadernadas guarda histórias e conhecimento?",
+    "resposta": "Livro"
+  },
+  {
+    "id": "ciencias-novato-090",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual máquina com teclado e tela usamos para trabalhar, estudar e jogar?",
+    "resposta": "Computador (PC, notebook)"
+  },
+  {
+    "id": "ciencias-novato-091",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual aparelho, hoje no bolso de quase todo mundo, permite falar com quem está longe?",
+    "resposta": "Telefone (celular)"
+  },
+  {
+    "id": "ciencias-novato-092",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual veículo é movido a pedal, tem guidão e selim?",
+    "resposta": "Bicicleta (bike)"
+  },
+  {
+    "id": "ciencias-novato-093",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantos minutos tem uma hora?",
+    "resposta": "60 (sessenta)"
+  },
+  {
+    "id": "ciencias-novato-094",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantas horas tem um dia inteiro?",
+    "resposta": "24 (vinte e quatro)"
+  },
+  {
+    "id": "ciencias-novato-095",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantos dias tem uma semana?",
+    "resposta": "7 (sete)"
+  },
+  {
+    "id": "ciencias-novato-096",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantos meses tem um ano?",
+    "resposta": "12 (doze)"
+  },
+  {
+    "id": "ciencias-novato-097",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantos lados tem um triângulo?",
+    "resposta": "3 (três)"
+  },
+  {
+    "id": "ciencias-novato-098",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantos lados tem um quadrado?",
+    "resposta": "4 (quatro)"
+  },
+  {
+    "id": "ciencias-novato-099",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantos centavos formam um real?",
+    "resposta": "100 (cem)"
+  },
+  {
+    "id": "ciencias-novato-100",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quanto é a metade de 20?",
+    "resposta": "10 (dez)"
+  },
+  {
+    "id": "ciencias-novato-101",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quanto é o dobro de 17?",
+    "resposta": "34 (trinta e quatro)"
+  },
+  {
+    "id": "ciencias-novato-102",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quanto é 7 mais 8?",
+    "resposta": "15 (quinze)"
+  },
+  {
+    "id": "ciencias-novato-103",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quanto é 9 vezes 3?",
+    "resposta": "27 (vinte e sete)"
+  },
+  {
+    "id": "ciencias-novato-104",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Você tinha 20 balas e comeu 6. Quantas sobraram?",
+    "resposta": "14 (catorze, quatorze)"
+  },
+  {
+    "id": "ciencias-novato-105",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantos metros tem um quilômetro?",
+    "resposta": "1000 (mil)"
+  },
+  {
+    "id": "ciencias-novato-106",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantos dias tem fevereiro em um ano comum?",
+    "resposta": "28 (vinte e oito)"
+  },
+  {
+    "id": "ciencias-novato-107",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual figura geométrica é redonda e não tem lados nem cantos?",
+    "resposta": "Círculo (circunferência)"
+  },
+  {
+    "id": "ciencias-novato-108",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantas patas têm dois cachorros juntos?",
+    "resposta": "8 (oito)"
+  },
+  {
+    "id": "ciencias-novato-109",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantos minutos tem meia hora?",
+    "resposta": "30 (trinta)"
+  },
+  {
+    "id": "ciencias-novato-110",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quanto é 3 vezes 3?",
+    "resposta": "9 (nove)"
+  },
+  {
+    "id": "ciencias-novato-111",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Que número vem logo antes de mil?",
+    "resposta": "999 (novecentos e noventa e nove)"
+  },
+  {
+    "id": "ciencias-novato-112",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual letra representa o número dez nos algarismos romanos?",
+    "resposta": "X"
+  },
+  {
+    "id": "ciencias-novato-113",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantos ovos tem meia dúzia?",
+    "resposta": "6 (seis)"
+  },
+  {
+    "id": "ciencias-novato-114",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantos dias tem um ano comum?",
+    "resposta": "365 (trezentos e sessenta e cinco)"
+  },
+  {
+    "id": "ciencias-novato-115",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quanto é 8 vezes 5?",
+    "resposta": "40 (quarenta)"
+  },
+  {
+    "id": "ciencias-novato-116",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quanto é a metade de 100?",
+    "resposta": "50 (cinquenta)"
+  },
+  {
+    "id": "ciencias-novato-117",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Um lanche custa 8 reais. Quanto pago por dois lanches?",
+    "resposta": "16 (dezesseis)"
+  },
+  {
+    "id": "ciencias-novato-118",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Você paga 13 reais com uma nota de 20. Qual é o troco?",
+    "resposta": "7 (sete)"
+  },
+  {
+    "id": "ciencias-novato-119",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual figura tem quatro lados, dois compridos e dois curtos?",
+    "resposta": "Retângulo"
+  },
+  {
+    "id": "ciencias-novato-120",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Quantos zeros tem o número cem?",
+    "resposta": "2 (dois)"
+  },
+  {
+    "id": "ciencias-novato-121",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual objeto com números marcados mede o comprimento de um lápis?",
+    "resposta": "Régua"
+  },
+  {
+    "id": "ciencias-novato-122",
+    "tema": "ciencias",
+    "nivel": "novato",
+    "pergunta": "Qual unidade usamos para medir o peso de uma pessoa?",
+    "resposta": "Quilograma (quilo, kg)"
+  }
+]

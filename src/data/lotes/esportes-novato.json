@@ -1,0 +1,842 @@
+[
+    {
+        "id": "esportes-novato-003",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Quantos jogadores cada time coloca em campo, contando o goleiro?",
+        "resposta": "11 (onze)"
+    },
+    {
+        "id": "esportes-novato-004",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual jogador pode usar as mãos dentro da própria área?",
+        "resposta": "Goleiro (goleira)"
+    },
+    {
+        "id": "esportes-novato-005",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Quantos minutos dura uma partida de futebol, sem contar os acréscimos?",
+        "resposta": "90 (noventa)"
+    },
+    {
+        "id": "esportes-novato-006",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Em quantos tempos é dividida uma partida de futebol?",
+        "resposta": "2 (dois)"
+    },
+    {
+        "id": "esportes-novato-007",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual cartão o árbitro mostra para expulsar um jogador?",
+        "resposta": "Vermelho"
+    },
+    {
+        "id": "esportes-novato-008",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual cartão o árbitro mostra como advertência?",
+        "resposta": "Amarelo"
+    },
+    {
+        "id": "esportes-novato-009",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chama a cobrança de falta dentro da área, só com o goleiro na frente?",
+        "resposta": "Pênalti (penalidade máxima)"
+    },
+    {
+        "id": "esportes-novato-010",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chama o lance em que a bola entra entre as traves e vale um ponto?",
+        "resposta": "Gol"
+    },
+    {
+        "id": "esportes-novato-011",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual objeto o árbitro sopra para parar o jogo?",
+        "resposta": "Apito"
+    },
+    {
+        "id": "esportes-novato-012",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte usa traves, chuteiras e bola redonda?",
+        "resposta": "Futebol"
+    },
+    {
+        "id": "esportes-novato-013",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual acessório, usado nas pernas por baixo da meia, protege o jogador de chutes?",
+        "resposta": "Caneleira"
+    },
+    {
+        "id": "esportes-novato-014",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chama a pausa entre o primeiro e o segundo tempo?",
+        "resposta": "Intervalo"
+    },
+    {
+        "id": "esportes-novato-015",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual jogador fica mais à frente do time, perto da área adversária, tentando marcar?",
+        "resposta": "Atacante (centroavante)"
+    },
+    {
+        "id": "esportes-novato-016",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual jogador fica perto do goleiro para impedir os ataques do adversário?",
+        "resposta": "Zagueiro (defensor, beque)"
+    },
+    {
+        "id": "esportes-novato-017",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "A cada quantos anos acontece a Copa do Mundo masculina?",
+        "resposta": "4 (quatro)"
+    },
+    {
+        "id": "esportes-novato-018",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chamam os times que representam países na Copa do Mundo?",
+        "resposta": "Seleções (seleção)"
+    },
+    {
+        "id": "esportes-novato-019",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual sigla da entidade que organiza a Copa do Mundo de futebol?",
+        "resposta": "FIFA"
+    },
+    {
+        "id": "esportes-novato-020",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual é a cor do troféu entregue ao campeão da Copa do Mundo?",
+        "resposta": "Dourado (dourada, ouro)"
+    },
+    {
+        "id": "esportes-novato-021",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual seleção de Messi levantou a taça da Copa de 2022?",
+        "resposta": "Argentina"
+    },
+    {
+        "id": "esportes-novato-022",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual país do Oriente Médio sediou a Copa de 2022?",
+        "resposta": "Catar (Qatar)"
+    },
+    {
+        "id": "esportes-novato-023",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual país da Torre Eiffel foi campeão da Copa de 2018?",
+        "resposta": "França"
+    },
+    {
+        "id": "esportes-novato-024",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual jogador, chamado de Rei do Futebol, ganhou três Copas do Mundo com o Brasil?",
+        "resposta": "Pelé"
+    },
+    {
+        "id": "esportes-novato-025",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chama a fase da Copa em que quem perde é eliminado na hora?",
+        "resposta": "Mata-mata"
+    },
+    {
+        "id": "esportes-novato-026",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual partida decide quem leva a taça da Copa do Mundo?",
+        "resposta": "Final (a final)"
+    },
+    {
+        "id": "esportes-novato-027",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chama o jogador que faz mais gols em um campeonato?",
+        "resposta": "Artilheiro"
+    },
+    {
+        "id": "esportes-novato-028",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "De quantos em quantos anos acontecem os Jogos Olímpicos de verão?",
+        "resposta": "4 (quatro)"
+    },
+    {
+        "id": "esportes-novato-029",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Quantos anéis coloridos entrelaçados formam o símbolo olímpico?",
+        "resposta": "5 (cinco)"
+    },
+    {
+        "id": "esportes-novato-030",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual metal brilhante e amarelo é usado na medalha do primeiro lugar?",
+        "resposta": "Ouro"
+    },
+    {
+        "id": "esportes-novato-031",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual metal avermelhado é usado na medalha do terceiro lugar?",
+        "resposta": "Bronze"
+    },
+    {
+        "id": "esportes-novato-032",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual objeto é aceso com os raios do sol e levado em revezamento até o estádio dos Jogos?",
+        "resposta": "Tocha (chama olímpica)"
+    },
+    {
+        "id": "esportes-novato-033",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Em qual país da Europa nasceram os Jogos Olímpicos da Antiguidade?",
+        "resposta": "Grécia"
+    },
+    {
+        "id": "esportes-novato-034",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Em qual cidade, famosa pelo Cristo Redentor, aconteceram os Jogos Olímpicos de 2016?",
+        "resposta": "Rio de Janeiro (Rio)"
+    },
+    {
+        "id": "esportes-novato-035",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte olímpico tem trave, argolas e barras e exige muita flexibilidade?",
+        "resposta": "Ginástica (ginástica artística)"
+    },
+    {
+        "id": "esportes-novato-036",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte olímpico é feito em piscina, com estilos como crawl e borboleta?",
+        "resposta": "Natação"
+    },
+    {
+        "id": "esportes-novato-037",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte olímpico tem rede alta e bola que não pode cair no seu lado da quadra?",
+        "resposta": "Vôlei (voleibol)"
+    },
+    {
+        "id": "esportes-novato-038",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte olímpico é jogado com cesta e bola laranja?",
+        "resposta": "Basquete (basquetebol)"
+    },
+    {
+        "id": "esportes-novato-039",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte olímpico de inverno usa uma prancha nos pés para descer montanhas de neve?",
+        "resposta": "Snowboard"
+    },
+    {
+        "id": "esportes-novato-040",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte olímpico tem provas de pedal em pista e estrada?",
+        "resposta": "Ciclismo"
+    },
+    {
+        "id": "esportes-novato-041",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte olímpico reúne corrida, salto e arremesso?",
+        "resposta": "Atletismo"
+    },
+    {
+        "id": "esportes-novato-042",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte olímpico, com raquete e bola amarela, é jogado em quadras de saibro ou grama?",
+        "resposta": "Tênis"
+    },
+    {
+        "id": "esportes-novato-043",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Quantos jogadores de cada time ficam em quadra no vôlei?",
+        "resposta": "6 (seis)"
+    },
+    {
+        "id": "esportes-novato-044",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chama o golpe que inicia cada jogada, feito atrás da linha de fundo?",
+        "resposta": "Saque"
+    },
+    {
+        "id": "esportes-novato-045",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chama a bola batida com força, por cima da rede, para marcar ponto?",
+        "resposta": "Cortada (ataque)"
+    },
+    {
+        "id": "esportes-novato-046",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chama o golpe de defesa feito com os antebraços unidos?",
+        "resposta": "Manchete"
+    },
+    {
+        "id": "esportes-novato-047",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chama a jogada em que os jogadores erguem os braços junto à rede para parar o ataque?",
+        "resposta": "Bloqueio"
+    },
+    {
+        "id": "esportes-novato-048",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Quantos toques cada time pode dar, no máximo, na bola antes de mandá-la ao outro lado?",
+        "resposta": "3 (três)"
+    },
+    {
+        "id": "esportes-novato-049",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte, jogado com as mãos em dupla sobre a areia, usa rede alta e fica perto do mar?",
+        "resposta": "Vôlei de praia"
+    },
+    {
+        "id": "esportes-novato-050",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual acessório esticado divide a quadra de vôlei ao meio?",
+        "resposta": "Rede"
+    },
+    {
+        "id": "esportes-novato-051",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Quantos jogadores de cada time ficam em quadra no basquete?",
+        "resposta": "5 (cinco)"
+    },
+    {
+        "id": "esportes-novato-052",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chama o aro com rede onde a bola deve entrar?",
+        "resposta": "Cesta"
+    },
+    {
+        "id": "esportes-novato-053",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Quantos pontos vale uma cesta comum feita perto do aro?",
+        "resposta": "2 (dois)"
+    },
+    {
+        "id": "esportes-novato-054",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Quantos pontos vale a cesta feita de bem longe, atrás da linha mais afastada?",
+        "resposta": "3 (três)"
+    },
+    {
+        "id": "esportes-novato-055",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual é a cor mais comum da bola de basquete?",
+        "resposta": "Laranja"
+    },
+    {
+        "id": "esportes-novato-056",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chama o movimento de bater a bola no chão enquanto o jogador anda ou corre?",
+        "resposta": "Drible"
+    },
+    {
+        "id": "esportes-novato-057",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual sigla da liga de basquete mais famosa dos Estados Unidos?",
+        "resposta": "NBA"
+    },
+    {
+        "id": "esportes-novato-058",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Em quantos quartos é dividida uma partida oficial de basquete?",
+        "resposta": "4 (quatro)"
+    },
+    {
+        "id": "esportes-novato-059",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chama o lance em que o jogador salta e coloca a bola de cima para baixo dentro do aro?",
+        "resposta": "Enterrada"
+    },
+    {
+        "id": "esportes-novato-060",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual parte do corpo é a principal para quicar, passar e arremessar a bola no basquete?",
+        "resposta": "Mãos (mão)"
+    },
+    {
+        "id": "esportes-novato-061",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual roupa branca de pano grosso é usada em muitas artes marciais?",
+        "resposta": "Quimono"
+    },
+    {
+        "id": "esportes-novato-062",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual é a cor da faixa mais alta das artes marciais, que mostra grande experiência?",
+        "resposta": "Preta"
+    },
+    {
+        "id": "esportes-novato-063",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual é a cor da faixa de quem está começando a treinar?",
+        "resposta": "Branca"
+    },
+    {
+        "id": "esportes-novato-064",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual arte marcial suave usa o equilíbrio e a força do oponente para derrubá-lo no chão?",
+        "resposta": "Judô"
+    },
+    {
+        "id": "esportes-novato-065",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual arte marcial, cujo nome significa \"mão vazia\", é praticada em academias do mundo todo?",
+        "resposta": "Karatê"
+    },
+    {
+        "id": "esportes-novato-066",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual arte marcial da Coreia é famosa por chutes altos e giros no ar?",
+        "resposta": "Taekwondo"
+    },
+    {
+        "id": "esportes-novato-067",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual arte marcial brasileira mistura luta, dança e música, jogada em roda?",
+        "resposta": "Capoeira"
+    },
+    {
+        "id": "esportes-novato-068",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual instrumento, com arco de madeira, arame e cabaça, marca o ritmo da roda de luta e dança?",
+        "resposta": "Berimbau"
+    },
+    {
+        "id": "esportes-novato-069",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual luta tradicional tem lutadores enormes, disputada em um círculo de areia?",
+        "resposta": "Sumô"
+    },
+    {
+        "id": "esportes-novato-070",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual título damos a quem ensina e orienta os alunos nas artes marciais?",
+        "resposta": "Mestre (sensei)"
+    },
+    {
+        "id": "esportes-novato-071",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte olímpico usa espada fina, máscara e roupa branca?",
+        "resposta": "Esgrima"
+    },
+    {
+        "id": "esportes-novato-072",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual arte marcial chinesa é muito famosa nos filmes e imita movimentos de animais?",
+        "resposta": "Kung fu (kung-fu)"
+    },
+    {
+        "id": "esportes-novato-073",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte coletivo de salão lança a bola com as mãos em um gol, com goleiro?",
+        "resposta": "Handebol"
+    },
+    {
+        "id": "esportes-novato-074",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte é jogado em quadra coberta, com cinco jogadores de cada lado e bola pequena e pesada?",
+        "resposta": "Futsal (futebol de salão)"
+    },
+    {
+        "id": "esportes-novato-075",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte olímpico usa raquete pequena, bolinha de plástico e uma rede baixinha no meio?",
+        "resposta": "Tênis de mesa (pingue-pongue)"
+    },
+    {
+        "id": "esportes-novato-076",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual brinquedo de penas, leve, é rebatido com a palma da mão de um jogador para o outro?",
+        "resposta": "Peteca"
+    },
+    {
+        "id": "esportes-novato-077",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual disciplina escolar leva os alunos para jogar e se exercitar?",
+        "resposta": "Educação Física"
+    },
+    {
+        "id": "esportes-novato-078",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual espaço, na escola ou no clube, tem linhas pintadas no chão para marcar os limites dos jogos?",
+        "resposta": "Quadra (quadra esportiva)"
+    },
+    {
+        "id": "esportes-novato-079",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual objeto de cordas usamos para rebater a bola no tênis?",
+        "resposta": "Raquete"
+    },
+    {
+        "id": "esportes-novato-080",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual painel mostra os pontos de cada time durante o jogo?",
+        "resposta": "Placar"
+    },
+    {
+        "id": "esportes-novato-081",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual profissional comanda a partida e marca as faltas?",
+        "resposta": "Árbitro (juiz)"
+    },
+    {
+        "id": "esportes-novato-082",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual profissional orienta o time e dá instruções durante o jogo, ao lado dos jogadores?",
+        "resposta": "Técnico (treinador)"
+    },
+    {
+        "id": "esportes-novato-083",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual prova de pouco mais de 42 quilômetros é a corrida de rua mais famosa do mundo?",
+        "resposta": "Maratona"
+    },
+    {
+        "id": "esportes-novato-084",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chama o atleta especialista em provas curtas e muito rápidas?",
+        "resposta": "Velocista"
+    },
+    {
+        "id": "esportes-novato-085",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual prova do atletismo é disputada em equipe, com quatro atletas passando um objeto de mão em mão?",
+        "resposta": "Revezamento"
+    },
+    {
+        "id": "esportes-novato-086",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual prova do atletismo usa uma longa peça flexível para o atleta ultrapassar uma barra bem alta?",
+        "resposta": "Salto com vara"
+    },
+    {
+        "id": "esportes-novato-087",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual prova do atletismo gira o corpo para atirar um objeto redondo e achatado o mais longe possível?",
+        "resposta": "Lançamento de disco (arremesso de disco)"
+    },
+    {
+        "id": "esportes-novato-088",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual prova usa uma haste comprida e pontuda, atirada o mais longe possível depois de uma corrida de impulso?",
+        "resposta": "Lançamento de dardo (arremesso de dardo)"
+    },
+    {
+        "id": "esportes-novato-089",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual prova do atletismo tem obstáculos enfileirados que o atleta transpõe sem parar de correr?",
+        "resposta": "Barreiras"
+    },
+    {
+        "id": "esportes-novato-090",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual prova exige correr e dar um único impulso para cair o mais longe possível numa caixa de areia?",
+        "resposta": "Salto em distância"
+    },
+    {
+        "id": "esportes-novato-091",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual prova do atletismo tem um sarrafo a vencer com impulso de uma perna só, caindo num colchão?",
+        "resposta": "Salto em altura"
+    },
+    {
+        "id": "esportes-novato-092",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual piso oval, com raias numeradas, os corredores usam nas provas dentro do estádio?",
+        "resposta": "Pista (pista de atletismo)"
+    },
+    {
+        "id": "esportes-novato-093",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Quantos metros tem a prova mais famosa do atletismo, em linha reta, vencida em menos de 12 segundos?",
+        "resposta": "100 (cem)"
+    },
+    {
+        "id": "esportes-novato-094",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual estilo de natação é feito de barriga para cima?",
+        "resposta": "Costas (nado de costas)"
+    },
+    {
+        "id": "esportes-novato-095",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual estilo de natação lembra o movimento de um sapo?",
+        "resposta": "Peito (nado de peito)"
+    },
+    {
+        "id": "esportes-novato-096",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual estilo, o mais veloz da natação, é feito de bruços com braços alternados e batida de pernas?",
+        "resposta": "Crawl (nado livre)"
+    },
+    {
+        "id": "esportes-novato-097",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual estilo de natação tem os dois braços saindo juntos da água, como as asas de um inseto colorido?",
+        "resposta": "Borboleta"
+    },
+    {
+        "id": "esportes-novato-098",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual acessório cobre os olhos do nadador para enxergar debaixo da água?",
+        "resposta": "Óculos (óculos de proteção)"
+    },
+    {
+        "id": "esportes-novato-099",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual acessório protege os cabelos do nadador e fica na cabeça?",
+        "resposta": "Touca"
+    },
+    {
+        "id": "esportes-novato-100",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Como se chama a entrada de cabeça na água, feita para largar numa prova de nado?",
+        "resposta": "Mergulho"
+    },
+    {
+        "id": "esportes-novato-101",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual produto de cheiro forte é colocado na água da piscina para eliminar germes?",
+        "resposta": "Cloro"
+    },
+    {
+        "id": "esportes-novato-102",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte aquático tem atletas girando no ar antes de entrar na água, vindos de uma plataforma alta?",
+        "resposta": "Saltos ornamentais"
+    },
+    {
+        "id": "esportes-novato-103",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual prova esportiva une nado, pedal e corrida, uma depois da outra, sem parar?",
+        "resposta": "Triatlo"
+    },
+    {
+        "id": "esportes-novato-104",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte usa tacos para levar uma bolinha branca até buracos no gramado?",
+        "resposta": "Golfe"
+    },
+    {
+        "id": "esportes-novato-105",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte usa taco, bolas coloridas e uma mesa de feltro verde com seis buracos nas bordas?",
+        "resposta": "Sinuca (bilhar)"
+    },
+    {
+        "id": "esportes-novato-106",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte olímpico usa flechas lançadas a distância contra um alvo circular colorido?",
+        "resposta": "Tiro com arco"
+    },
+    {
+        "id": "esportes-novato-107",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte olímpico move barcos estreitos com pás compridas apoiadas nas laterais, em lagos ou rios?",
+        "resposta": "Remo"
+    },
+    {
+        "id": "esportes-novato-108",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte radical usa uma prancha com quatro rodinhas para fazer manobras em rampas?",
+        "resposta": "Skate (skatismo)"
+    },
+    {
+        "id": "esportes-novato-109",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte olímpico tem cavaleiros saltando obstáculos montados em cavalos?",
+        "resposta": "Hipismo (equitação)"
+    },
+    {
+        "id": "esportes-novato-110",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual equipamento de plástico rígido protege a cabeça de ciclistas?",
+        "resposta": "Capacete"
+    },
+    {
+        "id": "esportes-novato-111",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte de raquete usa um volante com penas, lançado por cima da rede?",
+        "resposta": "Badminton"
+    },
+    {
+        "id": "esportes-novato-112",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual calçado com travas na sola é usado para jogar futebol no gramado?",
+        "resposta": "Chuteira (chuteiras)"
+    },
+    {
+        "id": "esportes-novato-113",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte usa uma prancha para deslizar sobre as ondas do mar?",
+        "resposta": "Surfe (surf)"
+    },
+    {
+        "id": "esportes-novato-114",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual aparelho mede, em segundos, o tempo gasto pelos atletas numa prova?",
+        "resposta": "Cronômetro"
+    },
+    {
+        "id": "esportes-novato-115",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte de inverno desliza pela neve com duas tábuas finas presas aos pés e dois bastões?",
+        "resposta": "Esqui"
+    },
+    {
+        "id": "esportes-novato-116",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte tem giros e saltos artísticos, ao som de música, com lâminas nos pés em superfície congelada?",
+        "resposta": "Patinação (patinação no gelo)"
+    },
+    {
+        "id": "esportes-novato-117",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte lança uma bola pesada por uma faixa lisa de madeira para derrubar dez pinos?",
+        "resposta": "Boliche"
+    },
+    {
+        "id": "esportes-novato-118",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual esporte olímpico consiste em subir paredes cheias de apoios coloridos para as mãos e os pés?",
+        "resposta": "Escalada"
+    },
+    {
+        "id": "esportes-novato-119",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual atleta jamaicano ganhou ouro olímpico várias vezes e ficou famoso por apontar o braço para o céu?",
+        "resposta": "Usain Bolt (Bolt)"
+    },
+    {
+        "id": "esportes-novato-120",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual astro do basquete, que jogou no Chicago Bulls, ficou famoso por vestir a camisa 23?",
+        "resposta": "Michael Jordan (Jordan)"
+    },
+    {
+        "id": "esportes-novato-121",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual piloto brasileiro foi tricampeão da Fórmula 1 pela equipe McLaren?",
+        "resposta": "Ayrton Senna (Senna)"
+    },
+    {
+        "id": "esportes-novato-122",
+        "tema": "esportes",
+        "nivel": "novato",
+        "pergunta": "Qual tenista de Florianópolis ganhou três vezes o torneio de Roland Garros?",
+        "resposta": "Gustavo Kuerten (Guga)"
+    }
+]
