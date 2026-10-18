@@ -1,0 +1,842 @@
+[
+    {
+        "id": "geografia-novato-003",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital do Brasil?",
+        "resposta": "Brasília"
+    },
+    {
+        "id": "geografia-novato-004",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é o maior oceano do planeta?",
+        "resposta": "Pacífico"
+    },
+    {
+        "id": "geografia-novato-005",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual país fica a Estátua da Liberdade?",
+        "resposta": "Estados Unidos (EUA)"
+    },
+    {
+        "id": "geografia-novato-006",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital da Argentina?",
+        "resposta": "Buenos Aires"
+    },
+    {
+        "id": "geografia-novato-007",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é o maior rio da América do Sul?",
+        "resposta": "Amazonas"
+    },
+    {
+        "id": "geografia-novato-008",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual país é famoso por ter cangurus e coalas?",
+        "resposta": "Austrália"
+    },
+    {
+        "id": "geografia-novato-009",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital da França?",
+        "resposta": "Paris"
+    },
+    {
+        "id": "geografia-novato-010",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o lugar onde um rio encontra o mar?",
+        "resposta": "Foz"
+    },
+    {
+        "id": "geografia-novato-011",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual país fica a Grande Muralha?",
+        "resposta": "China"
+    },
+    {
+        "id": "geografia-novato-012",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital da Itália?",
+        "resposta": "Roma"
+    },
+    {
+        "id": "geografia-novato-013",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual oceano fica entre a América e a Europa?",
+        "resposta": "Atlântico"
+    },
+    {
+        "id": "geografia-novato-014",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é o único país da América do Sul onde se fala português?",
+        "resposta": "Brasil"
+    },
+    {
+        "id": "geografia-novato-015",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital de Portugal?",
+        "resposta": "Lisboa"
+    },
+    {
+        "id": "geografia-novato-016",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é o rio mais famoso do Egito, onde viveram os faraós?",
+        "resposta": "Nilo"
+    },
+    {
+        "id": "geografia-novato-017",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual país fica o Big Ben?",
+        "resposta": "Inglaterra (Reino Unido)"
+    },
+    {
+        "id": "geografia-novato-018",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital do Japão?",
+        "resposta": "Tóquio (Tokyo)"
+    },
+    {
+        "id": "geografia-novato-019",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é o oceano mais frio, que fica ao redor do Polo Norte?",
+        "resposta": "Ártico"
+    },
+    {
+        "id": "geografia-novato-020",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual país tem uma folha de bordo vermelha na bandeira?",
+        "resposta": "Canadá"
+    },
+    {
+        "id": "geografia-novato-021",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital da Espanha?",
+        "resposta": "Madri (Madrid)"
+    },
+    {
+        "id": "geografia-novato-022",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o lugar onde um rio começa?",
+        "resposta": "Nascente (Fonte)"
+    },
+    {
+        "id": "geografia-novato-023",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual país ficam os famosos canais de Veneza?",
+        "resposta": "Itália"
+    },
+    {
+        "id": "geografia-novato-024",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital dos Estados Unidos?",
+        "resposta": "Washington (Washington D.C.)"
+    },
+    {
+        "id": "geografia-novato-025",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é o maior país do mundo em área?",
+        "resposta": "Rússia"
+    },
+    {
+        "id": "geografia-novato-026",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama uma grande massa de água doce cercada de terra?",
+        "resposta": "Lago"
+    },
+    {
+        "id": "geografia-novato-027",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital do Egito?",
+        "resposta": "Cairo"
+    },
+    {
+        "id": "geografia-novato-028",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual país fica a cidade turística de Cancún?",
+        "resposta": "México"
+    },
+    {
+        "id": "geografia-novato-029",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital da Alemanha?",
+        "resposta": "Berlim"
+    },
+    {
+        "id": "geografia-novato-030",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é o nome do grande mar entre o sul da Europa e o norte da África?",
+        "resposta": "Mediterrâneo"
+    },
+    {
+        "id": "geografia-novato-031",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual país é conhecido como \"Terra do Sol Nascente\"?",
+        "resposta": "Japão"
+    },
+    {
+        "id": "geografia-novato-032",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital da China?",
+        "resposta": "Pequim (Beijing)"
+    },
+    {
+        "id": "geografia-novato-033",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual país fica a Torre Eiffel?",
+        "resposta": "França"
+    },
+    {
+        "id": "geografia-novato-034",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual país ficam as ruínas de Machu Picchu?",
+        "resposta": "Peru"
+    },
+    {
+        "id": "geografia-novato-035",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital da Rússia?",
+        "resposta": "Moscou"
+    },
+    {
+        "id": "geografia-novato-036",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital da Grécia?",
+        "resposta": "Atenas"
+    },
+    {
+        "id": "geografia-novato-037",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual país fica o Taj Mahal?",
+        "resposta": "Índia"
+    },
+    {
+        "id": "geografia-novato-038",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital do Peru?",
+        "resposta": "Lima"
+    },
+    {
+        "id": "geografia-novato-039",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual país fica a cidade de Barcelona?",
+        "resposta": "Espanha"
+    },
+    {
+        "id": "geografia-novato-040",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual continente fica a Austrália?",
+        "resposta": "Oceania"
+    },
+    {
+        "id": "geografia-novato-041",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital da Inglaterra?",
+        "resposta": "Londres"
+    },
+    {
+        "id": "geografia-novato-042",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual mar entre a África e a Ásia tem nome da cor do tomate?",
+        "resposta": "Mar Vermelho"
+    },
+    {
+        "id": "geografia-novato-043",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é o nome do pico mais alto da Terra, que fica na cordilheira do Himalaia?",
+        "resposta": "Everest (Monte Everest)"
+    },
+    {
+        "id": "geografia-novato-044",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital do Rio Grande do Sul?",
+        "resposta": "Porto Alegre"
+    },
+    {
+        "id": "geografia-novato-045",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual frase está escrita na faixa da bandeira do Brasil?",
+        "resposta": "Ordem e Progresso"
+    },
+    {
+        "id": "geografia-novato-046",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama a formação da Terra que solta lava e cinzas quando entra em erupção?",
+        "resposta": "Vulcão"
+    },
+    {
+        "id": "geografia-novato-047",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "De qual estado brasileiro é originário o pão de queijo?",
+        "resposta": "Minas Gerais"
+    },
+    {
+        "id": "geografia-novato-048",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a cor do losango da bandeira do Brasil?",
+        "resposta": "Amarelo"
+    },
+    {
+        "id": "geografia-novato-049",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama uma porção de terra cercada de água por todos os lados?",
+        "resposta": "Ilha"
+    },
+    {
+        "id": "geografia-novato-050",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital do Amazonas?",
+        "resposta": "Manaus"
+    },
+    {
+        "id": "geografia-novato-051",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Quais são as duas cores principais da bandeira de Portugal?",
+        "resposta": "Verde e vermelho"
+    },
+    {
+        "id": "geografia-novato-052",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o terreno baixo entre duas serras ou morros, por onde costuma correr um rio?",
+        "resposta": "Vale"
+    },
+    {
+        "id": "geografia-novato-053",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital de Santa Catarina?",
+        "resposta": "Florianópolis"
+    },
+    {
+        "id": "geografia-novato-054",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual país tem uma bandeira com 50 estrelas e 13 listras?",
+        "resposta": "Estados Unidos (EUA)"
+    },
+    {
+        "id": "geografia-novato-055",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama a faixa de areia que fica na beira do mar?",
+        "resposta": "Praia"
+    },
+    {
+        "id": "geografia-novato-056",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital do Pará?",
+        "resposta": "Belém"
+    },
+    {
+        "id": "geografia-novato-057",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual desenho aparece na bandeira preta dos piratas?",
+        "resposta": "Caveira (Caveira e ossos)"
+    },
+    {
+        "id": "geografia-novato-058",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é o nome do enorme deserto da África, onde vivem camelos?",
+        "resposta": "Saara (Sahara)"
+    },
+    {
+        "id": "geografia-novato-059",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital da Bahia?",
+        "resposta": "Salvador"
+    },
+    {
+        "id": "geografia-novato-060",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a cor da bandeira usada para pedir paz ou se render numa batalha?",
+        "resposta": "Branca"
+    },
+    {
+        "id": "geografia-novato-061",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o monte de areia formado pelo vento, comum nos desertos?",
+        "resposta": "Duna"
+    },
+    {
+        "id": "geografia-novato-062",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital de Pernambuco?",
+        "resposta": "Recife"
+    },
+    {
+        "id": "geografia-novato-063",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual bandeira é balançada ao fim de uma corrida de automóveis para anunciar a chegada do vencedor?",
+        "resposta": "Quadriculada (Xadrez)"
+    },
+    {
+        "id": "geografia-novato-064",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama a queda de água de um rio que despenca de uma rocha alta?",
+        "resposta": "Cachoeira (Cascata)"
+    },
+    {
+        "id": "geografia-novato-065",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a capital do Ceará?",
+        "resposta": "Fortaleza"
+    },
+    {
+        "id": "geografia-novato-066",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Quantos anéis coloridos aparecem na bandeira das Olimpíadas?",
+        "resposta": "Cinco (5)"
+    },
+    {
+        "id": "geografia-novato-067",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama uma grande elevação de terra, bem mais alta que um morro?",
+        "resposta": "Montanha"
+    },
+    {
+        "id": "geografia-novato-068",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual estado brasileiro fica a estátua do Cristo Redentor?",
+        "resposta": "Rio de Janeiro"
+    },
+    {
+        "id": "geografia-novato-069",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual cor de bandeira indica perigo no mar e que é melhor não entrar na água?",
+        "resposta": "Vermelha"
+    },
+    {
+        "id": "geografia-novato-070",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o enorme bloco de gelo que flutua nos mares frios?",
+        "resposta": "Iceberg (Icebergue)"
+    },
+    {
+        "id": "geografia-novato-071",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual estado brasileiro ficam as Cataratas do Iguaçu?",
+        "resposta": "Paraná"
+    },
+    {
+        "id": "geografia-novato-072",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Quais são as três cores da bandeira da Alemanha?",
+        "resposta": "Preto, vermelho e dourado (amarelo)"
+    },
+    {
+        "id": "geografia-novato-073",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama um buraco grande e escuro dentro da rocha, onde moram morcegos?",
+        "resposta": "Caverna (Gruta)"
+    },
+    {
+        "id": "geografia-novato-074",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual região do Brasil abriga a maior parte da Floresta Amazônica?",
+        "resposta": "Norte"
+    },
+    {
+        "id": "geografia-novato-075",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual cor aparece nas listras de cima e de baixo da bandeira da Argentina?",
+        "resposta": "Azul (azul-claro, celeste)"
+    },
+    {
+        "id": "geografia-novato-076",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o lugar com água e palmeiras no meio de um deserto?",
+        "resposta": "Oásis"
+    },
+    {
+        "id": "geografia-novato-077",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual região do Brasil ficam os estados da Bahia, do Ceará e de Pernambuco?",
+        "resposta": "Nordeste"
+    },
+    {
+        "id": "geografia-novato-078",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual país europeu, famoso pelos Alpes e pelos relógios, tem uma bandeira quadrada com uma cruz no centro?",
+        "resposta": "Suíça"
+    },
+    {
+        "id": "geografia-novato-079",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o tremor do chão causado pelo movimento das placas da crosta terrestre?",
+        "resposta": "Terremoto (Sismo)"
+    },
+    {
+        "id": "geografia-novato-080",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama a onda gigante provocada por um abalo no fundo do mar?",
+        "resposta": "Tsunami (Maremoto)"
+    },
+    {
+        "id": "geografia-novato-081",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama cada uma das grandes divisões da Terra, como a Ásia, a África e a Europa?",
+        "resposta": "Continente"
+    },
+    {
+        "id": "geografia-novato-082",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a enorme terra coberta de gelo que fica no Polo Sul e abriga pinguins?",
+        "resposta": "Antártida (Antártica)"
+    },
+    {
+        "id": "geografia-novato-083",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é o maior continente do planeta?",
+        "resposta": "Ásia"
+    },
+    {
+        "id": "geografia-novato-084",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual continente vivem leões, girafas e zebras na natureza?",
+        "resposta": "África"
+    },
+    {
+        "id": "geografia-novato-085",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual continente fica o Chile?",
+        "resposta": "América do Sul"
+    },
+    {
+        "id": "geografia-novato-086",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual continente fica a Alemanha?",
+        "resposta": "Europa"
+    },
+    {
+        "id": "geografia-novato-087",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual continente fica o México?",
+        "resposta": "América do Norte"
+    },
+    {
+        "id": "geografia-novato-088",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é o menor continente do planeta?",
+        "resposta": "Oceania"
+    },
+    {
+        "id": "geografia-novato-089",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é o maior país de língua portuguesa do mundo?",
+        "resposta": "Brasil"
+    },
+    {
+        "id": "geografia-novato-090",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a estação do ano mais fria?",
+        "resposta": "Inverno"
+    },
+    {
+        "id": "geografia-novato-091",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a estação do ano mais quente?",
+        "resposta": "Verão"
+    },
+    {
+        "id": "geografia-novato-092",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual estação do ano as flores desabrocham?",
+        "resposta": "Primavera"
+    },
+    {
+        "id": "geografia-novato-093",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual estação do ano as folhas das árvores costumam cair?",
+        "resposta": "Outono"
+    },
+    {
+        "id": "geografia-novato-094",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o aparelho que mede se está frio ou quente?",
+        "resposta": "Termômetro"
+    },
+    {
+        "id": "geografia-novato-095",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama a água que cai do céu e forma poças no chão?",
+        "resposta": "Chuva"
+    },
+    {
+        "id": "geografia-novato-096",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama a água congelada, branquinha e fofa, que cai em países muito frios?",
+        "resposta": "Neve"
+    },
+    {
+        "id": "geografia-novato-097",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama a faixa de sete cores que aparece no céu quando há gotinhas de água e luz do dia?",
+        "resposta": "Arco-íris (Arco-iris)"
+    },
+    {
+        "id": "geografia-novato-098",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama a tempestade gigante que gira sobre os oceanos e tem um \"olho\" calmo no centro?",
+        "resposta": "Furacão (Ciclone, Tufão)"
+    },
+    {
+        "id": "geografia-novato-099",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o clarão que corta o céu durante uma tempestade?",
+        "resposta": "Raio (Relâmpago)"
+    },
+    {
+        "id": "geografia-novato-100",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o barulho forte que se ouve durante uma tempestade?",
+        "resposta": "Trovão"
+    },
+    {
+        "id": "geografia-novato-101",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o funil giratório que desce do céu e arrasta tudo pelo caminho?",
+        "resposta": "Tornado"
+    },
+    {
+        "id": "geografia-novato-102",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o longo período sem água caindo do céu, que deixa a terra rachada?",
+        "resposta": "Seca (Estiagem)"
+    },
+    {
+        "id": "geografia-novato-103",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama a bolinha dura e gelada que cai do céu em algumas tempestades?",
+        "resposta": "Granizo"
+    },
+    {
+        "id": "geografia-novato-104",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama a camada branca de vapor rente ao chão que atrapalha a visão de quem dirige?",
+        "resposta": "Neblina (Névoa, Cerração)"
+    },
+    {
+        "id": "geografia-novato-105",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o ar em movimento que balança as árvores e faz as pipas voarem?",
+        "resposta": "Vento"
+    },
+    {
+        "id": "geografia-novato-106",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual astro é a principal fonte de luz e calor da Terra?",
+        "resposta": "Sol"
+    },
+    {
+        "id": "geografia-novato-107",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama a água quando fica sólida de tão fria, como nos cubinhos do freezer?",
+        "resposta": "Gelo"
+    },
+    {
+        "id": "geografia-novato-108",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o amontoado de gotinhas de água que flutua no céu e pode ser branco ou cinza?",
+        "resposta": "Nuvem"
+    },
+    {
+        "id": "geografia-novato-109",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o lugar de areia ou pedras e quase sem água, como o Saara?",
+        "resposta": "Deserto"
+    },
+    {
+        "id": "geografia-novato-110",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual país ficam as famosas pirâmides de Gizé?",
+        "resposta": "Egito"
+    },
+    {
+        "id": "geografia-novato-111",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual estátua de corpo de leão e rosto humano fica perto das pirâmides de Gizé?",
+        "resposta": "Esfinge"
+    },
+    {
+        "id": "geografia-novato-112",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual famosa construção italiana é conhecida por ser inclinada?",
+        "resposta": "Torre de Pisa (Pisa)"
+    },
+    {
+        "id": "geografia-novato-113",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a enorme arena antiga de Roma, símbolo da Itália?",
+        "resposta": "Coliseu"
+    },
+    {
+        "id": "geografia-novato-114",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual país fica o Partenon, templo antigo de Atenas?",
+        "resposta": "Grécia"
+    },
+    {
+        "id": "geografia-novato-115",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual país europeu é famoso pelas tulipas e pelos moinhos?",
+        "resposta": "Holanda (Países Baixos)"
+    },
+    {
+        "id": "geografia-novato-116",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual famoso morro carioca é visitado de bondinho?",
+        "resposta": "Pão de Açúcar"
+    },
+    {
+        "id": "geografia-novato-117",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual grande área alagada do Centro-Oeste é famosa pelos jacarés?",
+        "resposta": "Pantanal"
+    },
+    {
+        "id": "geografia-novato-118",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual cidade é chamada de \"Cidade Maravilhosa\"?",
+        "resposta": "Rio de Janeiro (Rio)"
+    },
+    {
+        "id": "geografia-novato-119",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual cidade fica o Parque Ibirapuera?",
+        "resposta": "São Paulo"
+    },
+    {
+        "id": "geografia-novato-120",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual famoso museu de Paris está a pintura Mona Lisa?",
+        "resposta": "Louvre"
+    },
+    {
+        "id": "geografia-novato-121",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Qual é a maior mata tropical do planeta, lar de onças-pintadas e botos?",
+        "resposta": "Amazônia (Floresta Amazônica)"
+    },
+    {
+        "id": "geografia-novato-122",
+        "tema": "geografia",
+        "nivel": "novato",
+        "pergunta": "Em qual país fica Orlando, cidade famosa pelos parques de diversões?",
+        "resposta": "Estados Unidos (EUA)"
+    }
+]
