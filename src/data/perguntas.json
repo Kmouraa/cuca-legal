@@ -3652,5 +3652,1685 @@
     "nivel": "novato",
     "pergunta": "Em qual país fica Orlando, cidade famosa pelos parques de diversões?",
     "resposta": "Estados Unidos (EUA)"
+  },
+  {
+    "id": "historia-novato-003",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Em que ano os portugueses chegaram ao Brasil?",
+    "resposta": "1500"
+  },
+  {
+    "id": "historia-novato-004",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual navegador português liderou a frota que chegou ao Brasil pela primeira vez?",
+    "resposta": "Pedro Álvares Cabral (Cabral)"
+  },
+  {
+    "id": "historia-novato-005",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "De qual país vieram os colonizadores que dominaram o Brasil por mais de 300 anos?",
+    "resposta": "Portugal"
+  },
+  {
+    "id": "historia-novato-006",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual árvore, de madeira avermelhada, foi explorada pelos portugueses e deu nome ao nosso país?",
+    "resposta": "Pau-brasil"
+  },
+  {
+    "id": "historia-novato-007",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como eram chamados os povos que já viviam no Brasil quando os portugueses chegaram?",
+    "resposta": "Indígenas (Índios)"
+  },
+  {
+    "id": "historia-novato-008",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual planta era a base da riqueza dos engenhos do Nordeste no período colonial?",
+    "resposta": "Cana-de-açúcar (Cana)"
+  },
+  {
+    "id": "historia-novato-009",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual metal precioso atraiu muita gente para o interior do país no período colonial?",
+    "resposta": "Ouro"
+  },
+  {
+    "id": "historia-novato-010",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual herói da Inconfidência Mineira é lembrado no feriado de 21 de abril?",
+    "resposta": "Tiradentes"
+  },
+  {
+    "id": "historia-novato-011",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual líder do Quilombo dos Palmares é lembrado no Dia da Consciência Negra, em 20 de novembro?",
+    "resposta": "Zumbi"
+  },
+  {
+    "id": "historia-novato-012",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual raiz, usada pelos indígenas, serve para fazer farinha e tapioca?",
+    "resposta": "Mandioca (Aipim, Macaxeira)"
+  },
+  {
+    "id": "historia-novato-013",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual religião os colonizadores portugueses trouxeram e ensinaram aos indígenas?",
+    "resposta": "Catolicismo (Cristianismo)"
+  },
+  {
+    "id": "historia-novato-014",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual cereal, cultivado pelos indígenas, é a base da pipoca e da pamonha?",
+    "resposta": "Milho"
+  },
+  {
+    "id": "historia-novato-015",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Em qual região do país ficavam os principais engenhos do início da colônia?",
+    "resposta": "Nordeste"
+  },
+  {
+    "id": "historia-novato-016",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual objeto de dormir, aprendido com os indígenas, fica pendurado entre dois ganchos?",
+    "resposta": "Rede"
+  },
+  {
+    "id": "historia-novato-017",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual arte afro-brasileira mistura dança, jogo e música ao som do berimbau?",
+    "resposta": "Capoeira"
+  },
+  {
+    "id": "historia-novato-018",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chamavam os navios a vela usados pelos portugueses nas grandes viagens pelo oceano?",
+    "resposta": "Caravela (Caravelas)"
+  },
+  {
+    "id": "historia-novato-019",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual instrumento, com uma agulha que aponta o norte, ajudava os navegadores a se orientar?",
+    "resposta": "Bússola"
+  },
+  {
+    "id": "historia-novato-020",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual príncipe português declarou a independência do Brasil em 1822?",
+    "resposta": "Dom Pedro I (Pedro I)"
+  },
+  {
+    "id": "historia-novato-021",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Em qual dia e mês comemoramos a Independência do Brasil?",
+    "resposta": "7 de setembro"
+  },
+  {
+    "id": "historia-novato-022",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Quem foi o último imperador do Brasil, que reinou por quase 60 anos?",
+    "resposta": "Dom Pedro II (Pedro II)"
+  },
+  {
+    "id": "historia-novato-023",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Quem assinou a Lei Áurea, em 1888?",
+    "resposta": "Princesa Isabel"
+  },
+  {
+    "id": "historia-novato-024",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chamava o sistema em que pessoas eram obrigadas a trabalhar sem liberdade e sem salário?",
+    "resposta": "Escravidão"
+  },
+  {
+    "id": "historia-novato-025",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual grão, usado para fazer uma bebida escura e amarga, foi o principal produto de exportação do século XIX?",
+    "resposta": "Café"
+  },
+  {
+    "id": "historia-novato-026",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chama o regime de governo em que um rei ou uma rainha comanda o país?",
+    "resposta": "Monarquia"
+  },
+  {
+    "id": "historia-novato-027",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual meio de transporte a vapor, apelidado de Maria Fumaça, chegou ao Brasil no tempo do Império?",
+    "resposta": "Trem (Locomotiva)"
+  },
+  {
+    "id": "historia-novato-028",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual é a data do feriado que celebra o fim do governo dos imperadores no Brasil?",
+    "resposta": "15 de novembro"
+  },
+  {
+    "id": "historia-novato-029",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual cidade foi construída entre 1956 e 1960 para ser a nova capital do país?",
+    "resposta": "Brasília"
+  },
+  {
+    "id": "historia-novato-030",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual cidade era a capital do país até 1960?",
+    "resposta": "Rio de Janeiro (Rio)"
+  },
+  {
+    "id": "historia-novato-031",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual brasileiro, criador do 14-Bis, é chamado de \"Pai da Aviação\"?",
+    "resposta": "Santos Dumont"
+  },
+  {
+    "id": "historia-novato-032",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chama a forma de governo em que o chefe do país é um presidente e não um rei?",
+    "resposta": "República"
+  },
+  {
+    "id": "historia-novato-033",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Em 1932, as mulheres brasileiras conquistaram o direito de fazer o quê nas eleições?",
+    "resposta": "Votar (Voto)"
+  },
+  {
+    "id": "historia-novato-034",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual país asiático enviou muitos imigrantes para São Paulo, formando o bairro da Liberdade?",
+    "resposta": "Japão"
+  },
+  {
+    "id": "historia-novato-035",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "De qual país europeu vieram muitos imigrantes que trouxeram a pizza e o macarrão para o Brasil?",
+    "resposta": "Itália"
+  },
+  {
+    "id": "historia-novato-036",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual lema está escrito na faixa da bandeira do Brasil?",
+    "resposta": "Ordem e Progresso"
+  },
+  {
+    "id": "historia-novato-037",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual aparelho, com imagem e som, começou a transmitir no Brasil em 1950?",
+    "resposta": "Televisão (TV)"
+  },
+  {
+    "id": "historia-novato-038",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chama o conjunto de leis mais importante de um país?",
+    "resposta": "Constituição"
+  },
+  {
+    "id": "historia-novato-039",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual grande evento esportivo, com atletas do mundo todo, aconteceu no Brasil em 2016?",
+    "resposta": "Olimpíadas (Jogos Olímpicos)"
+  },
+  {
+    "id": "historia-novato-040",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual famoso estádio carioca foi inaugurado em 1950 para uma Copa do Mundo?",
+    "resposta": "Maracanã"
+  },
+  {
+    "id": "historia-novato-041",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual música símbolo do país é cantada antes dos jogos da seleção?",
+    "resposta": "Hino Nacional"
+  },
+  {
+    "id": "historia-novato-042",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual animal, trazido pelos portugueses, passou a ser criado em grandes fazendas para dar carne e leite?",
+    "resposta": "Boi (Gado, Vaca)"
+  },
+  {
+    "id": "historia-novato-043",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chamavam os reis do Antigo Egito?",
+    "resposta": "Faraós (Faraó)"
+  },
+  {
+    "id": "historia-novato-044",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chamam as enormes construções de formato triangular que serviam de túmulos aos reis do Egito?",
+    "resposta": "Pirâmides (Pirâmide)"
+  },
+  {
+    "id": "historia-novato-045",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual povo antigo criou os Jogos Olímpicos, em homenagem aos seus deuses?",
+    "resposta": "Gregos (Grécia)"
+  },
+  {
+    "id": "historia-novato-046",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual cidade italiana, conhecida como Cidade Eterna, foi a capital de um poderoso império da Antiguidade?",
+    "resposta": "Roma"
+  },
+  {
+    "id": "historia-novato-047",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual enorme presente de madeira, em forma de animal, foi usado para entrar escondido na cidade de Troia?",
+    "resposta": "Cavalo"
+  },
+  {
+    "id": "historia-novato-048",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chama o longo período em que os humanos ainda não sabiam escrever?",
+    "resposta": "Pré-História (Pré-história)"
+  },
+  {
+    "id": "historia-novato-049",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual descoberta dos primeiros humanos servia para aquecer, iluminar e cozinhar os alimentos?",
+    "resposta": "Fogo"
+  },
+  {
+    "id": "historia-novato-050",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual antigo povo dos Andes construiu a cidade de Machu Picchu?",
+    "resposta": "Incas (Inca)"
+  },
+  {
+    "id": "historia-novato-051",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual tipo de algarismos, feitos de letras como I, V e X, aparece em relógios e capítulos de livros?",
+    "resposta": "Romanos (Números romanos)"
+  },
+  {
+    "id": "historia-novato-052",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual animal gigante, parente do elefante e coberto de pelos, viveu na Era do Gelo?",
+    "resposta": "Mamute"
+  },
+  {
+    "id": "historia-novato-053",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual invenção antiga, em forma de círculo, facilitou o transporte de cargas pesadas?",
+    "resposta": "Roda"
+  },
+  {
+    "id": "historia-novato-054",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chamam os desenhos feitos nas paredes das cavernas pelos humanos pré-históricos?",
+    "resposta": "Pinturas rupestres (Arte rupestre)"
+  },
+  {
+    "id": "historia-novato-055",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chama o período em que os humanos faziam ferramentas lascando rochas?",
+    "resposta": "Idade da Pedra"
+  },
+  {
+    "id": "historia-novato-056",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual animal foi o primeiro a ser domesticado pelos humanos e é chamado de melhor amigo do homem?",
+    "resposta": "Cão (Cachorro)"
+  },
+  {
+    "id": "historia-novato-057",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual grupo de répteis gigantes dominou a Terra milhões de anos antes dos humanos?",
+    "resposta": "Dinossauros"
+  },
+  {
+    "id": "historia-novato-058",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chamavam as grandes construções de pedra, com torres e muralhas, onde moravam os nobres?",
+    "resposta": "Castelos (Castelo)"
+  },
+  {
+    "id": "historia-novato-059",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chamavam os guerreiros nobres, protegidos por armaduras, que serviam aos reis na Idade Média?",
+    "resposta": "Cavaleiros (Cavaleiro)"
+  },
+  {
+    "id": "historia-novato-060",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual lendário governante, dono da espada Excalibur, reunia seus cavaleiros numa mesa redonda?",
+    "resposta": "Rei Artur (Artur, Arthur)"
+  },
+  {
+    "id": "historia-novato-061",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chama o buraco largo, cheio de água, que cercava castelos para dificultar a entrada de inimigos?",
+    "resposta": "Fosso"
+  },
+  {
+    "id": "historia-novato-062",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual povo navegador do norte da Europa cruzava os mares em longos barcos de madeira?",
+    "resposta": "Vikings (Viking)"
+  },
+  {
+    "id": "historia-novato-063",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual herói lendário, vestido de verde, roubava dos ricos para ajudar os pobres na floresta de Sherwood?",
+    "resposta": "Robin Hood"
+  },
+  {
+    "id": "historia-novato-064",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chamava a roupa de metal que protegia o corpo dos cavaleiros?",
+    "resposta": "Armadura"
+  },
+  {
+    "id": "historia-novato-065",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual criatura, que cospe fogo, aparecia nas histórias medievais guardando tesouros?",
+    "resposta": "Dragão"
+  },
+  {
+    "id": "historia-novato-066",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chamava o homem que usava coroa, morava no castelo e comandava o povo e os nobres?",
+    "resposta": "Rei"
+  },
+  {
+    "id": "historia-novato-067",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chama a igreja muito grande, com torres altas e vitrais coloridos, comum na Idade Média?",
+    "resposta": "Catedral"
+  },
+  {
+    "id": "historia-novato-068",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual jogo de tabuleiro, com peças como torre, bispo e cavalo, era popular entre os nobres medievais?",
+    "resposta": "Xadrez"
+  },
+  {
+    "id": "historia-novato-069",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual construção usa o vento ou a água para mover pedras que moem grãos de trigo?",
+    "resposta": "Moinho"
+  },
+  {
+    "id": "historia-novato-070",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual era o título do filho do rei, que um dia poderia herdar o trono?",
+    "resposta": "Príncipe"
+  },
+  {
+    "id": "historia-novato-071",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chamava a parede alta de pedra que cercava cidades e castelos para protegê-los?",
+    "resposta": "Muralha"
+  },
+  {
+    "id": "historia-novato-072",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Quantas guerras mundiais aconteceram no século XX?",
+    "resposta": "Duas (2)"
+  },
+  {
+    "id": "historia-novato-073",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual grande conflito, com países de vários continentes, terminou em 1945?",
+    "resposta": "Segunda Guerra Mundial (Segunda Guerra)"
+  },
+  {
+    "id": "historia-novato-074",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual ave branca, com um ramo de oliveira no bico, é símbolo da paz?",
+    "resposta": "Pomba"
+  },
+  {
+    "id": "historia-novato-075",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual imperador, de chapéu inconfundível, dominou boa parte da Europa e foi derrotado em Waterloo?",
+    "resposta": "Napoleão (Napoleão Bonaparte)"
+  },
+  {
+    "id": "historia-novato-076",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual parede de concreto dividiu uma cidade alemã em duas partes até ser derrubada, em 1989?",
+    "resposta": "Muro de Berlim (Berlim)"
+  },
+  {
+    "id": "historia-novato-077",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual entidade internacional, criada em 1945, reúne países do mundo para promover a paz?",
+    "resposta": "ONU (Nações Unidas)"
+  },
+  {
+    "id": "historia-novato-078",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual país europeu, vizinho da França e da Polônia, esteve no centro das duas guerras mundiais?",
+    "resposta": "Alemanha"
+  },
+  {
+    "id": "historia-novato-079",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chama o acordo que põe fim a uma guerra entre países?",
+    "resposta": "Tratado de paz (Paz, Armistício)"
+  },
+  {
+    "id": "historia-novato-080",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual país teve uma grande revolução em 1789, com o lema Liberdade, Igualdade e Fraternidade?",
+    "resposta": "França"
+  },
+  {
+    "id": "historia-novato-081",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual general liderou os americanos na guerra de independência e virou o primeiro presidente dos EUA?",
+    "resposta": "George Washington (Washington)"
+  },
+  {
+    "id": "historia-novato-082",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual presidente americano, de cartola alta, governou os EUA na Guerra Civil e combateu a escravidão?",
+    "resposta": "Abraham Lincoln (Lincoln)"
+  },
+  {
+    "id": "historia-novato-083",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual navegador, a serviço da Espanha, chegou à América em 1492?",
+    "resposta": "Cristóvão Colombo (Colombo)"
+  },
+  {
+    "id": "historia-novato-084",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual continente Colombo encontrou ao tentar chegar à Índia navegando para o oeste?",
+    "resposta": "América (Américas)"
+  },
+  {
+    "id": "historia-novato-085",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual navegador português foi o primeiro a chegar à Índia por mar, contornando a África?",
+    "resposta": "Vasco da Gama"
+  },
+  {
+    "id": "historia-novato-086",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual tipo de produto, como pimenta e canela, os europeus buscavam nas Índias?",
+    "resposta": "Especiarias (Especiaria)"
+  },
+  {
+    "id": "historia-novato-087",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Como se chamou o período em que os europeus cruzaram oceanos em busca de novas terras e rotas?",
+    "resposta": "Grandes Navegações (Descobrimentos)"
+  },
+  {
+    "id": "historia-novato-088",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual formato da Terra os navegadores ajudaram a provar ao darem a volta ao mundo?",
+    "resposta": "Redonda (Esférica)"
+  },
+  {
+    "id": "historia-novato-089",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Quem foi o primeiro ser humano a pisar na Lua, em 1969?",
+    "resposta": "Neil Armstrong (Armstrong)"
+  },
+  {
+    "id": "historia-novato-090",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual veículo, com motores potentes, leva astronautas e satélites para o espaço?",
+    "resposta": "Foguete"
+  },
+  {
+    "id": "historia-novato-091",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual força invisível faz os objetos caírem no chão?",
+    "resposta": "Gravidade"
+  },
+  {
+    "id": "historia-novato-092",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual artista italiano pintou a famosa Mona Lisa?",
+    "resposta": "Leonardo da Vinci (Da Vinci)"
+  },
+  {
+    "id": "historia-novato-093",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual cientista de cabelos brancos e arrepiados criou a teoria da relatividade?",
+    "resposta": "Albert Einstein (Einstein)"
+  },
+  {
+    "id": "historia-novato-094",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual cientista inglês ficou famoso por explicar a gravidade, segundo a lenda da maçã?",
+    "resposta": "Isaac Newton (Newton)"
+  },
+  {
+    "id": "historia-novato-095",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual famosa rainha do Egito antigo era conhecida pela beleza e pela inteligência?",
+    "resposta": "Cleópatra"
+  },
+  {
+    "id": "historia-novato-096",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual escritor inglês escreveu a peça Romeu e Julieta?",
+    "resposta": "William Shakespeare (Shakespeare)"
+  },
+  {
+    "id": "historia-novato-097",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual escritor brasileiro criou o Sítio do Picapau Amarelo?",
+    "resposta": "Monteiro Lobato"
+  },
+  {
+    "id": "historia-novato-098",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual americano criou o personagem Mickey Mouse e fundou um famoso estúdio de animação?",
+    "resposta": "Walt Disney (Disney)"
+  },
+  {
+    "id": "historia-novato-099",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual jogador brasileiro é chamado de \"Rei do Futebol\"?",
+    "resposta": "Pelé"
+  },
+  {
+    "id": "historia-novato-100",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual invenção, que acende ao ser ligada na eletricidade, iluminou casas e ruas no século XIX?",
+    "resposta": "Lâmpada"
+  },
+  {
+    "id": "historia-novato-101",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual aparelho permite conversar com alguém distante, usando a voz?",
+    "resposta": "Telefone"
+  },
+  {
+    "id": "historia-novato-102",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual meio de transporte, com asas e motores, cruza os céus levando passageiros?",
+    "resposta": "Avião"
+  },
+  {
+    "id": "historia-novato-103",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual material, inventado na China antiga, serve para escrever e desenhar?",
+    "resposta": "Papel"
+  },
+  {
+    "id": "historia-novato-104",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual invenção da Antiguidade permitiu registrar ideias e histórias em tabletes de argila?",
+    "resposta": "Escrita"
+  },
+  {
+    "id": "historia-novato-105",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual instrumento, usado por Galileu, permite ver astros muito distantes?",
+    "resposta": "Telescópio"
+  },
+  {
+    "id": "historia-novato-106",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual instrumento permite enxergar seres minúsculos, como as bactérias?",
+    "resposta": "Microscópio"
+  },
+  {
+    "id": "historia-novato-107",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual aparelho transmite sons e músicas por ondas, sem imagem?",
+    "resposta": "Rádio"
+  },
+  {
+    "id": "historia-novato-108",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual máquina eletrônica processa dados e é usada para trabalhar, estudar e jogar?",
+    "resposta": "Computador"
+  },
+  {
+    "id": "historia-novato-109",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual rede mundial conecta aparelhos e permite pesquisar, conversar e assistir a vídeos?",
+    "resposta": "Internet"
+  },
+  {
+    "id": "historia-novato-110",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual veículo de quatro rodas, movido a motor, virou um dos principais transportes das cidades?",
+    "resposta": "Carro (Automóvel)"
+  },
+  {
+    "id": "historia-novato-111",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual veículo de duas rodas se move com a força das pernas, por meio de pedais?",
+    "resposta": "Bicicleta"
+  },
+  {
+    "id": "historia-novato-112",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual invenção da medicina protege contra doenças ao preparar o corpo para combatê-las?",
+    "resposta": "Vacina"
+  },
+  {
+    "id": "historia-novato-113",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual objeto, inventado na Idade Média, ajuda quem tem dificuldade para enxergar?",
+    "resposta": "Óculos"
+  },
+  {
+    "id": "historia-novato-114",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual invenção substituiu as trocas de mercadorias e facilita as compras?",
+    "resposta": "Moeda (Dinheiro)"
+  },
+  {
+    "id": "historia-novato-115",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual aparelho registra imagens de paisagens, pessoas e festas?",
+    "resposta": "Câmera (Câmera fotográfica)"
+  },
+  {
+    "id": "historia-novato-116",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual eletrodoméstico, com um congelador, mantém os alimentos frescos e conservados na cozinha?",
+    "resposta": "Geladeira (Refrigerador)"
+  },
+  {
+    "id": "historia-novato-117",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual aparelho orbita a Terra e transmite sinais de TV e de GPS?",
+    "resposta": "Satélite"
+  },
+  {
+    "id": "historia-novato-118",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual aparelho, usado no pulso ou na parede, mostra as horas?",
+    "resposta": "Relógio"
+  },
+  {
+    "id": "historia-novato-119",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual objeto de cera, com pavio, iluminava as casas antes da eletricidade?",
+    "resposta": "Vela"
+  },
+  {
+    "id": "historia-novato-120",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual objeto, antes feito com pena de ave mergulhada em tinta, usamos hoje para escrever?",
+    "resposta": "Caneta"
+  },
+  {
+    "id": "historia-novato-121",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual instrumento, de dois pratos, serve para comparar e medir o peso das coisas?",
+    "resposta": "Balança"
+  },
+  {
+    "id": "historia-novato-122",
+    "tema": "historia",
+    "nivel": "novato",
+    "pergunta": "Qual pequeno palito acende fogo ao ser riscado?",
+    "resposta": "Fósforo"
+  },
+  {
+    "id": "portugues-novato-003",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o plural da palavra \"pão\"?",
+    "resposta": "Pães"
+  },
+  {
+    "id": "portugues-novato-004",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o plural da palavra \"animal\"?",
+    "resposta": "Animais"
+  },
+  {
+    "id": "portugues-novato-005",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o plural da palavra \"mão\"?",
+    "resposta": "Mãos"
+  },
+  {
+    "id": "portugues-novato-006",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o plural da palavra \"limão\"?",
+    "resposta": "Limões"
+  },
+  {
+    "id": "portugues-novato-007",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o plural da palavra \"coração\"?",
+    "resposta": "Corações"
+  },
+  {
+    "id": "portugues-novato-008",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o plural da palavra \"papel\"?",
+    "resposta": "Papéis"
+  },
+  {
+    "id": "portugues-novato-009",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o plural da palavra \"flor\"?",
+    "resposta": "Flores"
+  },
+  {
+    "id": "portugues-novato-010",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o plural da palavra \"mês\"?",
+    "resposta": "Meses"
+  },
+  {
+    "id": "portugues-novato-011",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o plural da palavra \"avião\"?",
+    "resposta": "Aviões"
+  },
+  {
+    "id": "portugues-novato-012",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o plural da palavra \"irmão\"?",
+    "resposta": "Irmãos"
+  },
+  {
+    "id": "portugues-novato-013",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o feminino da palavra \"rei\"?",
+    "resposta": "Rainha"
+  },
+  {
+    "id": "portugues-novato-014",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o feminino da palavra \"cavalo\"?",
+    "resposta": "Égua"
+  },
+  {
+    "id": "portugues-novato-015",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o feminino da palavra \"boi\"?",
+    "resposta": "Vaca"
+  },
+  {
+    "id": "portugues-novato-016",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o feminino da palavra \"homem\"?",
+    "resposta": "Mulher"
+  },
+  {
+    "id": "portugues-novato-017",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o feminino da palavra \"pai\"?",
+    "resposta": "Mãe"
+  },
+  {
+    "id": "portugues-novato-018",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o feminino da palavra \"galo\"?",
+    "resposta": "Galinha"
+  },
+  {
+    "id": "portugues-novato-019",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o feminino da palavra \"genro\"?",
+    "resposta": "Nora"
+  },
+  {
+    "id": "portugues-novato-020",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o feminino da palavra \"tio\"?",
+    "resposta": "Tia"
+  },
+  {
+    "id": "portugues-novato-021",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o feminino da palavra \"ator\"?",
+    "resposta": "Atriz"
+  },
+  {
+    "id": "portugues-novato-022",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o masculino da palavra \"madrinha\"?",
+    "resposta": "Padrinho"
+  },
+  {
+    "id": "portugues-novato-023",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o masculino da palavra \"leoa\"?",
+    "resposta": "Leão"
+  },
+  {
+    "id": "portugues-novato-024",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama o sinal (´) usado na palavra \"café\"?",
+    "resposta": "Agudo (Acento agudo)"
+  },
+  {
+    "id": "portugues-novato-025",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama o sinal (^) usado na palavra \"você\"?",
+    "resposta": "Circunflexo (Acento circunflexo)"
+  },
+  {
+    "id": "portugues-novato-026",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama o sinal (~) que aparece sobre o A na palavra \"maçã\"?",
+    "resposta": "Til"
+  },
+  {
+    "id": "portugues-novato-027",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama o sinal que fica embaixo do C na palavra \"praça\"?",
+    "resposta": "Cedilha"
+  },
+  {
+    "id": "portugues-novato-028",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama o pequeno traço (-) usado em palavras como \"guarda-chuva\"?",
+    "resposta": "Hífen"
+  },
+  {
+    "id": "portugues-novato-029",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama o sinal (,) que marca uma pausa curta na leitura?",
+    "resposta": "Vírgula"
+  },
+  {
+    "id": "portugues-novato-030",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual sinal (?) aparece no fim de uma pergunta?",
+    "resposta": "Interrogação (Ponto de interrogação)"
+  },
+  {
+    "id": "portugues-novato-031",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual sinal (!) mostra surpresa, alegria ou susto?",
+    "resposta": "Exclamação (Ponto de exclamação)"
+  },
+  {
+    "id": "portugues-novato-032",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual sinal (.) fecha uma frase comum?",
+    "resposta": "Ponto final (Ponto)"
+  },
+  {
+    "id": "portugues-novato-033",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chamam os sinais que ficam antes e depois da fala ou da citação de alguém?",
+    "resposta": "Aspas"
+  },
+  {
+    "id": "portugues-novato-034",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama a letra grande usada no início de nomes e frases?",
+    "resposta": "Maiúscula"
+  },
+  {
+    "id": "portugues-novato-035",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama a letra pequena, usada na maior parte das palavras?",
+    "resposta": "Minúscula"
+  },
+  {
+    "id": "portugues-novato-036",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Quantas vogais existem no alfabeto português?",
+    "resposta": "Cinco (5)"
+  },
+  {
+    "id": "portugues-novato-037",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Quantas letras tem o alfabeto da língua portuguesa?",
+    "resposta": "26 (Vinte e seis)"
+  },
+  {
+    "id": "portugues-novato-038",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Quantas sílabas tem a palavra \"borboleta\"?",
+    "resposta": "Quatro (4)"
+  },
+  {
+    "id": "portugues-novato-039",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Quantas sílabas tem a palavra \"banana\"?",
+    "resposta": "Três (3)"
+  },
+  {
+    "id": "portugues-novato-040",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se escreve por extenso o número 12?",
+    "resposta": "Doze"
+  },
+  {
+    "id": "portugues-novato-041",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se escreve por extenso o número 13?",
+    "resposta": "Treze"
+  },
+  {
+    "id": "portugues-novato-042",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se escreve por extenso o número 15?",
+    "resposta": "Quinze"
+  },
+  {
+    "id": "portugues-novato-043",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual bebida quente e escura, feita de grãos torrados, muita gente toma de manhã?",
+    "resposta": "Café"
+  },
+  {
+    "id": "portugues-novato-044",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual dia da semana vem logo depois da sexta-feira?",
+    "resposta": "Sábado"
+  },
+  {
+    "id": "portugues-novato-045",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual fruta, vermelha ou verde, caiu na cabeça de Newton, segundo a lenda?",
+    "resposta": "Maçã"
+  },
+  {
+    "id": "portugues-novato-046",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama a mãe do seu pai ou da sua mãe?",
+    "resposta": "Avó"
+  },
+  {
+    "id": "portugues-novato-047",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual objeto de madeira, com grafite, serve para escrever e pode ser apagado com borracha?",
+    "resposta": "Lápis"
+  },
+  {
+    "id": "portugues-novato-048",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual parte do corpo usamos para calçar um sapato?",
+    "resposta": "Pé"
+  },
+  {
+    "id": "portugues-novato-049",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual fruta roxa da Amazônia é muito servida em tigelas, com granola e banana?",
+    "resposta": "Açaí"
+  },
+  {
+    "id": "portugues-novato-050",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual instrumento de seis cordas é muito tocado em rodas de música e serestas?",
+    "resposta": "Violão"
+  },
+  {
+    "id": "portugues-novato-051",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual veículo grande leva muitos passageiros pelas ruas da cidade e para nos pontos?",
+    "resposta": "Ônibus"
+  },
+  {
+    "id": "portugues-novato-052",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual estabelecimento vende remédios e produtos de higiene?",
+    "resposta": "Farmácia (Drogaria)"
+  },
+  {
+    "id": "portugues-novato-053",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama o dia em que comemoramos o nascimento de alguém, com bolo e parabéns?",
+    "resposta": "Aniversário"
+  },
+  {
+    "id": "portugues-novato-054",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual profissional examina doentes e receita tratamentos?",
+    "resposta": "Médico (Médica)"
+  },
+  {
+    "id": "portugues-novato-055",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual dia da semana vem logo depois da segunda?",
+    "resposta": "Terça-feira (Terça)"
+  },
+  {
+    "id": "portugues-novato-056",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o antônimo de \"grande\"?",
+    "resposta": "Pequeno"
+  },
+  {
+    "id": "portugues-novato-057",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o antônimo de \"alto\"?",
+    "resposta": "Baixo"
+  },
+  {
+    "id": "portugues-novato-058",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o antônimo de \"quente\"?",
+    "resposta": "Frio"
+  },
+  {
+    "id": "portugues-novato-059",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o antônimo de \"rápido\"?",
+    "resposta": "Lento (Devagar)"
+  },
+  {
+    "id": "portugues-novato-060",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o antônimo de \"dia\"?",
+    "resposta": "Noite"
+  },
+  {
+    "id": "portugues-novato-061",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o antônimo de \"feliz\"?",
+    "resposta": "Triste"
+  },
+  {
+    "id": "portugues-novato-062",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o antônimo de \"claro\"?",
+    "resposta": "Escuro"
+  },
+  {
+    "id": "portugues-novato-063",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o antônimo de \"cheio\"?",
+    "resposta": "Vazio"
+  },
+  {
+    "id": "portugues-novato-064",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o antônimo de \"subir\"?",
+    "resposta": "Descer"
+  },
+  {
+    "id": "portugues-novato-065",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual é o antônimo de \"abrir\"?",
+    "resposta": "Fechar"
+  },
+  {
+    "id": "portugues-novato-066",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra de quatro letras, que começa com B, é sinônimo de \"bonito\"?",
+    "resposta": "Belo"
+  },
+  {
+    "id": "portugues-novato-067",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra de três letras, que começa com L, é sinônimo de \"casa\"?",
+    "resposta": "Lar"
+  },
+  {
+    "id": "portugues-novato-068",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra de três letras, que começa com C, é sinônimo de \"cachorro\"?",
+    "resposta": "Cão"
+  },
+  {
+    "id": "portugues-novato-069",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual verbo, que começa com a letra I, é sinônimo de \"começar\"?",
+    "resposta": "Iniciar"
+  },
+  {
+    "id": "portugues-novato-070",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual verbo, que começa com a letra A, é sinônimo de \"terminar\"?",
+    "resposta": "Acabar"
+  },
+  {
+    "id": "portugues-novato-071",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama a figura de linguagem que imita sons, como \"zum-zum\" e \"pof\"?",
+    "resposta": "Onomatopeia"
+  },
+  {
+    "id": "portugues-novato-072",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual onomatopeia imita o miado de um gato?",
+    "resposta": "Miau"
+  },
+  {
+    "id": "portugues-novato-073",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual onomatopeia imita o latido de um cachorro?",
+    "resposta": "Au-au (Au au)"
+  },
+  {
+    "id": "portugues-novato-074",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual onomatopeia imita o som de uma batida na porta?",
+    "resposta": "Toc-toc (Toc toc)"
+  },
+  {
+    "id": "portugues-novato-075",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual onomatopeia imita o som de um relógio?",
+    "resposta": "Tic-tac (Tic tac)"
+  },
+  {
+    "id": "portugues-novato-076",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual onomatopeia imita o canto do galo?",
+    "resposta": "Cocoricó (Cocorocó)"
+  },
+  {
+    "id": "portugues-novato-077",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual onomatopeia imita o barulho de um espirro?",
+    "resposta": "Atchim (Atchi)"
+  },
+  {
+    "id": "portugues-novato-078",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual onomatopeia imita o grunhido de um porquinho?",
+    "resposta": "Oinc (Oinc-oinc)"
+  },
+  {
+    "id": "portugues-novato-079",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual figura de linguagem aproxima duas coisas usando a palavra \"como\", em \"leve como uma pluma\"?",
+    "resposta": "Comparação"
+  },
+  {
+    "id": "portugues-novato-080",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual figura de linguagem aumenta demais as coisas, como em \"Já te chamei mil vezes\"?",
+    "resposta": "Hipérbole (Exagero)"
+  },
+  {
+    "id": "portugues-novato-081",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama o texto difícil de falar rápido, como \"O rato roeu a roupa do rei de Roma\"?",
+    "resposta": "Trava-língua"
+  },
+  {
+    "id": "portugues-novato-082",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama a frase curta que passa de geração em geração, como \"Quem ri por último ri melhor\"?",
+    "resposta": "Ditado popular (Provérbio)"
+  },
+  {
+    "id": "portugues-novato-083",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual boneca de pano falante é a personagem mais irreverente do Sítio do Picapau Amarelo?",
+    "resposta": "Emília"
+  },
+  {
+    "id": "portugues-novato-084",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual personagem sábio do Sítio do Picapau Amarelo é feito de uma espiga de milho seca?",
+    "resposta": "Visconde de Sabugosa (Visconde)"
+  },
+  {
+    "id": "portugues-novato-085",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual personagem de Ziraldo tem uma panela na cabeça e vive aprontando?",
+    "resposta": "Menino Maluquinho"
+  },
+  {
+    "id": "portugues-novato-086",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual personagem de Maurício de Sousa tem dentes grandes e um coelhinho azul de pelúcia?",
+    "resposta": "Mônica"
+  },
+  {
+    "id": "portugues-novato-087",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual personagem do folclore brasileiro tem uma perna só, usa gorro vermelho e faz travessuras?",
+    "resposta": "Saci (Saci-Pererê)"
+  },
+  {
+    "id": "portugues-novato-088",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual protetor das matas, do folclore brasileiro, tem os pés virados para trás?",
+    "resposta": "Curupira"
+  },
+  {
+    "id": "portugues-novato-089",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual figura do folclore é um animal que galopa soltando fogo pelo pescoço?",
+    "resposta": "Mula sem cabeça"
+  },
+  {
+    "id": "portugues-novato-090",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual sereia do folclore brasileiro vive nos rios e encanta quem ouve o seu canto?",
+    "resposta": "Iara (Mãe-d'água)"
+  },
+  {
+    "id": "portugues-novato-091",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual criatura das lendas, metade gente e metade fera, aparece nas noites de lua cheia?",
+    "resposta": "Lobisomem"
+  },
+  {
+    "id": "portugues-novato-092",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual bruxa-jacaré aparece na cantiga \"Nana, neném, que a ... vem pegar\"?",
+    "resposta": "Cuca"
+  },
+  {
+    "id": "portugues-novato-093",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama a história curta com animais que falam e termina com uma lição?",
+    "resposta": "Fábula"
+  },
+  {
+    "id": "portugues-novato-094",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama quem cria as histórias de um livro?",
+    "resposta": "Autor (Escritor)"
+  },
+  {
+    "id": "portugues-novato-095",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama o lugar onde podemos pegar livros emprestados?",
+    "resposta": "Biblioteca"
+  },
+  {
+    "id": "portugues-novato-096",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Como se chama o texto escrito em versos, muitas vezes com rimas?",
+    "resposta": "Poema (Poesia)"
+  },
+  {
+    "id": "portugues-novato-097",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra completa o ditado \"Água mole em pedra dura, tanto bate até que ...\"?",
+    "resposta": "Fura"
+  },
+  {
+    "id": "portugues-novato-098",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra completa o ditado \"Casa de ferreiro, espeto de ...\"?",
+    "resposta": "Pau"
+  },
+  {
+    "id": "portugues-novato-099",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra completa o ditado \"Mais vale um pássaro na mão do que dois ...\"?",
+    "resposta": "Voando"
+  },
+  {
+    "id": "portugues-novato-100",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra completa o ditado \"Cada macaco no seu ...\"?",
+    "resposta": "Galho"
+  },
+  {
+    "id": "portugues-novato-101",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra completa o ditado \"Em terra de cego, quem tem um olho é ...\"?",
+    "resposta": "Rei"
+  },
+  {
+    "id": "portugues-novato-102",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra completa o ditado \"De grão em grão, a galinha enche o ...\"?",
+    "resposta": "Papo"
+  },
+  {
+    "id": "portugues-novato-103",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra completa o ditado \"Cachorro que late não ...\"?",
+    "resposta": "Morde"
+  },
+  {
+    "id": "portugues-novato-104",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra completa o ditado \"Quem tem boca vai a ...\"?",
+    "resposta": "Roma"
+  },
+  {
+    "id": "portugues-novato-105",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra completa o ditado \"Dar um passo maior do que a ...\"?",
+    "resposta": "Perna"
+  },
+  {
+    "id": "portugues-novato-106",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra completa o ditado \"Deus ajuda quem cedo ...\"?",
+    "resposta": "Madruga"
+  },
+  {
+    "id": "portugues-novato-107",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra completa o ditado \"Antes tarde do que ...\"?",
+    "resposta": "Nunca"
+  },
+  {
+    "id": "portugues-novato-108",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra completa o ditado \"Para bom entendedor, meia palavra ...\"?",
+    "resposta": "Basta"
+  },
+  {
+    "id": "portugues-novato-109",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra completa o ditado \"Vão-se os anéis, ficam os ...\"?",
+    "resposta": "Dedos"
+  },
+  {
+    "id": "portugues-novato-110",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "O que significa a palavra \"enorme\"?",
+    "resposta": "Muito grande"
+  },
+  {
+    "id": "portugues-novato-111",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "O que significa a palavra \"minúsculo\"?",
+    "resposta": "Muito pequeno"
+  },
+  {
+    "id": "portugues-novato-112",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "O que significa a palavra \"veloz\"?",
+    "resposta": "Rápido (Ligeiro)"
+  },
+  {
+    "id": "portugues-novato-113",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "O que significa a palavra \"ontem\"?",
+    "resposta": "Dia anterior (Dia passado)"
+  },
+  {
+    "id": "portugues-novato-114",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "O que significa a palavra \"amanhã\"?",
+    "resposta": "Dia seguinte"
+  },
+  {
+    "id": "portugues-novato-115",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "O que significa a palavra \"diálogo\"?",
+    "resposta": "Conversa"
+  },
+  {
+    "id": "portugues-novato-116",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "O que significa a palavra \"ruído\"?",
+    "resposta": "Barulho (Som)"
+  },
+  {
+    "id": "portugues-novato-117",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "O que significa a palavra \"carnívoro\"?",
+    "resposta": "Come carne"
+  },
+  {
+    "id": "portugues-novato-118",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "O que significa a palavra \"herbívoro\"?",
+    "resposta": "Come plantas (Come vegetais)"
+  },
+  {
+    "id": "portugues-novato-119",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "O que significa a palavra \"bilíngue\"?",
+    "resposta": "Fala dois idiomas"
+  },
+  {
+    "id": "portugues-novato-120",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "O que significa a palavra \"vizinho\"?",
+    "resposta": "Mora perto"
+  },
+  {
+    "id": "portugues-novato-121",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "O que significa a palavra \"delicioso\"?",
+    "resposta": "Muito gostoso"
+  },
+  {
+    "id": "portugues-novato-122",
+    "tema": "portugues",
+    "nivel": "novato",
+    "pergunta": "Qual palavra nomeia o grupo de pessoas que moram juntas, como pais e filhos?",
+    "resposta": "Família"
   }
 ]

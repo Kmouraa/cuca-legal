@@ -1,0 +1,842 @@
+[
+    {
+        "id": "historia-novato-003",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Em que ano os portugueses chegaram ao Brasil?",
+        "resposta": "1500"
+    },
+    {
+        "id": "historia-novato-004",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual navegador português liderou a frota que chegou ao Brasil pela primeira vez?",
+        "resposta": "Pedro Álvares Cabral (Cabral)"
+    },
+    {
+        "id": "historia-novato-005",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "De qual país vieram os colonizadores que dominaram o Brasil por mais de 300 anos?",
+        "resposta": "Portugal"
+    },
+    {
+        "id": "historia-novato-006",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual árvore, de madeira avermelhada, foi explorada pelos portugueses e deu nome ao nosso país?",
+        "resposta": "Pau-brasil"
+    },
+    {
+        "id": "historia-novato-007",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como eram chamados os povos que já viviam no Brasil quando os portugueses chegaram?",
+        "resposta": "Indígenas (Índios)"
+    },
+    {
+        "id": "historia-novato-008",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual planta era a base da riqueza dos engenhos do Nordeste no período colonial?",
+        "resposta": "Cana-de-açúcar (Cana)"
+    },
+    {
+        "id": "historia-novato-009",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual metal precioso atraiu muita gente para o interior do país no período colonial?",
+        "resposta": "Ouro"
+    },
+    {
+        "id": "historia-novato-010",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual herói da Inconfidência Mineira é lembrado no feriado de 21 de abril?",
+        "resposta": "Tiradentes"
+    },
+    {
+        "id": "historia-novato-011",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual líder do Quilombo dos Palmares é lembrado no Dia da Consciência Negra, em 20 de novembro?",
+        "resposta": "Zumbi"
+    },
+    {
+        "id": "historia-novato-012",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual raiz, usada pelos indígenas, serve para fazer farinha e tapioca?",
+        "resposta": "Mandioca (Aipim, Macaxeira)"
+    },
+    {
+        "id": "historia-novato-013",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual religião os colonizadores portugueses trouxeram e ensinaram aos indígenas?",
+        "resposta": "Catolicismo (Cristianismo)"
+    },
+    {
+        "id": "historia-novato-014",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual cereal, cultivado pelos indígenas, é a base da pipoca e da pamonha?",
+        "resposta": "Milho"
+    },
+    {
+        "id": "historia-novato-015",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Em qual região do país ficavam os principais engenhos do início da colônia?",
+        "resposta": "Nordeste"
+    },
+    {
+        "id": "historia-novato-016",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual objeto de dormir, aprendido com os indígenas, fica pendurado entre dois ganchos?",
+        "resposta": "Rede"
+    },
+    {
+        "id": "historia-novato-017",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual arte afro-brasileira mistura dança, jogo e música ao som do berimbau?",
+        "resposta": "Capoeira"
+    },
+    {
+        "id": "historia-novato-018",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chamavam os navios a vela usados pelos portugueses nas grandes viagens pelo oceano?",
+        "resposta": "Caravela (Caravelas)"
+    },
+    {
+        "id": "historia-novato-019",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual instrumento, com uma agulha que aponta o norte, ajudava os navegadores a se orientar?",
+        "resposta": "Bússola"
+    },
+    {
+        "id": "historia-novato-020",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual príncipe português declarou a independência do Brasil em 1822?",
+        "resposta": "Dom Pedro I (Pedro I)"
+    },
+    {
+        "id": "historia-novato-021",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Em qual dia e mês comemoramos a Independência do Brasil?",
+        "resposta": "7 de setembro"
+    },
+    {
+        "id": "historia-novato-022",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Quem foi o último imperador do Brasil, que reinou por quase 60 anos?",
+        "resposta": "Dom Pedro II (Pedro II)"
+    },
+    {
+        "id": "historia-novato-023",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Quem assinou a Lei Áurea, em 1888?",
+        "resposta": "Princesa Isabel"
+    },
+    {
+        "id": "historia-novato-024",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chamava o sistema em que pessoas eram obrigadas a trabalhar sem liberdade e sem salário?",
+        "resposta": "Escravidão"
+    },
+    {
+        "id": "historia-novato-025",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual grão, usado para fazer uma bebida escura e amarga, foi o principal produto de exportação do século XIX?",
+        "resposta": "Café"
+    },
+    {
+        "id": "historia-novato-026",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o regime de governo em que um rei ou uma rainha comanda o país?",
+        "resposta": "Monarquia"
+    },
+    {
+        "id": "historia-novato-027",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual meio de transporte a vapor, apelidado de Maria Fumaça, chegou ao Brasil no tempo do Império?",
+        "resposta": "Trem (Locomotiva)"
+    },
+    {
+        "id": "historia-novato-028",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual é a data do feriado que celebra o fim do governo dos imperadores no Brasil?",
+        "resposta": "15 de novembro"
+    },
+    {
+        "id": "historia-novato-029",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual cidade foi construída entre 1956 e 1960 para ser a nova capital do país?",
+        "resposta": "Brasília"
+    },
+    {
+        "id": "historia-novato-030",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual cidade era a capital do país até 1960?",
+        "resposta": "Rio de Janeiro (Rio)"
+    },
+    {
+        "id": "historia-novato-031",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual brasileiro, criador do 14-Bis, é chamado de \"Pai da Aviação\"?",
+        "resposta": "Santos Dumont"
+    },
+    {
+        "id": "historia-novato-032",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chama a forma de governo em que o chefe do país é um presidente e não um rei?",
+        "resposta": "República"
+    },
+    {
+        "id": "historia-novato-033",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Em 1932, as mulheres brasileiras conquistaram o direito de fazer o quê nas eleições?",
+        "resposta": "Votar (Voto)"
+    },
+    {
+        "id": "historia-novato-034",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual país asiático enviou muitos imigrantes para São Paulo, formando o bairro da Liberdade?",
+        "resposta": "Japão"
+    },
+    {
+        "id": "historia-novato-035",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "De qual país europeu vieram muitos imigrantes que trouxeram a pizza e o macarrão para o Brasil?",
+        "resposta": "Itália"
+    },
+    {
+        "id": "historia-novato-036",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual lema está escrito na faixa da bandeira do Brasil?",
+        "resposta": "Ordem e Progresso"
+    },
+    {
+        "id": "historia-novato-037",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual aparelho, com imagem e som, começou a transmitir no Brasil em 1950?",
+        "resposta": "Televisão (TV)"
+    },
+    {
+        "id": "historia-novato-038",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o conjunto de leis mais importante de um país?",
+        "resposta": "Constituição"
+    },
+    {
+        "id": "historia-novato-039",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual grande evento esportivo, com atletas do mundo todo, aconteceu no Brasil em 2016?",
+        "resposta": "Olimpíadas (Jogos Olímpicos)"
+    },
+    {
+        "id": "historia-novato-040",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual famoso estádio carioca foi inaugurado em 1950 para uma Copa do Mundo?",
+        "resposta": "Maracanã"
+    },
+    {
+        "id": "historia-novato-041",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual música símbolo do país é cantada antes dos jogos da seleção?",
+        "resposta": "Hino Nacional"
+    },
+    {
+        "id": "historia-novato-042",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual animal, trazido pelos portugueses, passou a ser criado em grandes fazendas para dar carne e leite?",
+        "resposta": "Boi (Gado, Vaca)"
+    },
+    {
+        "id": "historia-novato-043",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chamavam os reis do Antigo Egito?",
+        "resposta": "Faraós (Faraó)"
+    },
+    {
+        "id": "historia-novato-044",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chamam as enormes construções de formato triangular que serviam de túmulos aos reis do Egito?",
+        "resposta": "Pirâmides (Pirâmide)"
+    },
+    {
+        "id": "historia-novato-045",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual povo antigo criou os Jogos Olímpicos, em homenagem aos seus deuses?",
+        "resposta": "Gregos (Grécia)"
+    },
+    {
+        "id": "historia-novato-046",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual cidade italiana, conhecida como Cidade Eterna, foi a capital de um poderoso império da Antiguidade?",
+        "resposta": "Roma"
+    },
+    {
+        "id": "historia-novato-047",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual enorme presente de madeira, em forma de animal, foi usado para entrar escondido na cidade de Troia?",
+        "resposta": "Cavalo"
+    },
+    {
+        "id": "historia-novato-048",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o longo período em que os humanos ainda não sabiam escrever?",
+        "resposta": "Pré-História (Pré-história)"
+    },
+    {
+        "id": "historia-novato-049",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual descoberta dos primeiros humanos servia para aquecer, iluminar e cozinhar os alimentos?",
+        "resposta": "Fogo"
+    },
+    {
+        "id": "historia-novato-050",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual antigo povo dos Andes construiu a cidade de Machu Picchu?",
+        "resposta": "Incas (Inca)"
+    },
+    {
+        "id": "historia-novato-051",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual tipo de algarismos, feitos de letras como I, V e X, aparece em relógios e capítulos de livros?",
+        "resposta": "Romanos (Números romanos)"
+    },
+    {
+        "id": "historia-novato-052",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual animal gigante, parente do elefante e coberto de pelos, viveu na Era do Gelo?",
+        "resposta": "Mamute"
+    },
+    {
+        "id": "historia-novato-053",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual invenção antiga, em forma de círculo, facilitou o transporte de cargas pesadas?",
+        "resposta": "Roda"
+    },
+    {
+        "id": "historia-novato-054",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chamam os desenhos feitos nas paredes das cavernas pelos humanos pré-históricos?",
+        "resposta": "Pinturas rupestres (Arte rupestre)"
+    },
+    {
+        "id": "historia-novato-055",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o período em que os humanos faziam ferramentas lascando rochas?",
+        "resposta": "Idade da Pedra"
+    },
+    {
+        "id": "historia-novato-056",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual animal foi o primeiro a ser domesticado pelos humanos e é chamado de melhor amigo do homem?",
+        "resposta": "Cão (Cachorro)"
+    },
+    {
+        "id": "historia-novato-057",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual grupo de répteis gigantes dominou a Terra milhões de anos antes dos humanos?",
+        "resposta": "Dinossauros"
+    },
+    {
+        "id": "historia-novato-058",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chamavam as grandes construções de pedra, com torres e muralhas, onde moravam os nobres?",
+        "resposta": "Castelos (Castelo)"
+    },
+    {
+        "id": "historia-novato-059",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chamavam os guerreiros nobres, protegidos por armaduras, que serviam aos reis na Idade Média?",
+        "resposta": "Cavaleiros (Cavaleiro)"
+    },
+    {
+        "id": "historia-novato-060",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual lendário governante, dono da espada Excalibur, reunia seus cavaleiros numa mesa redonda?",
+        "resposta": "Rei Artur (Artur, Arthur)"
+    },
+    {
+        "id": "historia-novato-061",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o buraco largo, cheio de água, que cercava castelos para dificultar a entrada de inimigos?",
+        "resposta": "Fosso"
+    },
+    {
+        "id": "historia-novato-062",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual povo navegador do norte da Europa cruzava os mares em longos barcos de madeira?",
+        "resposta": "Vikings (Viking)"
+    },
+    {
+        "id": "historia-novato-063",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual herói lendário, vestido de verde, roubava dos ricos para ajudar os pobres na floresta de Sherwood?",
+        "resposta": "Robin Hood"
+    },
+    {
+        "id": "historia-novato-064",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chamava a roupa de metal que protegia o corpo dos cavaleiros?",
+        "resposta": "Armadura"
+    },
+    {
+        "id": "historia-novato-065",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual criatura, que cospe fogo, aparecia nas histórias medievais guardando tesouros?",
+        "resposta": "Dragão"
+    },
+    {
+        "id": "historia-novato-066",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chamava o homem que usava coroa, morava no castelo e comandava o povo e os nobres?",
+        "resposta": "Rei"
+    },
+    {
+        "id": "historia-novato-067",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chama a igreja muito grande, com torres altas e vitrais coloridos, comum na Idade Média?",
+        "resposta": "Catedral"
+    },
+    {
+        "id": "historia-novato-068",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual jogo de tabuleiro, com peças como torre, bispo e cavalo, era popular entre os nobres medievais?",
+        "resposta": "Xadrez"
+    },
+    {
+        "id": "historia-novato-069",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual construção usa o vento ou a água para mover pedras que moem grãos de trigo?",
+        "resposta": "Moinho"
+    },
+    {
+        "id": "historia-novato-070",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual era o título do filho do rei, que um dia poderia herdar o trono?",
+        "resposta": "Príncipe"
+    },
+    {
+        "id": "historia-novato-071",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chamava a parede alta de pedra que cercava cidades e castelos para protegê-los?",
+        "resposta": "Muralha"
+    },
+    {
+        "id": "historia-novato-072",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Quantas guerras mundiais aconteceram no século XX?",
+        "resposta": "Duas (2)"
+    },
+    {
+        "id": "historia-novato-073",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual grande conflito, com países de vários continentes, terminou em 1945?",
+        "resposta": "Segunda Guerra Mundial (Segunda Guerra)"
+    },
+    {
+        "id": "historia-novato-074",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual ave branca, com um ramo de oliveira no bico, é símbolo da paz?",
+        "resposta": "Pomba"
+    },
+    {
+        "id": "historia-novato-075",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual imperador, de chapéu inconfundível, dominou boa parte da Europa e foi derrotado em Waterloo?",
+        "resposta": "Napoleão (Napoleão Bonaparte)"
+    },
+    {
+        "id": "historia-novato-076",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual parede de concreto dividiu uma cidade alemã em duas partes até ser derrubada, em 1989?",
+        "resposta": "Muro de Berlim (Berlim)"
+    },
+    {
+        "id": "historia-novato-077",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual entidade internacional, criada em 1945, reúne países do mundo para promover a paz?",
+        "resposta": "ONU (Nações Unidas)"
+    },
+    {
+        "id": "historia-novato-078",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual país europeu, vizinho da França e da Polônia, esteve no centro das duas guerras mundiais?",
+        "resposta": "Alemanha"
+    },
+    {
+        "id": "historia-novato-079",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chama o acordo que põe fim a uma guerra entre países?",
+        "resposta": "Tratado de paz (Paz, Armistício)"
+    },
+    {
+        "id": "historia-novato-080",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual país teve uma grande revolução em 1789, com o lema Liberdade, Igualdade e Fraternidade?",
+        "resposta": "França"
+    },
+    {
+        "id": "historia-novato-081",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual general liderou os americanos na guerra de independência e virou o primeiro presidente dos EUA?",
+        "resposta": "George Washington (Washington)"
+    },
+    {
+        "id": "historia-novato-082",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual presidente americano, de cartola alta, governou os EUA na Guerra Civil e combateu a escravidão?",
+        "resposta": "Abraham Lincoln (Lincoln)"
+    },
+    {
+        "id": "historia-novato-083",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual navegador, a serviço da Espanha, chegou à América em 1492?",
+        "resposta": "Cristóvão Colombo (Colombo)"
+    },
+    {
+        "id": "historia-novato-084",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual continente Colombo encontrou ao tentar chegar à Índia navegando para o oeste?",
+        "resposta": "América (Américas)"
+    },
+    {
+        "id": "historia-novato-085",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual navegador português foi o primeiro a chegar à Índia por mar, contornando a África?",
+        "resposta": "Vasco da Gama"
+    },
+    {
+        "id": "historia-novato-086",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual tipo de produto, como pimenta e canela, os europeus buscavam nas Índias?",
+        "resposta": "Especiarias (Especiaria)"
+    },
+    {
+        "id": "historia-novato-087",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Como se chamou o período em que os europeus cruzaram oceanos em busca de novas terras e rotas?",
+        "resposta": "Grandes Navegações (Descobrimentos)"
+    },
+    {
+        "id": "historia-novato-088",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual formato da Terra os navegadores ajudaram a provar ao darem a volta ao mundo?",
+        "resposta": "Redonda (Esférica)"
+    },
+    {
+        "id": "historia-novato-089",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Quem foi o primeiro ser humano a pisar na Lua, em 1969?",
+        "resposta": "Neil Armstrong (Armstrong)"
+    },
+    {
+        "id": "historia-novato-090",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual veículo, com motores potentes, leva astronautas e satélites para o espaço?",
+        "resposta": "Foguete"
+    },
+    {
+        "id": "historia-novato-091",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual força invisível faz os objetos caírem no chão?",
+        "resposta": "Gravidade"
+    },
+    {
+        "id": "historia-novato-092",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual artista italiano pintou a famosa Mona Lisa?",
+        "resposta": "Leonardo da Vinci (Da Vinci)"
+    },
+    {
+        "id": "historia-novato-093",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual cientista de cabelos brancos e arrepiados criou a teoria da relatividade?",
+        "resposta": "Albert Einstein (Einstein)"
+    },
+    {
+        "id": "historia-novato-094",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual cientista inglês ficou famoso por explicar a gravidade, segundo a lenda da maçã?",
+        "resposta": "Isaac Newton (Newton)"
+    },
+    {
+        "id": "historia-novato-095",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual famosa rainha do Egito antigo era conhecida pela beleza e pela inteligência?",
+        "resposta": "Cleópatra"
+    },
+    {
+        "id": "historia-novato-096",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual escritor inglês escreveu a peça Romeu e Julieta?",
+        "resposta": "William Shakespeare (Shakespeare)"
+    },
+    {
+        "id": "historia-novato-097",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual escritor brasileiro criou o Sítio do Picapau Amarelo?",
+        "resposta": "Monteiro Lobato"
+    },
+    {
+        "id": "historia-novato-098",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual americano criou o personagem Mickey Mouse e fundou um famoso estúdio de animação?",
+        "resposta": "Walt Disney (Disney)"
+    },
+    {
+        "id": "historia-novato-099",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual jogador brasileiro é chamado de \"Rei do Futebol\"?",
+        "resposta": "Pelé"
+    },
+    {
+        "id": "historia-novato-100",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual invenção, que acende ao ser ligada na eletricidade, iluminou casas e ruas no século XIX?",
+        "resposta": "Lâmpada"
+    },
+    {
+        "id": "historia-novato-101",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual aparelho permite conversar com alguém distante, usando a voz?",
+        "resposta": "Telefone"
+    },
+    {
+        "id": "historia-novato-102",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual meio de transporte, com asas e motores, cruza os céus levando passageiros?",
+        "resposta": "Avião"
+    },
+    {
+        "id": "historia-novato-103",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual material, inventado na China antiga, serve para escrever e desenhar?",
+        "resposta": "Papel"
+    },
+    {
+        "id": "historia-novato-104",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual invenção da Antiguidade permitiu registrar ideias e histórias em tabletes de argila?",
+        "resposta": "Escrita"
+    },
+    {
+        "id": "historia-novato-105",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual instrumento, usado por Galileu, permite ver astros muito distantes?",
+        "resposta": "Telescópio"
+    },
+    {
+        "id": "historia-novato-106",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual instrumento permite enxergar seres minúsculos, como as bactérias?",
+        "resposta": "Microscópio"
+    },
+    {
+        "id": "historia-novato-107",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual aparelho transmite sons e músicas por ondas, sem imagem?",
+        "resposta": "Rádio"
+    },
+    {
+        "id": "historia-novato-108",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual máquina eletrônica processa dados e é usada para trabalhar, estudar e jogar?",
+        "resposta": "Computador"
+    },
+    {
+        "id": "historia-novato-109",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual rede mundial conecta aparelhos e permite pesquisar, conversar e assistir a vídeos?",
+        "resposta": "Internet"
+    },
+    {
+        "id": "historia-novato-110",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual veículo de quatro rodas, movido a motor, virou um dos principais transportes das cidades?",
+        "resposta": "Carro (Automóvel)"
+    },
+    {
+        "id": "historia-novato-111",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual veículo de duas rodas se move com a força das pernas, por meio de pedais?",
+        "resposta": "Bicicleta"
+    },
+    {
+        "id": "historia-novato-112",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual invenção da medicina protege contra doenças ao preparar o corpo para combatê-las?",
+        "resposta": "Vacina"
+    },
+    {
+        "id": "historia-novato-113",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual objeto, inventado na Idade Média, ajuda quem tem dificuldade para enxergar?",
+        "resposta": "Óculos"
+    },
+    {
+        "id": "historia-novato-114",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual invenção substituiu as trocas de mercadorias e facilita as compras?",
+        "resposta": "Moeda (Dinheiro)"
+    },
+    {
+        "id": "historia-novato-115",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual aparelho registra imagens de paisagens, pessoas e festas?",
+        "resposta": "Câmera (Câmera fotográfica)"
+    },
+    {
+        "id": "historia-novato-116",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual eletrodoméstico, com um congelador, mantém os alimentos frescos e conservados na cozinha?",
+        "resposta": "Geladeira (Refrigerador)"
+    },
+    {
+        "id": "historia-novato-117",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual aparelho orbita a Terra e transmite sinais de TV e de GPS?",
+        "resposta": "Satélite"
+    },
+    {
+        "id": "historia-novato-118",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual aparelho, usado no pulso ou na parede, mostra as horas?",
+        "resposta": "Relógio"
+    },
+    {
+        "id": "historia-novato-119",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual objeto de cera, com pavio, iluminava as casas antes da eletricidade?",
+        "resposta": "Vela"
+    },
+    {
+        "id": "historia-novato-120",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual objeto, antes feito com pena de ave mergulhada em tinta, usamos hoje para escrever?",
+        "resposta": "Caneta"
+    },
+    {
+        "id": "historia-novato-121",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual instrumento, de dois pratos, serve para comparar e medir o peso das coisas?",
+        "resposta": "Balança"
+    },
+    {
+        "id": "historia-novato-122",
+        "tema": "historia",
+        "nivel": "novato",
+        "pergunta": "Qual pequeno palito acende fogo ao ser riscado?",
+        "resposta": "Fósforo"
+    }
+]
