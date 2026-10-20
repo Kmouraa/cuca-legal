@@ -5332,5 +5332,845 @@
     "nivel": "novato",
     "pergunta": "Qual palavra nomeia o grupo de pessoas que moram juntas, como pais e filhos?",
     "resposta": "Família"
+  },
+  {
+    "id": "atualidades-sabichao-003",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual empresa japonesa criou o console PlayStation?",
+    "resposta": "Sony"
+  },
+  {
+    "id": "atualidades-sabichao-004",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual vilão com casco e espinhos costuma raptar a princesa Peach?",
+    "resposta": "Bowser"
+  },
+  {
+    "id": "atualidades-sabichao-005",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual gorila joga barris no herói Mario em um jogo de arcade de 1981?",
+    "resposta": "Donkey Kong"
+  },
+  {
+    "id": "atualidades-sabichao-006",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual portátil da Nintendo lançado em 1989 ficou famoso por vir com um jogo de blocos?",
+    "resposta": "Game Boy"
+  },
+  {
+    "id": "atualidades-sabichao-007",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual jogo criado por Will Wright permite construir casas e controlar famílias virtuais?",
+    "resposta": "The Sims"
+  },
+  {
+    "id": "atualidades-sabichao-008",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual jogo da Nintendo tem moradores animais e uma dívida com o personagem Tom Nook?",
+    "resposta": "Animal Crossing"
+  },
+  {
+    "id": "atualidades-sabichao-009",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual jogo de luta famoso tem os lutadores Ryu e Ken e o golpe Hadouken?",
+    "resposta": "Street Fighter"
+  },
+  {
+    "id": "atualidades-sabichao-010",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual jogo clássico da Atari simula tênis de mesa com duas barras e uma bolinha?",
+    "resposta": "Pong"
+  },
+  {
+    "id": "atualidades-sabichao-011",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual jogo de labirinto tem um disco amarelo que come pontos e foge de fantasmas?",
+    "resposta": "Pac-Man"
+  },
+  {
+    "id": "atualidades-sabichao-012",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual jogo de celular lança pássaros com um estilingue contra porcos verdes?",
+    "resposta": "Angry Birds"
+  },
+  {
+    "id": "atualidades-sabichao-013",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual jogo de celular da empresa King consiste em alinhar doces coloridos?",
+    "resposta": "Candy Crush (Saga)"
+  },
+  {
+    "id": "atualidades-sabichao-014",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual jogo vinha com um console de 2006 e simulava boliche e tênis com controle de movimento?",
+    "resposta": "Wii Sports"
+  },
+  {
+    "id": "atualidades-sabichao-015",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual jogo de dedução tem tripulantes e impostores em uma nave espacial?",
+    "resposta": "Among Us"
+  },
+  {
+    "id": "atualidades-sabichao-016",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual plataforma permite criar e jogar jogos feitos por outros usuários, com avatares de blocos?",
+    "resposta": "Roblox"
+  },
+  {
+    "id": "atualidades-sabichao-017",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual console lançado em 2017 funciona como portátil ou ligado na TV e tem controles Joy-Con?",
+    "resposta": "Nintendo Switch"
+  },
+  {
+    "id": "atualidades-sabichao-018",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual emissora brasileira exibe o Jornal Nacional?",
+    "resposta": "Globo (TV Globo)"
+  },
+  {
+    "id": "atualidades-sabichao-019",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual novela de Glória Perez mostrou clonagem humana e a cultura marroquina?",
+    "resposta": "O Clone"
+  },
+  {
+    "id": "atualidades-sabichao-020",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual novela teve a vilã Odete Roitman, interpretada por Beatriz Segall?",
+    "resposta": "Vale Tudo"
+  },
+  {
+    "id": "atualidades-sabichao-021",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual novela mexicana exibida pelo SBT tem a vilã Soraya Montenegro?",
+    "resposta": "Maria do Bairro"
+  },
+  {
+    "id": "atualidades-sabichao-022",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual seriado mexicano exibido no SBT tem um garoto que mora em uma vila e se esconde em um barril?",
+    "resposta": "Chaves"
+  },
+  {
+    "id": "atualidades-sabichao-023",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual programa infantil da TV Cultura se passa em um casarão mágico com o aprendiz de feiticeiro Nino?",
+    "resposta": "Castelo Rá-Tim-Bum"
+  },
+  {
+    "id": "atualidades-sabichao-024",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual reality de culinária reúne cozinheiros amadores que usam avental diante de jurados?",
+    "resposta": "MasterChef (Brasil)"
+  },
+  {
+    "id": "atualidades-sabichao-025",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual programa de perguntas do SBT tinha ajuda de cartas, placas e universitários?",
+    "resposta": "Show do Milhão"
+  },
+  {
+    "id": "atualidades-sabichao-026",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual novela da Manchete de 1990, refeita em 2022, tem Juma Marruá, que vira onça?",
+    "resposta": "Pantanal"
+  },
+  {
+    "id": "atualidades-sabichao-027",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual seriado da Globo dos anos 80 tem os surfistas Juba e Lula?",
+    "resposta": "Armação Ilimitada"
+  },
+  {
+    "id": "atualidades-sabichao-028",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual novela infantil do SBT de 1997 acompanha crianças que vivem em um orfanato?",
+    "resposta": "Chiquititas"
+  },
+  {
+    "id": "atualidades-sabichao-029",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual novela da Globo de 2013 trouxe o vilão Félix, que virou fenômeno de memes?",
+    "resposta": "Amor à Vida"
+  },
+  {
+    "id": "atualidades-sabichao-030",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual comédia da Globo tem o casal Lineu e Nenê e os filhos Tuco e Bebel?",
+    "resposta": "A Grande Família"
+  },
+  {
+    "id": "atualidades-sabichao-031",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual filme de 1997 mostra o naufrágio de um transatlântico e o casal Jack e Rose?",
+    "resposta": "Titanic"
+  },
+  {
+    "id": "atualidades-sabichao-032",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual filme de 1977 iniciou uma saga com sabres de luz e a Estrela da Morte?",
+    "resposta": "Star Wars"
+  },
+  {
+    "id": "atualidades-sabichao-033",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual filme de 1999 apresenta a escolha entre a pílula vermelha e a pílula azul?",
+    "resposta": "Matrix (The Matrix)"
+  },
+  {
+    "id": "atualidades-sabichao-034",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual animação da DreamWorks tem o Dragão Guerreiro e o mestre Shifu?",
+    "resposta": "Kung Fu Panda"
+  },
+  {
+    "id": "atualidades-sabichao-035",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual série da Netflix de 2022 mostra uma filha da família Addams em um colégio misterioso?",
+    "resposta": "Wandinha (Wednesday)"
+  },
+  {
+    "id": "atualidades-sabichao-036",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual série americana acompanha seis jovens nova-iorquinos e o café Central Perk?",
+    "resposta": "Friends"
+  },
+  {
+    "id": "atualidades-sabichao-037",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual animação da Pixar de 2003 mostra um peixe-palhaço atravessando o oceano atrás do filho?",
+    "resposta": "Procurando Nemo"
+  },
+  {
+    "id": "atualidades-sabichao-038",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual filme da Disney tem um gênio azul que vive em uma lâmpada mágica?",
+    "resposta": "Aladdin"
+  },
+  {
+    "id": "atualidades-sabichao-039",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual filme de 2023 dirigido por Greta Gerwig tem como protagonista a boneca da Mattel?",
+    "resposta": "Barbie"
+  },
+  {
+    "id": "atualidades-sabichao-040",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual filme de 1975 de Steven Spielberg se passa na ilha de Amity?",
+    "resposta": "Tubarão (Jaws)"
+  },
+  {
+    "id": "atualidades-sabichao-041",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual saga de aventuras tem o hobbit Frodo e o mago Gandalf?",
+    "resposta": "O Senhor dos Anéis"
+  },
+  {
+    "id": "atualidades-sabichao-042",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual animação de Hayao Miyazaki ganhou o Oscar em 2003 e se passa em um mundo de espíritos?",
+    "resposta": "A Viagem de Chihiro"
+  },
+  {
+    "id": "atualidades-sabichao-043",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual compositor brasileiro criou \"Garota de Ipanema\" com letra de Vinicius de Moraes?",
+    "resposta": "Tom Jobim"
+  },
+  {
+    "id": "atualidades-sabichao-044",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual é o maior e mais grave instrumento de cordas friccionadas da orquestra?",
+    "resposta": "Contrabaixo"
+  },
+  {
+    "id": "atualidades-sabichao-045",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual estilo musical brasileiro surgiu nos anos 1950 com o violão suave de João Gilberto?",
+    "resposta": "Bossa Nova"
+  },
+  {
+    "id": "atualidades-sabichao-046",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual cantor brasileiro, chamado de \"Rei\", lançou o sucesso \"Detalhes\"?",
+    "resposta": "Roberto Carlos"
+  },
+  {
+    "id": "atualidades-sabichao-047",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual banda britânica de rock tinha Freddie Mercury como vocalista?",
+    "resposta": "Queen"
+  },
+  {
+    "id": "atualidades-sabichao-048",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual astro americano de topete e requebrado era chamado de \"Rei do Rock\"?",
+    "resposta": "Elvis Presley (Elvis)"
+  },
+  {
+    "id": "atualidades-sabichao-049",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual banda de Renato Russo cantou \"Eduardo e Mônica\" e \"Pais e Filhos\"?",
+    "resposta": "Legião Urbana"
+  },
+  {
+    "id": "atualidades-sabichao-050",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual cantora britânica lançou o álbum \"21\" e a música \"Rolling in the Deep\"?",
+    "resposta": "Adele"
+  },
+  {
+    "id": "atualidades-sabichao-051",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual cantora americana lançou o álbum \"1989\" e fez a turnê \"The Eras Tour\"?",
+    "resposta": "Taylor Swift"
+  },
+  {
+    "id": "atualidades-sabichao-052",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual instrumento de percussão grande e grave marca o ritmo nas baterias das escolas de samba?",
+    "resposta": "Surdo"
+  },
+  {
+    "id": "atualidades-sabichao-053",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual instrumento de sopro de metal o jazzista Louis Armstrong tocava?",
+    "resposta": "Trompete"
+  },
+  {
+    "id": "atualidades-sabichao-054",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual banda irlandesa de rock tem Bono como vocalista?",
+    "resposta": "U2"
+  },
+  {
+    "id": "atualidades-sabichao-055",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual cantor jamaicano é o maior símbolo do reggae no mundo?",
+    "resposta": "Bob Marley"
+  },
+  {
+    "id": "atualidades-sabichao-056",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual cantora nascida em Barbados ficou famosa com a música \"Umbrella\"?",
+    "resposta": "Rihanna"
+  },
+  {
+    "id": "atualidades-sabichao-057",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual compositor alemão, que ficou surdo, escreveu a Nona Sinfonia, com o \"Hino à Alegria\"?",
+    "resposta": "Beethoven"
+  },
+  {
+    "id": "atualidades-sabichao-058",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual grupo sueco ficou famoso com \"Dancing Queen\" e \"Mamma Mia\"?",
+    "resposta": "ABBA"
+  },
+  {
+    "id": "atualidades-sabichao-059",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual empresário fundou a Microsoft ao lado de Paul Allen?",
+    "resposta": "Bill Gates"
+  },
+  {
+    "id": "atualidades-sabichao-060",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual empresário cofundou a Apple e apresentava produtos de gola alta preta?",
+    "resposta": "Steve Jobs"
+  },
+  {
+    "id": "atualidades-sabichao-061",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual cantora luso-brasileira ficou famosa em Hollywood usando turbantes cheios de frutas?",
+    "resposta": "Carmen Miranda"
+  },
+  {
+    "id": "atualidades-sabichao-062",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual apresentadora americana comandou um famoso programa de entrevistas e um clube do livro?",
+    "resposta": "Oprah Winfrey (Oprah)"
+  },
+  {
+    "id": "atualidades-sabichao-063",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual humorista de Os Trapalhões interpretava o personagem Didi?",
+    "resposta": "Renato Aragão"
+  },
+  {
+    "id": "atualidades-sabichao-064",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual humorista mexicano criou o herói Chapolin Colorado e o Seu Madruga?",
+    "resposta": "Roberto Bolaños (Chespirito)"
+  },
+  {
+    "id": "atualidades-sabichao-065",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual estilista francesa criou o perfume Nº 5 e o clássico tailleur de tweed?",
+    "resposta": "Coco Chanel"
+  },
+  {
+    "id": "atualidades-sabichao-066",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual rainha britânica ficou 70 anos no trono e morreu em 2022?",
+    "resposta": "Elizabeth II (Rainha Elizabeth)"
+  },
+  {
+    "id": "atualidades-sabichao-067",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual pintora mexicana ficou famosa pelos autorretratos e pelas sobrancelhas unidas?",
+    "resposta": "Frida Kahlo"
+  },
+  {
+    "id": "atualidades-sabichao-068",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual velocista jamaicano ganhou ouro nos 100 metros em 2008, 2012 e 2016?",
+    "resposta": "Usain Bolt"
+  },
+  {
+    "id": "atualidades-sabichao-069",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual piloto brasileiro foi tricampeão mundial de Fórmula 1 pela McLaren?",
+    "resposta": "Ayrton Senna"
+  },
+  {
+    "id": "atualidades-sabichao-070",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual astro do basquete ficou famoso com a camisa 23 do Chicago Bulls?",
+    "resposta": "Michael Jordan"
+  },
+  {
+    "id": "atualidades-sabichao-071",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual rede social criada por Mark Zuckerberg em 2004 popularizou o botão \"curtir\"?",
+    "resposta": "Facebook"
+  },
+  {
+    "id": "atualidades-sabichao-072",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual enciclopédia online pode ser editada por voluntários do mundo todo?",
+    "resposta": "Wikipédia"
+  },
+  {
+    "id": "atualidades-sabichao-073",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual aplicativo de fotos que somem tem um fantasminha como símbolo?",
+    "resposta": "Snapchat"
+  },
+  {
+    "id": "atualidades-sabichao-074",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual loja virtual fundada por Jeff Bezos começou vendendo livros pela internet?",
+    "resposta": "Amazon"
+  },
+  {
+    "id": "atualidades-sabichao-075",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual serviço de streaming começou alugando DVDs pelo correio nos Estados Unidos?",
+    "resposta": "Netflix"
+  },
+  {
+    "id": "atualidades-sabichao-076",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama o termo precedido por # usado para agrupar publicações por assunto?",
+    "resposta": "Hashtag"
+  },
+  {
+    "id": "atualidades-sabichao-077",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Que palavra, criada por Richard Dawkins, hoje nomeia imagens engraçadas que se espalham na web?",
+    "resposta": "Meme"
+  },
+  {
+    "id": "atualidades-sabichao-078",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual navegador da Mozilla tem uma raposa de fogo como símbolo?",
+    "resposta": "Firefox"
+  },
+  {
+    "id": "atualidades-sabichao-079",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual golpe virtual usa mensagens falsas para roubar senhas e dados das pessoas?",
+    "resposta": "Phishing"
+  },
+  {
+    "id": "atualidades-sabichao-080",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual sigla de três letras nomeia o endereço completo de uma página na web?",
+    "resposta": "URL"
+  },
+  {
+    "id": "atualidades-sabichao-081",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual aplicativo de mensagens criado por Pavel Durov tem um aviãozinho de papel como símbolo?",
+    "resposta": "Telegram"
+  },
+  {
+    "id": "atualidades-sabichao-082",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual site de leilões online criado em 1995 por Pierre Omidyar virou gigante do comércio?",
+    "resposta": "eBay"
+  },
+  {
+    "id": "atualidades-sabichao-083",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual sigla nomeia o sistema de satélites que mostra sua posição nos aplicativos de mapas?",
+    "resposta": "GPS"
+  },
+  {
+    "id": "atualidades-sabichao-084",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama o programa que detecta e remove ameaças digitais do computador?",
+    "resposta": "Antivírus"
+  },
+  {
+    "id": "atualidades-sabichao-085",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual sigla de três letras nomeia a memória temporária do computador, que se apaga ao desligá-lo?",
+    "resposta": "RAM"
+  },
+  {
+    "id": "atualidades-sabichao-086",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual sigla de três letras nomeia o componente que funciona como cérebro do computador?",
+    "resposta": "CPU (processador)"
+  },
+  {
+    "id": "atualidades-sabichao-087",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual formato de imagem é famoso por animações curtas que se repetem sem parar na internet?",
+    "resposta": "GIF"
+  },
+  {
+    "id": "atualidades-sabichao-088",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual formato de documento da Adobe mantém o layout igual em qualquer aparelho?",
+    "resposta": "PDF"
+  },
+  {
+    "id": "atualidades-sabichao-089",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual sigla de quatro letras nomeia telas cujos pixels acendem sozinhos, sem luz de fundo?",
+    "resposta": "OLED"
+  },
+  {
+    "id": "atualidades-sabichao-090",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual sigla nomeia a porta usada para ligar pen drives e teclados e carregar celulares?",
+    "resposta": "USB"
+  },
+  {
+    "id": "atualidades-sabichao-091",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama o robô virtual que responde mensagens automaticamente em sites de atendimento?",
+    "resposta": "Chatbot"
+  },
+  {
+    "id": "atualidades-sabichao-092",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual tecnologia de internet móvel sucedeu o 4G?",
+    "resposta": "5G"
+  },
+  {
+    "id": "atualidades-sabichao-093",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Em que lugar virtual ficam arquivos guardados em servidores, como no Google Drive?",
+    "resposta": "Nuvem"
+  },
+  {
+    "id": "atualidades-sabichao-094",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama a cópia de segurança de arquivos feita para evitar perdas?",
+    "resposta": "Backup"
+  },
+  {
+    "id": "atualidades-sabichao-095",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual acessório de pulso mede passos e batimentos e mostra notificações do celular?",
+    "resposta": "Smartwatch (relógio inteligente)"
+  },
+  {
+    "id": "atualidades-sabichao-096",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual recurso do celular o desbloqueia usando a digital ou o reconhecimento do rosto?",
+    "resposta": "Biometria"
+  },
+  {
+    "id": "atualidades-sabichao-097",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual gás formado por três átomos de oxigênio compõe a camada que filtra raios ultravioleta?",
+    "resposta": "Ozônio"
+  },
+  {
+    "id": "atualidades-sabichao-098",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual tratado climático de 2015 foi fechado na capital da França?",
+    "resposta": "Acordo de Paris"
+  },
+  {
+    "id": "atualidades-sabichao-099",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual bioma brasileiro abriga a maior floresta tropical do planeta?",
+    "resposta": "Amazônia (Floresta Amazônica)"
+  },
+  {
+    "id": "atualidades-sabichao-100",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual bioma brasileiro, de árvores de troncos retorcidos, é uma das savanas mais ricas em espécies?",
+    "resposta": "Cerrado"
+  },
+  {
+    "id": "atualidades-sabichao-101",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual bioma exclusivamente brasileiro predomina no sertão nordestino, com plantas adaptadas à seca?",
+    "resposta": "Caatinga"
+  },
+  {
+    "id": "atualidades-sabichao-102",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual material, derivado do petróleo, polui os oceanos e leva séculos para se decompor?",
+    "resposta": "Plástico"
+  },
+  {
+    "id": "atualidades-sabichao-103",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual tipo de fonte limpa vem do calor do interior da Terra?",
+    "resposta": "Energia geotérmica (Geotérmica)"
+  },
+  {
+    "id": "atualidades-sabichao-104",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual tipo de usina gera eletricidade com a força da água represada?",
+    "resposta": "Hidrelétrica"
+  },
+  {
+    "id": "atualidades-sabichao-105",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Nos três Rs da sustentabilidade, reduzir e reutilizar vêm antes de qual verbo?",
+    "resposta": "Reciclar"
+  },
+  {
+    "id": "atualidades-sabichao-106",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Na coleta seletiva, qual cor de lixeira recebe papel e papelão?",
+    "resposta": "Azul"
+  },
+  {
+    "id": "atualidades-sabichao-107",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama o fenômeno em que corais perdem a cor quando a água fica quente demais?",
+    "resposta": "Branqueamento"
+  },
+  {
+    "id": "atualidades-sabichao-108",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual combustível, feito de cana-de-açúcar, abastece muitos carros no Brasil?",
+    "resposta": "Etanol (álcool)"
+  },
+  {
+    "id": "atualidades-sabichao-109",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual animal preto e branco, que come bambu, é o símbolo da organização WWF?",
+    "resposta": "Panda-gigante (Panda)"
+  },
+  {
+    "id": "atualidades-sabichao-110",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual inventor americano criou uma lâmpada incandescente duradoura em 1879?",
+    "resposta": "Thomas Edison"
+  },
+  {
+    "id": "atualidades-sabichao-111",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual brasileiro, chamado de Pai da Aviação, fez o 14-Bis voar em Paris?",
+    "resposta": "Santos Dumont"
+  },
+  {
+    "id": "atualidades-sabichao-112",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Quais dois americanos, donos de uma oficina de bicicletas, fizeram o primeiro voo motorizado, em 1903?",
+    "resposta": "Irmãos Wright"
+  },
+  {
+    "id": "atualidades-sabichao-113",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual cientista escocês patenteou o telefone em 1876?",
+    "resposta": "Alexander Graham Bell"
+  },
+  {
+    "id": "atualidades-sabichao-114",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual inventor italiano ficou famoso pelo rádio e pela telegrafia sem fio?",
+    "resposta": "Guglielmo Marconi"
+  },
+  {
+    "id": "atualidades-sabichao-115",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual invenção chinesa, feita de fibras vegetais, serve para escrever e imprimir?",
+    "resposta": "Papel"
+  },
+  {
+    "id": "atualidades-sabichao-116",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual invenção chinesa mistura salitre, carvão e enxofre e é usada em fogos de artifício?",
+    "resposta": "Pólvora"
+  },
+  {
+    "id": "atualidades-sabichao-117",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual cientista britânico descobriu a penicilina, em 1928?",
+    "resposta": "Alexander Fleming"
+  },
+  {
+    "id": "atualidades-sabichao-118",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual aparelho de Samuel Morse enviava mensagens por pontos e traços através de fios?",
+    "resposta": "Telégrafo"
+  },
+  {
+    "id": "atualidades-sabichao-119",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual sigla de três letras nomeia as lâmpadas econômicas que substituíram as incandescentes?",
+    "resposta": "LED"
+  },
+  {
+    "id": "atualidades-sabichao-120",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual aparelho, popular desde os anos 1950, mostra imagem e som transmitidos à distância?",
+    "resposta": "Televisão (TV)"
+  },
+  {
+    "id": "atualidades-sabichao-121",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual instrumento, criado por Torricelli no século XVII, mede a pressão atmosférica?",
+    "resposta": "Barômetro"
+  },
+  {
+    "id": "atualidades-sabichao-122",
+    "tema": "atualidades",
+    "nivel": "sabichao",
+    "pergunta": "Qual objeto mede o tempo usando areia que escorre entre dois recipientes de vidro?",
+    "resposta": "Ampulheta"
   }
 ]
