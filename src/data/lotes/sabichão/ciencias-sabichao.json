@@ -1,0 +1,842 @@
+[
+    {
+        "id": "ciencias-sabichao-003",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Quantos ossos tem o esqueleto de um adulto?",
+        "resposta": "206 (duzentos e seis)"
+    },
+    {
+        "id": "ciencias-sabichao-004",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o menor osso do corpo humano, que fica dentro do ouvido?",
+        "resposta": "Estribo"
+    },
+    {
+        "id": "ciencias-sabichao-005",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Quais órgãos, em forma de feijão, filtram o sangue e produzem a urina?",
+        "resposta": "Rins (rim)"
+    },
+    {
+        "id": "ciencias-sabichao-006",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual grande órgão do abdômen produz a bile e ajuda a digerir gorduras?",
+        "resposta": "Fígado"
+    },
+    {
+        "id": "ciencias-sabichao-007",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chamam as células do sangue que carregam oxigênio pelo corpo?",
+        "resposta": "Hemácias (glóbulos vermelhos)"
+    },
+    {
+        "id": "ciencias-sabichao-008",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chamam as células do sangue que defendem o corpo contra infecções?",
+        "resposta": "Leucócitos (glóbulos brancos)"
+    },
+    {
+        "id": "ciencias-sabichao-009",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual músculo em forma de cúpula separa o tórax do abdômen e ajuda a respirar?",
+        "resposta": "Diafragma"
+    },
+    {
+        "id": "ciencias-sabichao-010",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual substância, produzida na pele com a luz do sol, ajuda a absorver o cálcio?",
+        "resposta": "Vitamina D"
+    },
+    {
+        "id": "ciencias-sabichao-011",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual pigmento dá cor à pele e aos cabelos e ajuda a proteger do sol?",
+        "resposta": "Melanina"
+    },
+    {
+        "id": "ciencias-sabichao-012",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Quantos dentes tem um adulto com a dentição completa, contando os sisos?",
+        "resposta": "32 (trinta e dois)"
+    },
+    {
+        "id": "ciencias-sabichao-013",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual tubo leva o alimento da garganta até o estômago?",
+        "resposta": "Esôfago"
+    },
+    {
+        "id": "ciencias-sabichao-014",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual órgão, atrás do estômago, produz a insulina?",
+        "resposta": "Pâncreas"
+    },
+    {
+        "id": "ciencias-sabichao-015",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o maior osso do corpo humano, localizado na coxa?",
+        "resposta": "Fêmur"
+    },
+    {
+        "id": "ciencias-sabichao-016",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual parte do tubo digestivo, com cerca de 6 metros, absorve a maioria dos nutrientes?",
+        "resposta": "Intestino delgado"
+    },
+    {
+        "id": "ciencias-sabichao-017",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o maior felino do mundo?",
+        "resposta": "Tigre"
+    },
+    {
+        "id": "ciencias-sabichao-018",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o animal terrestre mais rápido do mundo?",
+        "resposta": "Guepardo (chita)"
+    },
+    {
+        "id": "ciencias-sabichao-019",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual animal australiano anda aos pulos e carrega o filhote em uma bolsa?",
+        "resposta": "Canguru"
+    },
+    {
+        "id": "ciencias-sabichao-020",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Quantas patas tem uma aranha?",
+        "resposta": "8 (oito)"
+    },
+    {
+        "id": "ciencias-sabichao-021",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a maior ave do mundo, que não voa?",
+        "resposta": "Avestruz"
+    },
+    {
+        "id": "ciencias-sabichao-022",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o maior primata do mundo, com braços fortes e peito largo?",
+        "resposta": "Gorila"
+    },
+    {
+        "id": "ciencias-sabichao-023",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual mamífero marinho, muito inteligente, se comunica por cliques e assobios?",
+        "resposta": "Golfinho"
+    },
+    {
+        "id": "ciencias-sabichao-024",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama a transformação de girino em sapo?",
+        "resposta": "Metamorfose"
+    },
+    {
+        "id": "ciencias-sabichao-025",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual ave amazônica é famosa por um bico enorme e colorido?",
+        "resposta": "Tucano"
+    },
+    {
+        "id": "ciencias-sabichao-026",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual mamífero australiano, de bico de pato e cauda de castor, põe ovos?",
+        "resposta": "Ornitorrinco"
+    },
+    {
+        "id": "ciencias-sabichao-027",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o grupo que inclui peixes, anfíbios, répteis, aves e mamíferos?",
+        "resposta": "Vertebrados"
+    },
+    {
+        "id": "ciencias-sabichao-028",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual inseto acende a luz do próprio corpo para se comunicar à noite?",
+        "resposta": "Vaga-lume"
+    },
+    {
+        "id": "ciencias-sabichao-029",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o maior roedor do mundo, comum nos rios do Brasil?",
+        "resposta": "Capivara"
+    },
+    {
+        "id": "ciencias-sabichao-030",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual pigmento verde das folhas capta a luz do sol?",
+        "resposta": "Clorofila"
+    },
+    {
+        "id": "ciencias-sabichao-031",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual substância do ar, liberada na respiração, as plantas absorvem para fazer a fotossíntese?",
+        "resposta": "Gás carbônico (CO2)"
+    },
+    {
+        "id": "ciencias-sabichao-032",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chamam os minúsculos poros das folhas por onde entram e saem gases?",
+        "resposta": "Estômatos"
+    },
+    {
+        "id": "ciencias-sabichao-033",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o transporte do pólen de uma flor para outra?",
+        "resposta": "Polinização"
+    },
+    {
+        "id": "ciencias-sabichao-034",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual planta carnívora fecha suas folhas como armadilha para prender insetos?",
+        "resposta": "Dionéia (Vênus papa-moscas)"
+    },
+    {
+        "id": "ciencias-sabichao-035",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual árvore da Mata Atlântica deu nome ao nosso país?",
+        "resposta": "Pau-brasil"
+    },
+    {
+        "id": "ciencias-sabichao-036",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual árvore amazônica fornece o látex usado para fazer borracha?",
+        "resposta": "Seringueira"
+    },
+    {
+        "id": "ciencias-sabichao-037",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual planta de caule alto e doce é moída para fazer garapa e etanol?",
+        "resposta": "Cana-de-açúcar (Cana)"
+    },
+    {
+        "id": "ciencias-sabichao-038",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual fruto de árvore tropical tem sementes usadas para fazer chocolate?",
+        "resposta": "Cacau"
+    },
+    {
+        "id": "ciencias-sabichao-039",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual planta de folhas recortadas, sem flores, se reproduz por esporos?",
+        "resposta": "Samambaia"
+    },
+    {
+        "id": "ciencias-sabichao-040",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual planta aquática amazônica tem folhas gigantes e redondas que flutuam?",
+        "resposta": "Vitória-régia"
+    },
+    {
+        "id": "ciencias-sabichao-041",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual árvore gigante da Califórnia está entre as mais altas do mundo?",
+        "resposta": "Sequoia"
+    },
+    {
+        "id": "ciencias-sabichao-042",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chamam as plantas que produzem flores e frutos com sementes?",
+        "resposta": "Angiospermas"
+    },
+    {
+        "id": "ciencias-sabichao-043",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o planeta mais próximo do Sol?",
+        "resposta": "Mercúrio"
+    },
+    {
+        "id": "ciencias-sabichao-044",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual planeta é conhecido como o Planeta Vermelho?",
+        "resposta": "Marte"
+    },
+    {
+        "id": "ciencias-sabichao-045",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o maior planeta do Sistema Solar?",
+        "resposta": "Júpiter"
+    },
+    {
+        "id": "ciencias-sabichao-046",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual planeta é famoso pelos anéis formados por gelo e rocha?",
+        "resposta": "Saturno"
+    },
+    {
+        "id": "ciencias-sabichao-047",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama a galáxia onde fica o Sistema Solar?",
+        "resposta": "Via Láctea"
+    },
+    {
+        "id": "ciencias-sabichao-048",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Quantos planetas tem o Sistema Solar?",
+        "resposta": "8 (oito)"
+    },
+    {
+        "id": "ciencias-sabichao-049",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual cosmonauta soviético foi o primeiro ser humano a ir ao espaço, em 1961?",
+        "resposta": "Yuri Gagarin (Gagarin)"
+    },
+    {
+        "id": "ciencias-sabichao-050",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual astronauta americano foi o primeiro a pisar na Lua, em 1969?",
+        "resposta": "Neil Armstrong (Armstrong)"
+    },
+    {
+        "id": "ciencias-sabichao-051",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o movimento da Terra ao redor do Sol, que dura cerca de 365 dias?",
+        "resposta": "Translação"
+    },
+    {
+        "id": "ciencias-sabichao-052",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o giro da Terra em torno do próprio eixo, que causa o dia e a noite?",
+        "resposta": "Rotação"
+    },
+    {
+        "id": "ciencias-sabichao-053",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Que fenômeno ocorre quando a Lua passa entre a Terra e o Sol, escurecendo o dia?",
+        "resposta": "Eclipse solar"
+    },
+    {
+        "id": "ciencias-sabichao-054",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o planeta mais quente do Sistema Solar, por causa de sua atmosfera densa?",
+        "resposta": "Vênus"
+    },
+    {
+        "id": "ciencias-sabichao-055",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual corpo celeste de gelo e poeira ganha uma cauda brilhante ao se aproximar do Sol?",
+        "resposta": "Cometa"
+    },
+    {
+        "id": "ciencias-sabichao-056",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o símbolo químico do ouro?",
+        "resposta": "Au"
+    },
+    {
+        "id": "ciencias-sabichao-057",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual elemento químico, de símbolo Fe, é o principal metal do aço?",
+        "resposta": "Ferro"
+    },
+    {
+        "id": "ciencias-sabichao-058",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual gás é o mais abundante na atmosfera da Terra?",
+        "resposta": "Nitrogênio"
+    },
+    {
+        "id": "ciencias-sabichao-059",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual partícula de carga negativa gira ao redor do núcleo do átomo?",
+        "resposta": "Elétron"
+    },
+    {
+        "id": "ciencias-sabichao-060",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a menor partícula de um elemento químico que mantém suas propriedades?",
+        "resposta": "Átomo"
+    },
+    {
+        "id": "ciencias-sabichao-061",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "A que temperatura, em graus Celsius, a água ferve ao nível do mar?",
+        "resposta": "100 (cem)"
+    },
+    {
+        "id": "ciencias-sabichao-062",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual tipo de energia um objeto possui por estar em movimento?",
+        "resposta": "Cinética"
+    },
+    {
+        "id": "ciencias-sabichao-063",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual tipo de energia fica armazenada em um objeto por estar em um lugar alto?",
+        "resposta": "Potencial (gravitacional)"
+    },
+    {
+        "id": "ciencias-sabichao-064",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual unidade mede a potência elétrica de um aparelho?",
+        "resposta": "Watt"
+    },
+    {
+        "id": "ciencias-sabichao-065",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual unidade mede a intensidade da corrente elétrica?",
+        "resposta": "Ampère"
+    },
+    {
+        "id": "ciencias-sabichao-066",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual liga de cobre e estanho foi muito usada para fazer armas e estátuas na Antiguidade?",
+        "resposta": "Bronze"
+    },
+    {
+        "id": "ciencias-sabichao-067",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual cientista alemão formulou a teoria da relatividade?",
+        "resposta": "Albert Einstein (Einstein)"
+    },
+    {
+        "id": "ciencias-sabichao-068",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama a passagem direta do estado sólido para o gasoso, como na naftalina?",
+        "resposta": "Sublimação"
+    },
+    {
+        "id": "ciencias-sabichao-069",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual gás, mais leve que o ar e de símbolo He, é usado para encher balões?",
+        "resposta": "Hélio"
+    },
+    {
+        "id": "ciencias-sabichao-070",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual nutriente, abundante em laranja e limão, previne o escorbuto?",
+        "resposta": "Vitamina C"
+    },
+    {
+        "id": "ciencias-sabichao-071",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual mineral, presente no leite, fortalece ossos e dentes?",
+        "resposta": "Cálcio"
+    },
+    {
+        "id": "ciencias-sabichao-072",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual nutriente, presente em carnes e ovos, ajuda a construir os músculos?",
+        "resposta": "Proteínas (proteína)"
+    },
+    {
+        "id": "ciencias-sabichao-073",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual nutriente, presente em pães e massas, é a principal fonte de energia do corpo?",
+        "resposta": "Carboidratos (carboidrato)"
+    },
+    {
+        "id": "ciencias-sabichao-074",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual nutriente, abundante em frutas e verduras, ajuda o intestino a funcionar bem?",
+        "resposta": "Fibras (fibra)"
+    },
+    {
+        "id": "ciencias-sabichao-075",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual mosquito transmite a dengue?",
+        "resposta": "Aedes aegypti (Aedes)"
+    },
+    {
+        "id": "ciencias-sabichao-076",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual cientista inglês criou a primeira vacina, contra a varíola, em 1796?",
+        "resposta": "Edward Jenner (Jenner)"
+    },
+    {
+        "id": "ciencias-sabichao-077",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual cientista francês criou a vacina contra a raiva e dá nome a um processo de esterilizar leite?",
+        "resposta": "Louis Pasteur (Pasteur)"
+    },
+    {
+        "id": "ciencias-sabichao-078",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual agente infeccioso minúsculo só consegue se reproduzir dentro de células vivas?",
+        "resposta": "Vírus"
+    },
+    {
+        "id": "ciencias-sabichao-079",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual tipo de medicamento combate infecções causadas por bactérias?",
+        "resposta": "Antibiótico (antibióticos)"
+    },
+    {
+        "id": "ciencias-sabichao-080",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual hormônio produzido no pâncreas controla o açúcar no sangue?",
+        "resposta": "Insulina"
+    },
+    {
+        "id": "ciencias-sabichao-081",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual alimento, feito de leite fermentado, contém bactérias vivas que ajudam o intestino?",
+        "resposta": "Iogurte"
+    },
+    {
+        "id": "ciencias-sabichao-082",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual elemento do sal de cozinha, em excesso, pode elevar a pressão arterial?",
+        "resposta": "Sódio"
+    },
+    {
+        "id": "ciencias-sabichao-083",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual instrumento mede a quantidade de chuva que cai em um lugar?",
+        "resposta": "Pluviômetro"
+    },
+    {
+        "id": "ciencias-sabichao-084",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual instrumento mede a velocidade do vento?",
+        "resposta": "Anemômetro"
+    },
+    {
+        "id": "ciencias-sabichao-085",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual instrumento mede a umidade do ar?",
+        "resposta": "Higrômetro"
+    },
+    {
+        "id": "ciencias-sabichao-086",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual fenômeno aquece o planeta porque certos gases retêm o calor na atmosfera?",
+        "resposta": "Efeito estufa"
+    },
+    {
+        "id": "ciencias-sabichao-087",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama a tempestade giratória gigante, com um olho calmo no centro, que nasce em oceanos quentes?",
+        "resposta": "Furacão (ciclone tropical)"
+    },
+    {
+        "id": "ciencias-sabichao-088",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual fenômeno de aquecimento das águas do Pacífico altera as chuvas pelo mundo?",
+        "resposta": "El Niño"
+    },
+    {
+        "id": "ciencias-sabichao-089",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual camada da atmosfera, a mais próxima do solo, concentra as nuvens e o clima?",
+        "resposta": "Troposfera"
+    },
+    {
+        "id": "ciencias-sabichao-090",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual tipo de nuvem, grande e escura, costuma trazer trovoadas e granizo?",
+        "resposta": "Cumulonimbo"
+    },
+    {
+        "id": "ciencias-sabichao-091",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o maior deserto quente do mundo, localizado no norte da África?",
+        "resposta": "Saara"
+    },
+    {
+        "id": "ciencias-sabichao-092",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama a perda de vapor de água pelas folhas das plantas?",
+        "resposta": "Transpiração"
+    },
+    {
+        "id": "ciencias-sabichao-093",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual bioma brasileiro, hoje muito reduzido, originalmente cobria boa parte do litoral?",
+        "resposta": "Mata Atlântica"
+    },
+    {
+        "id": "ciencias-sabichao-094",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual bioma brasileiro, de campos de gramíneas, predomina no sul do Rio Grande do Sul?",
+        "resposta": "Pampa"
+    },
+    {
+        "id": "ciencias-sabichao-095",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual luz colorida aparece no céu das regiões polares, causada por partículas vindas do Sol?",
+        "resposta": "Aurora (aurora boreal)"
+    },
+    {
+        "id": "ciencias-sabichao-096",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama a onda gigante provocada por terremotos no fundo do mar?",
+        "resposta": "Tsunami"
+    },
+    {
+        "id": "ciencias-sabichao-097",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual cientista polonesa ganhou dois prêmios Nobel e descobriu o rádio e o polônio?",
+        "resposta": "Marie Curie"
+    },
+    {
+        "id": "ciencias-sabichao-098",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual cientista inglês formulou a lei da gravitação universal e as leis do movimento?",
+        "resposta": "Isaac Newton"
+    },
+    {
+        "id": "ciencias-sabichao-099",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual inventor de origem sérvia ficou famoso por impulsionar a corrente alternada?",
+        "resposta": "Nikola Tesla"
+    },
+    {
+        "id": "ciencias-sabichao-100",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual cientista italiano usou o telescópio para observar as luas de Júpiter?",
+        "resposta": "Galileu Galilei"
+    },
+    {
+        "id": "ciencias-sabichao-101",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual naturalista britânico propôs a evolução das espécies por seleção natural?",
+        "resposta": "Charles Darwin"
+    },
+    {
+        "id": "ciencias-sabichao-102",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual monge austríaco criou as leis da hereditariedade estudando ervilhas?",
+        "resposta": "Gregor Mendel"
+    },
+    {
+        "id": "ciencias-sabichao-103",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Quais dois franceses, donos de uma fábrica de placas fotográficas, criaram o cinematógrafo em 1895?",
+        "resposta": "Irmãos Lumière"
+    },
+    {
+        "id": "ciencias-sabichao-104",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual químico russo organizou os elementos na primeira tabela periódica, em 1869?",
+        "resposta": "Dmitri Mendeleiev"
+    },
+    {
+        "id": "ciencias-sabichao-105",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual médico brasileiro descobriu, em 1909, uma doença transmitida pelo barbeiro?",
+        "resposta": "Carlos Chagas"
+    },
+    {
+        "id": "ciencias-sabichao-106",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual físico italiano inventou a pilha elétrica, em 1800?",
+        "resposta": "Alessandro Volta"
+    },
+    {
+        "id": "ciencias-sabichao-107",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual francês, cego desde criança, criou o sistema de leitura em pontos em relevo?",
+        "resposta": "Louis Braille"
+    },
+    {
+        "id": "ciencias-sabichao-108",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual médico sanitarista brasileiro combateu a febre amarela no Rio de Janeiro?",
+        "resposta": "Oswaldo Cruz"
+    },
+    {
+        "id": "ciencias-sabichao-109",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual físico britânico, autor de Uma Breve História do Tempo, estudou os buracos negros?",
+        "resposta": "Stephen Hawking"
+    },
+    {
+        "id": "ciencias-sabichao-110",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Quanto é 15% de 200?",
+        "resposta": "30 (trinta)"
+    },
+    {
+        "id": "ciencias-sabichao-111",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Quantos graus somam os três ângulos internos de qualquer triângulo?",
+        "resposta": "180 (cento e oitenta)"
+    },
+    {
+        "id": "ciencias-sabichao-112",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Quantos lados tem um octógono?",
+        "resposta": "8 (oito)"
+    },
+    {
+        "id": "ciencias-sabichao-113",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o resultado de uma multiplicação?",
+        "resposta": "Produto"
+    },
+    {
+        "id": "ciencias-sabichao-114",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o resultado de uma divisão?",
+        "resposta": "Quociente"
+    },
+    {
+        "id": "ciencias-sabichao-115",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Quanto é 12 elevado ao quadrado?",
+        "resposta": "144"
+    },
+    {
+        "id": "ciencias-sabichao-116",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o valor aproximado de pi, com duas casas decimais?",
+        "resposta": "3,14"
+    },
+    {
+        "id": "ciencias-sabichao-117",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chamam os valores que só são divisíveis por 1 e por si mesmos?",
+        "resposta": "Primos (números primos)"
+    },
+    {
+        "id": "ciencias-sabichao-118",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o menor número primo?",
+        "resposta": "2 (dois)"
+    },
+    {
+        "id": "ciencias-sabichao-119",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Quantos segundos tem uma hora?",
+        "resposta": "3600"
+    },
+    {
+        "id": "ciencias-sabichao-120",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a raiz quadrada de 81?",
+        "resposta": "9 (nove)"
+    },
+    {
+        "id": "ciencias-sabichao-121",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o sólido de seis faces quadradas iguais?",
+        "resposta": "Cubo"
+    },
+    {
+        "id": "ciencias-sabichao-122",
+        "tema": "ciencias",
+        "nivel": "sabichao",
+        "pergunta": "Qual relação famosa diz que a² + b² = c² em um triângulo retângulo?",
+        "resposta": "Teorema de Pitágoras"
+    }
+]
