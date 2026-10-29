@@ -7013,844 +7013,1684 @@
     "pergunta": "Qual relação famosa diz que a² + b² = c² em um triângulo retângulo?",
     "resposta": "Teorema de Pitágoras"
   },
-      {
-        "id": "esportes-sabichao-003",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual país europeu criou as primeiras regras do futebol moderno, em 1863?",
-        "resposta": "Inglaterra"
-    },
-    {
-        "id": "esportes-sabichao-004",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual estádio do Rio, inaugurado em 1950, sediou duas finais de Copa do Mundo?",
-        "resposta": "Maracanã"
-    },
-    {
-        "id": "esportes-sabichao-005",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Como se chama a regra que pune o atacante à frente do último defensor no momento do passe?",
-        "resposta": "Impedimento"
-    },
-    {
-        "id": "esportes-sabichao-006",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Como se chama o drible em que a bola passa por cima da cabeça do adversário?",
-        "resposta": "Chapéu (lençol)"
-    },
-    {
-        "id": "esportes-sabichao-007",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual atacante brasileiro, apelidado de Fenômeno, foi artilheiro da Copa de 2002?",
-        "resposta": "Ronaldo (Ronaldo Nazário)"
-    },
-    {
-        "id": "esportes-sabichao-008",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual clube carioca de camisa rubro-negra tem o apelido de Mengão?",
-        "resposta": "Flamengo"
-    },
-    {
-        "id": "esportes-sabichao-009",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual craque argentino marcou o gol da Mão de Deus na Copa de 1986?",
-        "resposta": "Diego Maradona (Maradona)"
-    },
-    {
-        "id": "esportes-sabichao-010",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual torneio de clubes sul-americanos leva o nome de heróis da independência?",
-        "resposta": "Copa Libertadores (Libertadores)"
-    },
-    {
-        "id": "esportes-sabichao-011",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Como se chama a cobrança feita da bandeirinha do canto, depois que a defesa manda a bola pela linha de fundo?",
-        "resposta": "Escanteio (córner)"
-    },
-    {
-        "id": "esportes-sabichao-012",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual clube inglês de camisa vermelha tem o apelido de Diabos Vermelhos e joga em Old Trafford?",
-        "resposta": "Manchester United"
-    },
-    {
-        "id": "esportes-sabichao-013",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual clube italiano de Turim é chamado de Velha Senhora?",
-        "resposta": "Juventus"
-    },
-    {
-        "id": "esportes-sabichao-014",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual clube inglês de camisa vermelha tem o hino \"You'll Never Walk Alone\" e joga em Anfield?",
-        "resposta": "Liverpool"
-    },
-    {
-        "id": "esportes-sabichao-015",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual clube catalão, de camisa azul e grená, tem o lema \"Mais que um clube\"?",
-        "resposta": "Barcelona"
-    },
-    {
-        "id": "esportes-sabichao-016",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual é a distância, em metros, entre a marca do pênalti e a linha do gol?",
-        "resposta": "11 (onze)"
-    },
-    {
-        "id": "esportes-sabichao-017",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual país sul-americano sediou e venceu a primeira Copa do Mundo, em 1930?",
-        "resposta": "Uruguai"
-    },
-    {
-        "id": "esportes-sabichao-018",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Em qual país europeu o Brasil conquistou sua primeira Copa, em 1958?",
-        "resposta": "Suécia"
-    },
-    {
-        "id": "esportes-sabichao-019",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual país foi o primeiro a vencer cinco Copas do Mundo?",
-        "resposta": "Brasil"
-    },
-    {
-        "id": "esportes-sabichao-020",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Em que ano o Brasil conquistou o pentacampeonato, derrotando a Alemanha na final?",
-        "resposta": "2002"
-    },
-    {
-        "id": "esportes-sabichao-021",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual país europeu venceu a Copa de 2014 com um gol de Götze na final?",
-        "resposta": "Alemanha"
-    },
-    {
-        "id": "esportes-sabichao-022",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual país sediou a Copa de 2010, famosa pelo som das vuvuzelas?",
-        "resposta": "África do Sul"
-    },
-    {
-        "id": "esportes-sabichao-023",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual seleção europeia foi campeã da Copa de 2010, com gol de Iniesta na final?",
-        "resposta": "Espanha"
-    },
-    {
-        "id": "esportes-sabichao-024",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual país asiático dividiu com a Coreia do Sul a sede da Copa de 2002?",
-        "resposta": "Japão"
-    },
-    {
-        "id": "esportes-sabichao-025",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual país sediou a Copa de 1994, vencida pelo Brasil nos pênaltis?",
-        "resposta": "Estados Unidos (EUA)"
-    },
-    {
-        "id": "esportes-sabichao-026",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual seleção europeia perdeu por 4 a 1 para o Brasil na final da Copa de 1970?",
-        "resposta": "Itália"
-    },
-    {
-        "id": "esportes-sabichao-027",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual taça, com nome de um dirigente francês, ficou definitivamente com o Brasil em 1970?",
-        "resposta": "Jules Rimet"
-    },
-    {
-        "id": "esportes-sabichao-028",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual país foi o primeiro a sediar duas Copas masculinas, em 1970 e 1986?",
-        "resposta": "México"
-    },
-    {
-        "id": "esportes-sabichao-029",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual meia francês, de origem argelina, fez dois gols de cabeça na final da Copa de 1998?",
-        "resposta": "Zinedine Zidane (Zidane)"
-    },
-    {
-        "id": "esportes-sabichao-030",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual cidade britânica sediou os Jogos Olímpicos de 2012?",
-        "resposta": "Londres"
-    },
-    {
-        "id": "esportes-sabichao-031",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Em qual cidade grega foram realizados os primeiros Jogos Olímpicos modernos, em 1896?",
-        "resposta": "Atenas"
-    },
-    {
-        "id": "esportes-sabichao-032",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual barão francês idealizou os Jogos Olímpicos modernos?",
-        "resposta": "Pierre de Coubertin (Coubertin)"
-    },
-    {
-        "id": "esportes-sabichao-033",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual capital asiática sediou os Jogos de 1964 e os de 2020, adiados para 2021?",
-        "resposta": "Tóquio"
-    },
-    {
-        "id": "esportes-sabichao-034",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual capital sediou os Jogos de 2008, com o estádio conhecido como Ninho de Pássaro?",
-        "resposta": "Pequim (Beijing)"
-    },
-    {
-        "id": "esportes-sabichao-035",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual ginasta romena tirou a primeira nota 10 da história olímpica, em 1976?",
-        "resposta": "Nadia Comaneci (Comaneci)"
-    },
-    {
-        "id": "esportes-sabichao-036",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual velocista americano ganhou quatro ouros nos Jogos de Berlim, em 1936?",
-        "resposta": "Jesse Owens (Owens)"
-    },
-    {
-        "id": "esportes-sabichao-037",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual capital europeia sediou os Jogos de 1900, 1924 e 2024?",
-        "resposta": "Paris"
-    },
-    {
-        "id": "esportes-sabichao-038",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual cidade australiana sediou os Jogos Olímpicos de 2000?",
-        "resposta": "Sydney"
-    },
-    {
-        "id": "esportes-sabichao-039",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual país sediou os Jogos Olímpicos de Inverno de 2014, na cidade de Sochi?",
-        "resposta": "Rússia"
-    },
-    {
-        "id": "esportes-sabichao-040",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual cidade americana sediou os Jogos Olímpicos de 1996?",
-        "resposta": "Atlanta"
-    },
-    {
-        "id": "esportes-sabichao-041",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual é a cor do primeiro anel olímpico, à esquerda do símbolo?",
-        "resposta": "Azul"
-    },
-    {
-        "id": "esportes-sabichao-042",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quantas provas formam o decatlo?",
-        "resposta": "10 (dez)"
-    },
-    {
-        "id": "esportes-sabichao-043",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quantos sets uma equipe precisa vencer para ganhar uma partida de vôlei no formato melhor de cinco?",
-        "resposta": "3 (três)"
-    },
-    {
-        "id": "esportes-sabichao-044",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Como se chama o jogador do vôlei que veste cor diferente da equipe e só atua na defesa?",
-        "resposta": "Líbero"
-    },
-    {
-        "id": "esportes-sabichao-045",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual jogador do vôlei, o armador da equipe, prepara a bola para a cortada?",
-        "resposta": "Levantador"
-    },
-    {
-        "id": "esportes-sabichao-046",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Até quantos pontos vai um set normal de vôlei, nos quatro primeiros sets?",
-        "resposta": "25 (vinte e cinco)"
-    },
-    {
-        "id": "esportes-sabichao-047",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual é a altura da rede no vôlei masculino adulto?",
-        "resposta": "2,43 metros"
-    },
-    {
-        "id": "esportes-sabichao-048",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Em que país nasceu o vôlei, inventado por William Morgan em 1895?",
-        "resposta": "Estados Unidos (EUA)"
-    },
-    {
-        "id": "esportes-sabichao-049",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quais são as medidas da quadra de vôlei, em metros, comprimento e largura?",
-        "resposta": "18 x 9"
-    },
-    {
-        "id": "esportes-sabichao-050",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual treinador comandou a seleção masculina de vôlei nos ouros olímpicos de 2004 e 2016?",
-        "resposta": "Bernardinho (Bernardo Rezende)"
-    },
-    {
-        "id": "esportes-sabichao-051",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quantos jogadores formam cada equipe no vôlei de praia?",
-        "resposta": "2 (dois)"
-    },
-    {
-        "id": "esportes-sabichao-052",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual professor canadense inventou o basquete em 1891?",
-        "resposta": "James Naismith (Naismith)"
-    },
-    {
-        "id": "esportes-sabichao-053",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "De quantos segundos é o relógio de posse de bola no basquete?",
-        "resposta": "24 (vinte e quatro)"
-    },
-    {
-        "id": "esportes-sabichao-054",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual armador de 2,06 m, camisa 32, ganhou cinco títulos da NBA com os Lakers nos anos 1980?",
-        "resposta": "Magic Johnson"
-    },
-    {
-        "id": "esportes-sabichao-055",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual brasileiro, de apelido Mão Santa, é um dos maiores cestinhas da história do basquete?",
-        "resposta": "Oscar Schmidt (Oscar)"
-    },
-    {
-        "id": "esportes-sabichao-056",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Como se chama a cesta feita após dois passos, com a bola quase encostada no aro?",
-        "resposta": "Bandeja"
-    },
-    {
-        "id": "esportes-sabichao-057",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual luta, adaptada pela família Gracie, é famosa por chaves e estrangulamentos no chão?",
-        "resposta": "Jiu-jitsu (jiu-jitsu brasileiro)"
-    },
-    {
-        "id": "esportes-sabichao-058",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual esporte de luta é disputado em um ringue, com luvas e rounds de três minutos?",
-        "resposta": "Boxe"
-    },
-    {
-        "id": "esportes-sabichao-059",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual arte marcial japonesa usa espadas de bambu chamadas shinai?",
-        "resposta": "Kendô (kendo)"
-    },
-    {
-        "id": "esportes-sabichao-060",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual arte marcial tailandesa usa socos, chutes, joelhadas e cotoveladas?",
-        "resposta": "Muay Thai"
-    },
-    {
-        "id": "esportes-sabichao-061",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual estilo olímpico de combate corpo a corpo proíbe golpes abaixo da cintura e vem da Antiguidade?",
-        "resposta": "Luta greco-romana"
-    },
-    {
-        "id": "esportes-sabichao-062",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual astro dos filmes de artes marciais criou o estilo Jeet Kune Do?",
-        "resposta": "Bruce Lee"
-    },
-    {
-        "id": "esportes-sabichao-063",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual professor japonês criou o judô em 1882?",
-        "resposta": "Jigoro Kano (Kano)"
-    },
-    {
-        "id": "esportes-sabichao-064",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual boxeador americano, nascido Cassius Clay, dizia ser \"o Maior\"?",
-        "resposta": "Muhammad Ali (Ali)"
-    },
-    {
-        "id": "esportes-sabichao-065",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual soco do boxe sobe de baixo para cima, em direção ao queixo?",
-        "resposta": "Uppercut"
-    },
-    {
-        "id": "esportes-sabichao-066",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Como se chama o título mais alto do sumô?",
-        "resposta": "Yokozuna"
-    },
-    {
-        "id": "esportes-sabichao-067",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual cor de faixa vem logo abaixo da preta no judô?",
-        "resposta": "Marrom"
-    },
-    {
-        "id": "esportes-sabichao-068",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual é o formato real do ringue de boxe, apesar do nome que lembra um anel?",
-        "resposta": "Quadrado"
-    },
-    {
-        "id": "esportes-sabichao-069",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual sigla de três letras identifica as artes marciais mistas?",
-        "resposta": "MMA"
-    },
-    {
-        "id": "esportes-sabichao-070",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quantos jogadores de cada equipe ficam em quadra no handebol, contando o goleiro?",
-        "resposta": "7 (sete)"
-    },
-    {
-        "id": "esportes-sabichao-071",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual torneio de tênis é jogado na grama, em Londres?",
-        "resposta": "Wimbledon"
-    },
-    {
-        "id": "esportes-sabichao-072",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual torneio de tênis é disputado em quadras duras, em Nova York?",
-        "resposta": "US Open"
-    },
-    {
-        "id": "esportes-sabichao-073",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual pontuação vem logo depois do 30 na contagem do tênis?",
-        "resposta": "40 (quarenta)"
-    },
-    {
-        "id": "esportes-sabichao-074",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual palavra inglesa significa zero na contagem de pontos do tênis?",
-        "resposta": "Love"
-    },
-    {
-        "id": "esportes-sabichao-075",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual esporte de raquete é jogado em quadra fechada por paredes e com bolinha de borracha?",
-        "resposta": "Squash"
-    },
-    {
-        "id": "esportes-sabichao-076",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Como se chama o saque do tênis que o adversário não consegue nem tocar?",
-        "resposta": "Ace"
-    },
-    {
-        "id": "esportes-sabichao-077",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual esporte de raquete, em dupla e com paredes de vidro, virou febre nas quadras do Brasil?",
-        "resposta": "Padel (pádel)"
-    },
-    {
-        "id": "esportes-sabichao-078",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quantos pontos vale um set no tênis de mesa, com diferença mínima de dois?",
-        "resposta": "11 (onze)"
-    },
-    {
-        "id": "esportes-sabichao-079",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual esporte paralímpico de quadra usa uma bola com guizos e jogadores de olhos vendados?",
-        "resposta": "Goalball"
-    },
-    {
-        "id": "esportes-sabichao-080",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual tenista brasileira ganhou três vezes Wimbledon, entre 1959 e 1964?",
-        "resposta": "Maria Esther Bueno (Bueno)"
-    },
-    {
-        "id": "esportes-sabichao-081",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual sigla de quatro letras identifica a federação internacional de vôlei?",
-        "resposta": "FIVB"
-    },
-    {
-        "id": "esportes-sabichao-082",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual versão do basquete, em meia quadra e três contra três, estreou nos Jogos de Tóquio?",
-        "resposta": "3x3"
-    },
-    {
-        "id": "esportes-sabichao-083",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quantos metros tem uma volta completa na pista oficial de atletismo?",
-        "resposta": "400 (quatrocentos)"
-    },
-    {
-        "id": "esportes-sabichao-084",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quantas provas formam o heptatlo?",
-        "resposta": "7 (sete)"
-    },
-    {
-        "id": "esportes-sabichao-085",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual prova do atletismo usa uma bola metálica pesada, empurrada com uma só mão perto do pescoço?",
-        "resposta": "Arremesso de peso"
-    },
-    {
-        "id": "esportes-sabichao-086",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual prova do atletismo tem barreiras fixas e um fosso com água no percurso?",
-        "resposta": "Corrida com obstáculos"
-    },
-    {
-        "id": "esportes-sabichao-087",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual prova do atletismo usa uma bola metálica presa a um cabo de aço com uma alça?",
-        "resposta": "Lançamento de martelo"
-    },
-    {
-        "id": "esportes-sabichao-088",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quantos estilos de natação formam o medley individual?",
-        "resposta": "4 (quatro)"
-    },
-    {
-        "id": "esportes-sabichao-089",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quantos metros tem a piscina olímpica?",
-        "resposta": "50 (cinquenta)"
-    },
-    {
-        "id": "esportes-sabichao-090",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual esporte de piscina é jogado com bola e gols, com sete jogadores por equipe?",
-        "resposta": "Polo aquático"
-    },
-    {
-        "id": "esportes-sabichao-091",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual esporte aquático combina ginástica, dança e música, com coreografias na piscina?",
-        "resposta": "Nado artístico (nado sincronizado)"
-    },
-    {
-        "id": "esportes-sabichao-092",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual prova de caminhada olímpica exige que um pé esteja sempre em contato com o chão?",
-        "resposta": "Marcha atlética"
-    },
-    {
-        "id": "esportes-sabichao-093",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual medida inglesa, de cerca de 1.609 metros, é usada em corridas tradicionais?",
-        "resposta": "Milha"
-    },
-    {
-        "id": "esportes-sabichao-094",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quantas voltas na pista de 400 metros formam a prova de 10.000 metros?",
-        "resposta": "25 (vinte e cinco)"
-    },
-    {
-        "id": "esportes-sabichao-095",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual prova do atletismo tem três fases seguidas, chamadas de hop, step e jump?",
-        "resposta": "Salto triplo"
-    },
-    {
-        "id": "esportes-sabichao-096",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual esporte olímpico combina natação, hipismo, esgrima, corrida e tiro?",
-        "resposta": "Pentatlo moderno"
-    },
-    {
-        "id": "esportes-sabichao-097",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual equipamento obrigatório resguarda os dentes de quem luta boxe?",
-        "resposta": "Protetor bucal"
-    },
-    {
-        "id": "esportes-sabichao-098",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual sigla de três letras identifica o árbitro de vídeo no futebol?",
-        "resposta": "VAR"
-    },
-    {
-        "id": "esportes-sabichao-099",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quantos pontos vale o try, quando a bola é apoiada no campo de ataque do rúgbi?",
-        "resposta": "5 (cinco)"
-    },
-    {
-        "id": "esportes-sabichao-100",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual esporte tem o touchdown, que vale seis pontos?",
-        "resposta": "Futebol americano"
-    },
-    {
-        "id": "esportes-sabichao-101",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual esporte usa bola oval e traves em formato de H?",
-        "resposta": "Rúgbi"
-    },
-    {
-        "id": "esportes-sabichao-102",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quantos buracos tem um percurso completo de golfe?",
-        "resposta": "18 (dezoito)"
-    },
-    {
-        "id": "esportes-sabichao-103",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual esporte tem rebatedor, arremessador e bases em formato de losango?",
-        "resposta": "Beisebol"
-    },
-    {
-        "id": "esportes-sabichao-104",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quantos jogadores de uma equipe defendem o campo no beisebol?",
-        "resposta": "9 (nove)"
-    },
-    {
-        "id": "esportes-sabichao-105",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual cor tem a camisa do líder do Tour de France?",
-        "resposta": "Amarela"
-    },
-    {
-        "id": "esportes-sabichao-106",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual tipo de piso é usado nas quadras de Roland Garros?",
-        "resposta": "Saibro"
-    },
-    {
-        "id": "esportes-sabichao-107",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual bandeira, com padrão preto e branco, é mostrada para encerrar uma corrida de Fórmula 1?",
-        "resposta": "Quadriculada"
-    },
-    {
-        "id": "esportes-sabichao-108",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Como se chama o jogo decisivo disputado quando o set chega a 6 a 6 no tênis?",
-        "resposta": "Tie-break"
-    },
-    {
-        "id": "esportes-sabichao-109",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Quantos jogadores de cada time ficam no gelo no hóquei, contando o goleiro?",
-        "resposta": "6 (seis)"
-    },
-    {
-        "id": "esportes-sabichao-110",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual nadador americano ganhou sete ouros nos Jogos de Munique, em 1972?",
-        "resposta": "Mark Spitz (Spitz)"
-    },
-    {
-        "id": "esportes-sabichao-111",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual atleta brasileiro ganhou ouro no salto triplo em Helsinque, 1952, e Melbourne, 1956?",
-        "resposta": "Adhemar Ferreira da Silva"
-    },
-    {
-        "id": "esportes-sabichao-112",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual velocista americano igualou os quatro ouros de Jesse Owens nos Jogos de 1984?",
-        "resposta": "Carl Lewis (Lewis)"
-    },
-    {
-        "id": "esportes-sabichao-113",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual jogadora brasileira foi eleita seis vezes a melhor do mundo pela Fifa?",
-        "resposta": "Marta"
-    },
-    {
-        "id": "esportes-sabichao-114",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual ginasta soviética encantou o mundo em Munique, aos 17 anos?",
-        "resposta": "Olga Korbut (Korbut)"
-    },
-    {
-        "id": "esportes-sabichao-115",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual tenista alemã conquistou o Golden Slam, os quatro Grand Slams e o ouro, em 1988?",
-        "resposta": "Steffi Graf (Graf)"
-    },
-    {
-        "id": "esportes-sabichao-116",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual maratonista etíope ganhou o ouro em Roma, em 1960, correndo descalço?",
-        "resposta": "Abebe Bikila (Bikila)"
-    },
-    {
-        "id": "esportes-sabichao-117",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual corredor tcheco ganhou três ouros em Helsinque, nos 5.000 m, nos 10.000 m e na maratona?",
-        "resposta": "Emil Zátopek (Zátopek)"
-    },
-    {
-        "id": "esportes-sabichao-118",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual jogador canadense de hóquei no gelo era chamado de O Grande?",
-        "resposta": "Wayne Gretzky (Gretzky)"
-    },
-    {
-        "id": "esportes-sabichao-119",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual tenista sueco ganhou cinco Wimbledon seguidos, de 1976 a 1980?",
-        "resposta": "Björn Borg (Borg)"
-    },
-    {
-        "id": "esportes-sabichao-120",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual lenda do beisebol americano dos anos 1920 era conhecida como Bambino?",
-        "resposta": "Babe Ruth (Ruth)"
-    },
-    {
-        "id": "esportes-sabichao-121",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual nadador australiano ganhou o apelido de Torpedo?",
-        "resposta": "Ian Thorpe (Thorpe)"
-    },
-    {
-        "id": "esportes-sabichao-122",
-        "tema": "esportes",
-        "nivel": "sabichao",
-        "pergunta": "Qual corredor finlandês, chamado de Finlandês Voador, ganhou nove ouros olímpicos nos anos 1920?",
-        "resposta": "Paavo Nurmi (Nurmi)"
-    }
+  {
+    "id": "esportes-sabichao-003",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual país europeu criou as primeiras regras do futebol moderno, em 1863?",
+    "resposta": "Inglaterra"
+  },
+  {
+    "id": "esportes-sabichao-004",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual estádio do Rio, inaugurado em 1950, sediou duas finais de Copa do Mundo?",
+    "resposta": "Maracanã"
+  },
+  {
+    "id": "esportes-sabichao-005",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama a regra que pune o atacante à frente do último defensor no momento do passe?",
+    "resposta": "Impedimento"
+  },
+  {
+    "id": "esportes-sabichao-006",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama o drible em que a bola passa por cima da cabeça do adversário?",
+    "resposta": "Chapéu (lençol)"
+  },
+  {
+    "id": "esportes-sabichao-007",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual atacante brasileiro, apelidado de Fenômeno, foi artilheiro da Copa de 2002?",
+    "resposta": "Ronaldo (Ronaldo Nazário)"
+  },
+  {
+    "id": "esportes-sabichao-008",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual clube carioca de camisa rubro-negra tem o apelido de Mengão?",
+    "resposta": "Flamengo"
+  },
+  {
+    "id": "esportes-sabichao-009",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual craque argentino marcou o gol da Mão de Deus na Copa de 1986?",
+    "resposta": "Diego Maradona (Maradona)"
+  },
+  {
+    "id": "esportes-sabichao-010",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual torneio de clubes sul-americanos leva o nome de heróis da independência?",
+    "resposta": "Copa Libertadores (Libertadores)"
+  },
+  {
+    "id": "esportes-sabichao-011",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama a cobrança feita da bandeirinha do canto, depois que a defesa manda a bola pela linha de fundo?",
+    "resposta": "Escanteio (córner)"
+  },
+  {
+    "id": "esportes-sabichao-012",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual clube inglês de camisa vermelha tem o apelido de Diabos Vermelhos e joga em Old Trafford?",
+    "resposta": "Manchester United"
+  },
+  {
+    "id": "esportes-sabichao-013",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual clube italiano de Turim é chamado de Velha Senhora?",
+    "resposta": "Juventus"
+  },
+  {
+    "id": "esportes-sabichao-014",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual clube inglês de camisa vermelha tem o hino \"You'll Never Walk Alone\" e joga em Anfield?",
+    "resposta": "Liverpool"
+  },
+  {
+    "id": "esportes-sabichao-015",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual clube catalão, de camisa azul e grená, tem o lema \"Mais que um clube\"?",
+    "resposta": "Barcelona"
+  },
+  {
+    "id": "esportes-sabichao-016",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a distância, em metros, entre a marca do pênalti e a linha do gol?",
+    "resposta": "11 (onze)"
+  },
+  {
+    "id": "esportes-sabichao-017",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual país sul-americano sediou e venceu a primeira Copa do Mundo, em 1930?",
+    "resposta": "Uruguai"
+  },
+  {
+    "id": "esportes-sabichao-018",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Em qual país europeu o Brasil conquistou sua primeira Copa, em 1958?",
+    "resposta": "Suécia"
+  },
+  {
+    "id": "esportes-sabichao-019",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual país foi o primeiro a vencer cinco Copas do Mundo?",
+    "resposta": "Brasil"
+  },
+  {
+    "id": "esportes-sabichao-020",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Em que ano o Brasil conquistou o pentacampeonato, derrotando a Alemanha na final?",
+    "resposta": "2002"
+  },
+  {
+    "id": "esportes-sabichao-021",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual país europeu venceu a Copa de 2014 com um gol de Götze na final?",
+    "resposta": "Alemanha"
+  },
+  {
+    "id": "esportes-sabichao-022",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual país sediou a Copa de 2010, famosa pelo som das vuvuzelas?",
+    "resposta": "África do Sul"
+  },
+  {
+    "id": "esportes-sabichao-023",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual seleção europeia foi campeã da Copa de 2010, com gol de Iniesta na final?",
+    "resposta": "Espanha"
+  },
+  {
+    "id": "esportes-sabichao-024",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual país asiático dividiu com a Coreia do Sul a sede da Copa de 2002?",
+    "resposta": "Japão"
+  },
+  {
+    "id": "esportes-sabichao-025",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual país sediou a Copa de 1994, vencida pelo Brasil nos pênaltis?",
+    "resposta": "Estados Unidos (EUA)"
+  },
+  {
+    "id": "esportes-sabichao-026",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual seleção europeia perdeu por 4 a 1 para o Brasil na final da Copa de 1970?",
+    "resposta": "Itália"
+  },
+  {
+    "id": "esportes-sabichao-027",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual taça, com nome de um dirigente francês, ficou definitivamente com o Brasil em 1970?",
+    "resposta": "Jules Rimet"
+  },
+  {
+    "id": "esportes-sabichao-028",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual país foi o primeiro a sediar duas Copas masculinas, em 1970 e 1986?",
+    "resposta": "México"
+  },
+  {
+    "id": "esportes-sabichao-029",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual meia francês, de origem argelina, fez dois gols de cabeça na final da Copa de 1998?",
+    "resposta": "Zinedine Zidane (Zidane)"
+  },
+  {
+    "id": "esportes-sabichao-030",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual cidade britânica sediou os Jogos Olímpicos de 2012?",
+    "resposta": "Londres"
+  },
+  {
+    "id": "esportes-sabichao-031",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Em qual cidade grega foram realizados os primeiros Jogos Olímpicos modernos, em 1896?",
+    "resposta": "Atenas"
+  },
+  {
+    "id": "esportes-sabichao-032",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual barão francês idealizou os Jogos Olímpicos modernos?",
+    "resposta": "Pierre de Coubertin (Coubertin)"
+  },
+  {
+    "id": "esportes-sabichao-033",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual capital asiática sediou os Jogos de 1964 e os de 2020, adiados para 2021?",
+    "resposta": "Tóquio"
+  },
+  {
+    "id": "esportes-sabichao-034",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual capital sediou os Jogos de 2008, com o estádio conhecido como Ninho de Pássaro?",
+    "resposta": "Pequim (Beijing)"
+  },
+  {
+    "id": "esportes-sabichao-035",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual ginasta romena tirou a primeira nota 10 da história olímpica, em 1976?",
+    "resposta": "Nadia Comaneci (Comaneci)"
+  },
+  {
+    "id": "esportes-sabichao-036",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual velocista americano ganhou quatro ouros nos Jogos de Berlim, em 1936?",
+    "resposta": "Jesse Owens (Owens)"
+  },
+  {
+    "id": "esportes-sabichao-037",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual capital europeia sediou os Jogos de 1900, 1924 e 2024?",
+    "resposta": "Paris"
+  },
+  {
+    "id": "esportes-sabichao-038",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual cidade australiana sediou os Jogos Olímpicos de 2000?",
+    "resposta": "Sydney"
+  },
+  {
+    "id": "esportes-sabichao-039",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual país sediou os Jogos Olímpicos de Inverno de 2014, na cidade de Sochi?",
+    "resposta": "Rússia"
+  },
+  {
+    "id": "esportes-sabichao-040",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual cidade americana sediou os Jogos Olímpicos de 1996?",
+    "resposta": "Atlanta"
+  },
+  {
+    "id": "esportes-sabichao-041",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a cor do primeiro anel olímpico, à esquerda do símbolo?",
+    "resposta": "Azul"
+  },
+  {
+    "id": "esportes-sabichao-042",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantas provas formam o decatlo?",
+    "resposta": "10 (dez)"
+  },
+  {
+    "id": "esportes-sabichao-043",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantos sets uma equipe precisa vencer para ganhar uma partida de vôlei no formato melhor de cinco?",
+    "resposta": "3 (três)"
+  },
+  {
+    "id": "esportes-sabichao-044",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama o jogador do vôlei que veste cor diferente da equipe e só atua na defesa?",
+    "resposta": "Líbero"
+  },
+  {
+    "id": "esportes-sabichao-045",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual jogador do vôlei, o armador da equipe, prepara a bola para a cortada?",
+    "resposta": "Levantador"
+  },
+  {
+    "id": "esportes-sabichao-046",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Até quantos pontos vai um set normal de vôlei, nos quatro primeiros sets?",
+    "resposta": "25 (vinte e cinco)"
+  },
+  {
+    "id": "esportes-sabichao-047",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a altura da rede no vôlei masculino adulto?",
+    "resposta": "2,43 metros"
+  },
+  {
+    "id": "esportes-sabichao-048",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Em que país nasceu o vôlei, inventado por William Morgan em 1895?",
+    "resposta": "Estados Unidos (EUA)"
+  },
+  {
+    "id": "esportes-sabichao-049",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quais são as medidas da quadra de vôlei, em metros, comprimento e largura?",
+    "resposta": "18 x 9"
+  },
+  {
+    "id": "esportes-sabichao-050",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual treinador comandou a seleção masculina de vôlei nos ouros olímpicos de 2004 e 2016?",
+    "resposta": "Bernardinho (Bernardo Rezende)"
+  },
+  {
+    "id": "esportes-sabichao-051",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantos jogadores formam cada equipe no vôlei de praia?",
+    "resposta": "2 (dois)"
+  },
+  {
+    "id": "esportes-sabichao-052",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual professor canadense inventou o basquete em 1891?",
+    "resposta": "James Naismith (Naismith)"
+  },
+  {
+    "id": "esportes-sabichao-053",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "De quantos segundos é o relógio de posse de bola no basquete?",
+    "resposta": "24 (vinte e quatro)"
+  },
+  {
+    "id": "esportes-sabichao-054",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual armador de 2,06 m, camisa 32, ganhou cinco títulos da NBA com os Lakers nos anos 1980?",
+    "resposta": "Magic Johnson"
+  },
+  {
+    "id": "esportes-sabichao-055",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual brasileiro, de apelido Mão Santa, é um dos maiores cestinhas da história do basquete?",
+    "resposta": "Oscar Schmidt (Oscar)"
+  },
+  {
+    "id": "esportes-sabichao-056",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama a cesta feita após dois passos, com a bola quase encostada no aro?",
+    "resposta": "Bandeja"
+  },
+  {
+    "id": "esportes-sabichao-057",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual luta, adaptada pela família Gracie, é famosa por chaves e estrangulamentos no chão?",
+    "resposta": "Jiu-jitsu (jiu-jitsu brasileiro)"
+  },
+  {
+    "id": "esportes-sabichao-058",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual esporte de luta é disputado em um ringue, com luvas e rounds de três minutos?",
+    "resposta": "Boxe"
+  },
+  {
+    "id": "esportes-sabichao-059",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual arte marcial japonesa usa espadas de bambu chamadas shinai?",
+    "resposta": "Kendô (kendo)"
+  },
+  {
+    "id": "esportes-sabichao-060",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual arte marcial tailandesa usa socos, chutes, joelhadas e cotoveladas?",
+    "resposta": "Muay Thai"
+  },
+  {
+    "id": "esportes-sabichao-061",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual estilo olímpico de combate corpo a corpo proíbe golpes abaixo da cintura e vem da Antiguidade?",
+    "resposta": "Luta greco-romana"
+  },
+  {
+    "id": "esportes-sabichao-062",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual astro dos filmes de artes marciais criou o estilo Jeet Kune Do?",
+    "resposta": "Bruce Lee"
+  },
+  {
+    "id": "esportes-sabichao-063",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual professor japonês criou o judô em 1882?",
+    "resposta": "Jigoro Kano (Kano)"
+  },
+  {
+    "id": "esportes-sabichao-064",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual boxeador americano, nascido Cassius Clay, dizia ser \"o Maior\"?",
+    "resposta": "Muhammad Ali (Ali)"
+  },
+  {
+    "id": "esportes-sabichao-065",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual soco do boxe sobe de baixo para cima, em direção ao queixo?",
+    "resposta": "Uppercut"
+  },
+  {
+    "id": "esportes-sabichao-066",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama o título mais alto do sumô?",
+    "resposta": "Yokozuna"
+  },
+  {
+    "id": "esportes-sabichao-067",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual cor de faixa vem logo abaixo da preta no judô?",
+    "resposta": "Marrom"
+  },
+  {
+    "id": "esportes-sabichao-068",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual é o formato real do ringue de boxe, apesar do nome que lembra um anel?",
+    "resposta": "Quadrado"
+  },
+  {
+    "id": "esportes-sabichao-069",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual sigla de três letras identifica as artes marciais mistas?",
+    "resposta": "MMA"
+  },
+  {
+    "id": "esportes-sabichao-070",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantos jogadores de cada equipe ficam em quadra no handebol, contando o goleiro?",
+    "resposta": "7 (sete)"
+  },
+  {
+    "id": "esportes-sabichao-071",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual torneio de tênis é jogado na grama, em Londres?",
+    "resposta": "Wimbledon"
+  },
+  {
+    "id": "esportes-sabichao-072",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual torneio de tênis é disputado em quadras duras, em Nova York?",
+    "resposta": "US Open"
+  },
+  {
+    "id": "esportes-sabichao-073",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual pontuação vem logo depois do 30 na contagem do tênis?",
+    "resposta": "40 (quarenta)"
+  },
+  {
+    "id": "esportes-sabichao-074",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual palavra inglesa significa zero na contagem de pontos do tênis?",
+    "resposta": "Love"
+  },
+  {
+    "id": "esportes-sabichao-075",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual esporte de raquete é jogado em quadra fechada por paredes e com bolinha de borracha?",
+    "resposta": "Squash"
+  },
+  {
+    "id": "esportes-sabichao-076",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama o saque do tênis que o adversário não consegue nem tocar?",
+    "resposta": "Ace"
+  },
+  {
+    "id": "esportes-sabichao-077",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual esporte de raquete, em dupla e com paredes de vidro, virou febre nas quadras do Brasil?",
+    "resposta": "Padel (pádel)"
+  },
+  {
+    "id": "esportes-sabichao-078",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantos pontos vale um set no tênis de mesa, com diferença mínima de dois?",
+    "resposta": "11 (onze)"
+  },
+  {
+    "id": "esportes-sabichao-079",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual esporte paralímpico de quadra usa uma bola com guizos e jogadores de olhos vendados?",
+    "resposta": "Goalball"
+  },
+  {
+    "id": "esportes-sabichao-080",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual tenista brasileira ganhou três vezes Wimbledon, entre 1959 e 1964?",
+    "resposta": "Maria Esther Bueno (Bueno)"
+  },
+  {
+    "id": "esportes-sabichao-081",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual sigla de quatro letras identifica a federação internacional de vôlei?",
+    "resposta": "FIVB"
+  },
+  {
+    "id": "esportes-sabichao-082",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual versão do basquete, em meia quadra e três contra três, estreou nos Jogos de Tóquio?",
+    "resposta": "3x3"
+  },
+  {
+    "id": "esportes-sabichao-083",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantos metros tem uma volta completa na pista oficial de atletismo?",
+    "resposta": "400 (quatrocentos)"
+  },
+  {
+    "id": "esportes-sabichao-084",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantas provas formam o heptatlo?",
+    "resposta": "7 (sete)"
+  },
+  {
+    "id": "esportes-sabichao-085",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual prova do atletismo usa uma bola metálica pesada, empurrada com uma só mão perto do pescoço?",
+    "resposta": "Arremesso de peso"
+  },
+  {
+    "id": "esportes-sabichao-086",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual prova do atletismo tem barreiras fixas e um fosso com água no percurso?",
+    "resposta": "Corrida com obstáculos"
+  },
+  {
+    "id": "esportes-sabichao-087",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual prova do atletismo usa uma bola metálica presa a um cabo de aço com uma alça?",
+    "resposta": "Lançamento de martelo"
+  },
+  {
+    "id": "esportes-sabichao-088",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantos estilos de natação formam o medley individual?",
+    "resposta": "4 (quatro)"
+  },
+  {
+    "id": "esportes-sabichao-089",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantos metros tem a piscina olímpica?",
+    "resposta": "50 (cinquenta)"
+  },
+  {
+    "id": "esportes-sabichao-090",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual esporte de piscina é jogado com bola e gols, com sete jogadores por equipe?",
+    "resposta": "Polo aquático"
+  },
+  {
+    "id": "esportes-sabichao-091",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual esporte aquático combina ginástica, dança e música, com coreografias na piscina?",
+    "resposta": "Nado artístico (nado sincronizado)"
+  },
+  {
+    "id": "esportes-sabichao-092",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual prova de caminhada olímpica exige que um pé esteja sempre em contato com o chão?",
+    "resposta": "Marcha atlética"
+  },
+  {
+    "id": "esportes-sabichao-093",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual medida inglesa, de cerca de 1.609 metros, é usada em corridas tradicionais?",
+    "resposta": "Milha"
+  },
+  {
+    "id": "esportes-sabichao-094",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantas voltas na pista de 400 metros formam a prova de 10.000 metros?",
+    "resposta": "25 (vinte e cinco)"
+  },
+  {
+    "id": "esportes-sabichao-095",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual prova do atletismo tem três fases seguidas, chamadas de hop, step e jump?",
+    "resposta": "Salto triplo"
+  },
+  {
+    "id": "esportes-sabichao-096",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual esporte olímpico combina natação, hipismo, esgrima, corrida e tiro?",
+    "resposta": "Pentatlo moderno"
+  },
+  {
+    "id": "esportes-sabichao-097",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual equipamento obrigatório resguarda os dentes de quem luta boxe?",
+    "resposta": "Protetor bucal"
+  },
+  {
+    "id": "esportes-sabichao-098",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual sigla de três letras identifica o árbitro de vídeo no futebol?",
+    "resposta": "VAR"
+  },
+  {
+    "id": "esportes-sabichao-099",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantos pontos vale o try, quando a bola é apoiada no campo de ataque do rúgbi?",
+    "resposta": "5 (cinco)"
+  },
+  {
+    "id": "esportes-sabichao-100",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual esporte tem o touchdown, que vale seis pontos?",
+    "resposta": "Futebol americano"
+  },
+  {
+    "id": "esportes-sabichao-101",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual esporte usa bola oval e traves em formato de H?",
+    "resposta": "Rúgbi"
+  },
+  {
+    "id": "esportes-sabichao-102",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantos buracos tem um percurso completo de golfe?",
+    "resposta": "18 (dezoito)"
+  },
+  {
+    "id": "esportes-sabichao-103",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual esporte tem rebatedor, arremessador e bases em formato de losango?",
+    "resposta": "Beisebol"
+  },
+  {
+    "id": "esportes-sabichao-104",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantos jogadores de uma equipe defendem o campo no beisebol?",
+    "resposta": "9 (nove)"
+  },
+  {
+    "id": "esportes-sabichao-105",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual cor tem a camisa do líder do Tour de France?",
+    "resposta": "Amarela"
+  },
+  {
+    "id": "esportes-sabichao-106",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual tipo de piso é usado nas quadras de Roland Garros?",
+    "resposta": "Saibro"
+  },
+  {
+    "id": "esportes-sabichao-107",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual bandeira, com padrão preto e branco, é mostrada para encerrar uma corrida de Fórmula 1?",
+    "resposta": "Quadriculada"
+  },
+  {
+    "id": "esportes-sabichao-108",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama o jogo decisivo disputado quando o set chega a 6 a 6 no tênis?",
+    "resposta": "Tie-break"
+  },
+  {
+    "id": "esportes-sabichao-109",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Quantos jogadores de cada time ficam no gelo no hóquei, contando o goleiro?",
+    "resposta": "6 (seis)"
+  },
+  {
+    "id": "esportes-sabichao-110",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual nadador americano ganhou sete ouros nos Jogos de Munique, em 1972?",
+    "resposta": "Mark Spitz (Spitz)"
+  },
+  {
+    "id": "esportes-sabichao-111",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual atleta brasileiro ganhou ouro no salto triplo em Helsinque, 1952, e Melbourne, 1956?",
+    "resposta": "Adhemar Ferreira da Silva"
+  },
+  {
+    "id": "esportes-sabichao-112",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual velocista americano igualou os quatro ouros de Jesse Owens nos Jogos de 1984?",
+    "resposta": "Carl Lewis (Lewis)"
+  },
+  {
+    "id": "esportes-sabichao-113",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual jogadora brasileira foi eleita seis vezes a melhor do mundo pela Fifa?",
+    "resposta": "Marta"
+  },
+  {
+    "id": "esportes-sabichao-114",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual ginasta soviética encantou o mundo em Munique, aos 17 anos?",
+    "resposta": "Olga Korbut (Korbut)"
+  },
+  {
+    "id": "esportes-sabichao-115",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual tenista alemã conquistou o Golden Slam, os quatro Grand Slams e o ouro, em 1988?",
+    "resposta": "Steffi Graf (Graf)"
+  },
+  {
+    "id": "esportes-sabichao-116",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual maratonista etíope ganhou o ouro em Roma, em 1960, correndo descalço?",
+    "resposta": "Abebe Bikila (Bikila)"
+  },
+  {
+    "id": "esportes-sabichao-117",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual corredor tcheco ganhou três ouros em Helsinque, nos 5.000 m, nos 10.000 m e na maratona?",
+    "resposta": "Emil Zátopek (Zátopek)"
+  },
+  {
+    "id": "esportes-sabichao-118",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual jogador canadense de hóquei no gelo era chamado de O Grande?",
+    "resposta": "Wayne Gretzky (Gretzky)"
+  },
+  {
+    "id": "esportes-sabichao-119",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual tenista sueco ganhou cinco Wimbledon seguidos, de 1976 a 1980?",
+    "resposta": "Björn Borg (Borg)"
+  },
+  {
+    "id": "esportes-sabichao-120",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual lenda do beisebol americano dos anos 1920 era conhecida como Bambino?",
+    "resposta": "Babe Ruth (Ruth)"
+  },
+  {
+    "id": "esportes-sabichao-121",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual nadador australiano ganhou o apelido de Torpedo?",
+    "resposta": "Ian Thorpe (Thorpe)"
+  },
+  {
+    "id": "esportes-sabichao-122",
+    "tema": "esportes",
+    "nivel": "sabichao",
+    "pergunta": "Qual corredor finlandês, chamado de Finlandês Voador, ganhou nove ouros olímpicos nos anos 1920?",
+    "resposta": "Paavo Nurmi (Nurmi)"
+  },
+  {
+    "id": "geografia-sabichao-003",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital da Austrália?",
+    "resposta": "Canberra"
+  },
+  {
+    "id": "geografia-sabichao-004",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital do Canadá?",
+    "resposta": "Ottawa"
+  },
+  {
+    "id": "geografia-sabichao-005",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital da Turquia?",
+    "resposta": "Ancara"
+  },
+  {
+    "id": "geografia-sabichao-006",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital do Chile?",
+    "resposta": "Santiago"
+  },
+  {
+    "id": "geografia-sabichao-007",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital do Uruguai?",
+    "resposta": "Montevidéu (Montevideu)"
+  },
+  {
+    "id": "geografia-sabichao-008",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital da Suíça?",
+    "resposta": "Berna"
+  },
+  {
+    "id": "geografia-sabichao-009",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital da Áustria?",
+    "resposta": "Viena"
+  },
+  {
+    "id": "geografia-sabichao-010",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital do Quênia?",
+    "resposta": "Nairóbi (Nairobi)"
+  },
+  {
+    "id": "geografia-sabichao-011",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital da Índia?",
+    "resposta": "Nova Délhi (Nova Delhi)"
+  },
+  {
+    "id": "geografia-sabichao-012",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital da Coreia do Sul?",
+    "resposta": "Seul"
+  },
+  {
+    "id": "geografia-sabichao-013",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital da Bélgica?",
+    "resposta": "Bruxelas"
+  },
+  {
+    "id": "geografia-sabichao-014",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital da Polônia?",
+    "resposta": "Varsóvia"
+  },
+  {
+    "id": "geografia-sabichao-015",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital do estado do Paraná?",
+    "resposta": "Curitiba"
+  },
+  {
+    "id": "geografia-sabichao-016",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a capital do estado de Minas Gerais?",
+    "resposta": "Belo Horizonte"
+  },
+  {
+    "id": "geografia-sabichao-017",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país tem as cidades de Joanesburgo e Cidade do Cabo?",
+    "resposta": "África do Sul"
+  },
+  {
+    "id": "geografia-sabichao-018",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país sul-americano tem La Paz como sede do governo?",
+    "resposta": "Bolívia"
+  },
+  {
+    "id": "geografia-sabichao-019",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país sul-americano tem nome ligado à linha imaginária que divide a Terra em hemisférios?",
+    "resposta": "Equador"
+  },
+  {
+    "id": "geografia-sabichao-020",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país europeu, de vulcões e gêiseres, tem Reykjavik como capital?",
+    "resposta": "Islândia"
+  },
+  {
+    "id": "geografia-sabichao-021",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é o menor país do mundo em área?",
+    "resposta": "Vaticano (Cidade do Vaticano)"
+  },
+  {
+    "id": "geografia-sabichao-022",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país asiático é formado por milhares de ilhas, como Java e Bali?",
+    "resposta": "Indonésia"
+  },
+  {
+    "id": "geografia-sabichao-023",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país da América Central tem um canal que liga os oceanos Atlântico e Pacífico?",
+    "resposta": "Panamá"
+  },
+  {
+    "id": "geografia-sabichao-024",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país é uma grande ilha africana famosa pelos lêmures?",
+    "resposta": "Madagascar"
+  },
+  {
+    "id": "geografia-sabichao-025",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país do Himalaia tem Katmandu como capital?",
+    "resposta": "Nepal"
+  },
+  {
+    "id": "geografia-sabichao-026",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Em qual país ficam as cidades de Dubai e Abu Dhabi?",
+    "resposta": "Emirados Árabes Unidos (EAU)"
+  },
+  {
+    "id": "geografia-sabichao-027",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Em qual país fica Istambul, cidade dividida entre a Europa e a Ásia?",
+    "resposta": "Turquia"
+  },
+  {
+    "id": "geografia-sabichao-028",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rio atravessa Paris?",
+    "resposta": "Sena"
+  },
+  {
+    "id": "geografia-sabichao-029",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rio atravessa Londres?",
+    "resposta": "Tâmisa (Tamisa)"
+  },
+  {
+    "id": "geografia-sabichao-030",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rio europeu passa por Viena e Budapeste?",
+    "resposta": "Danúbio"
+  },
+  {
+    "id": "geografia-sabichao-031",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rio, sagrado para os hindus, passa pela cidade de Varanasi?",
+    "resposta": "Ganges"
+  },
+  {
+    "id": "geografia-sabichao-032",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rio brasileiro é carinhosamente chamado de \"Velho Chico\"?",
+    "resposta": "São Francisco"
+  },
+  {
+    "id": "geografia-sabichao-033",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rio atravessa a cidade de São Paulo?",
+    "resposta": "Tietê (Tiete)"
+  },
+  {
+    "id": "geografia-sabichao-034",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rio americano, ligado a Mark Twain, deságua no Golfo do México?",
+    "resposta": "Mississipi (Mississippi)"
+  },
+  {
+    "id": "geografia-sabichao-035",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rio de águas escuras se junta ao Solimões perto de Manaus?",
+    "resposta": "Rio Negro (Negro)"
+  },
+  {
+    "id": "geografia-sabichao-036",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rio forma as cataratas na divisa entre o Brasil e a Argentina?",
+    "resposta": "Iguaçu (Iguazú)"
+  },
+  {
+    "id": "geografia-sabichao-037",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual mar, com ilhas como Santorini e Míconos, banha a Grécia?",
+    "resposta": "Egeu (Mar Egeu)"
+  },
+  {
+    "id": "geografia-sabichao-038",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual mar banha a Suécia, a Finlândia, a Polônia e a Alemanha?",
+    "resposta": "Báltico (Mar Báltico)"
+  },
+  {
+    "id": "geografia-sabichao-039",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual mar, entre Israel e Jordânia, tem água tão salgada que ninguém afunda?",
+    "resposta": "Mar Morto"
+  },
+  {
+    "id": "geografia-sabichao-040",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual estreito separa a Espanha do Marrocos e liga o Atlântico ao Mediterrâneo?",
+    "resposta": "Gibraltar"
+  },
+  {
+    "id": "geografia-sabichao-041",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual canal egípcio liga o Mar Mediterrâneo ao Mar Vermelho?",
+    "resposta": "Suez (Canal de Suez)"
+  },
+  {
+    "id": "geografia-sabichao-042",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual mar banha Cuba, Jamaica e República Dominicana?",
+    "resposta": "Caribe (Mar do Caribe)"
+  },
+  {
+    "id": "geografia-sabichao-043",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é o ponto mais alto do Brasil, no estado do Amazonas?",
+    "resposta": "Pico da Neblina (Neblina)"
+  },
+  {
+    "id": "geografia-sabichao-044",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual cordilheira percorre toda a costa oeste da América do Sul?",
+    "resposta": "Andes (Cordilheira dos Andes)"
+  },
+  {
+    "id": "geografia-sabichao-045",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual cordilheira russa separa a Europa da Ásia?",
+    "resposta": "Urais (Montes Urais)"
+  },
+  {
+    "id": "geografia-sabichao-046",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual cordilheira europeia abriga o Mont Blanc e passa pela Suíça e pela Áustria?",
+    "resposta": "Alpes"
+  },
+  {
+    "id": "geografia-sabichao-047",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual deserto chileno é considerado um dos mais secos do planeta?",
+    "resposta": "Atacama"
+  },
+  {
+    "id": "geografia-sabichao-048",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual deserto asiático ocupa parte da Mongólia e do norte da China?",
+    "resposta": "Gobi"
+  },
+  {
+    "id": "geografia-sabichao-049",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama o relevo de altitude moderada e superfície quase lisa, em geral acima de 300 metros?",
+    "resposta": "Planalto"
+  },
+  {
+    "id": "geografia-sabichao-050",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama o relevo de terras baixas e superfície quase lisa, como as beiras de rios?",
+    "resposta": "Planície"
+  },
+  {
+    "id": "geografia-sabichao-051",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a maior ilha do mundo, território autônomo da Dinamarca?",
+    "resposta": "Groenlândia"
+  },
+  {
+    "id": "geografia-sabichao-052",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual arquipélago do Equador inspirou Charles Darwin e abriga tartarugas gigantes?",
+    "resposta": "Galápagos"
+  },
+  {
+    "id": "geografia-sabichao-053",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual enorme rocha vermelha no deserto da Austrália é sagrada para os aborígenes?",
+    "resposta": "Uluru (Ayers Rock)"
+  },
+  {
+    "id": "geografia-sabichao-054",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual vulcão italiano soterrou a cidade de Pompeia?",
+    "resposta": "Vesúvio"
+  },
+  {
+    "id": "geografia-sabichao-055",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual famoso cânion do Arizona foi escavado pelo rio Colorado?",
+    "resposta": "Grand Canyon (Grande Cânion)"
+  },
+  {
+    "id": "geografia-sabichao-056",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é o menor estado brasileiro em área?",
+    "resposta": "Sergipe"
+  },
+  {
+    "id": "geografia-sabichao-057",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é o maior estado brasileiro em área?",
+    "resposta": "Amazonas"
+  },
+  {
+    "id": "geografia-sabichao-058",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é o estado mais novo do Brasil, criado em 1988?",
+    "resposta": "Tocantins"
+  },
+  {
+    "id": "geografia-sabichao-059",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual estado do extremo norte é cortado pela linha do Equador e faz fronteira com a Guiana Francesa?",
+    "resposta": "Amapá"
+  },
+  {
+    "id": "geografia-sabichao-060",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual estado brasileiro tem Campo Grande como capital?",
+    "resposta": "Mato Grosso do Sul"
+  },
+  {
+    "id": "geografia-sabichao-061",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual estado brasileiro tem Cuiabá como capital?",
+    "resposta": "Mato Grosso"
+  },
+  {
+    "id": "geografia-sabichao-062",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual estado brasileiro tem Natal como capital?",
+    "resposta": "Rio Grande do Norte"
+  },
+  {
+    "id": "geografia-sabichao-063",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual estado brasileiro tem São Luís como capital?",
+    "resposta": "Maranhão"
+  },
+  {
+    "id": "geografia-sabichao-064",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual estado brasileiro tem Teresina como capital?",
+    "resposta": "Piauí"
+  },
+  {
+    "id": "geografia-sabichao-065",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual estado brasileiro tem Vitória como capital?",
+    "resposta": "Espírito Santo"
+  },
+  {
+    "id": "geografia-sabichao-066",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual estado nordestino tem Maceió como capital?",
+    "resposta": "Alagoas"
+  },
+  {
+    "id": "geografia-sabichao-067",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual estado brasileiro tem Porto Velho como capital?",
+    "resposta": "Rondônia"
+  },
+  {
+    "id": "geografia-sabichao-068",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual estado brasileiro tem Rio Branco como capital?",
+    "resposta": "Acre"
+  },
+  {
+    "id": "geografia-sabichao-069",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual estado brasileiro tem Boa Vista como capital?",
+    "resposta": "Roraima"
+  },
+  {
+    "id": "geografia-sabichao-070",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país tem bandeira branca com um grande círculo vermelho no centro?",
+    "resposta": "Japão"
+  },
+  {
+    "id": "geografia-sabichao-071",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país tem, na bandeira, uma águia sobre um cacto devorando uma serpente?",
+    "resposta": "México"
+  },
+  {
+    "id": "geografia-sabichao-072",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país tem a bandeira Tricolor, com faixas verticais azul, branca e vermelha?",
+    "resposta": "França"
+  },
+  {
+    "id": "geografia-sabichao-073",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país nórdico tem a bandeira nacional mais antiga em uso contínuo, com cruz branca em fundo vermelho?",
+    "resposta": "Dinamarca"
+  },
+  {
+    "id": "geografia-sabichao-074",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país tem bandeira vermelha com cinco estrelas amarelas?",
+    "resposta": "China"
+  },
+  {
+    "id": "geografia-sabichao-075",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país tem bandeira com nove listras azuis e brancas e uma cruz no canto?",
+    "resposta": "Grécia"
+  },
+  {
+    "id": "geografia-sabichao-076",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país tem uma roda azul de 24 raios no centro da bandeira?",
+    "resposta": "Índia"
+  },
+  {
+    "id": "geografia-sabichao-077",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país nórdico tem bandeira azul com uma cruz amarela?",
+    "resposta": "Suécia"
+  },
+  {
+    "id": "geografia-sabichao-078",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país nórdico tem bandeira branca com uma cruz azul?",
+    "resposta": "Finlândia"
+  },
+  {
+    "id": "geografia-sabichao-079",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é o apelido da bandeira do Reino Unido, que mistura as cruzes de três países?",
+    "resposta": "Union Jack (Union Flag)"
+  },
+  {
+    "id": "geografia-sabichao-080",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual constelação aparece na bandeira do Brasil?",
+    "resposta": "Cruzeiro do Sul (Cruz do Sul)"
+  },
+  {
+    "id": "geografia-sabichao-081",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Quantas estrelas tem a bandeira do Brasil, uma para cada unidade da federação?",
+    "resposta": "27 (vinte e sete)"
+  },
+  {
+    "id": "geografia-sabichao-082",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual país tem bandeira branca com círculo vermelho e azul no centro e quatro traços pretos nos cantos?",
+    "resposta": "Coreia do Sul"
+  },
+  {
+    "id": "geografia-sabichao-083",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual estreito separa a Ásia da América do Norte, entre a Rússia e o Alasca?",
+    "resposta": "Bering (Estreito de Bering)"
+  },
+  {
+    "id": "geografia-sabichao-084",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual era o nome do supercontinente que reunia quase todas as terras há cerca de 250 milhões de anos?",
+    "resposta": "Pangeia (Pangea)"
+  },
+  {
+    "id": "geografia-sabichao-085",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual cientista alemão propôs, em 1912, a teoria da deriva continental?",
+    "resposta": "Alfred Wegener (Wegener)"
+  },
+  {
+    "id": "geografia-sabichao-086",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Como se chamam os imensos blocos da crosta terrestre que se movem lentamente?",
+    "resposta": "Placas tectônicas"
+  },
+  {
+    "id": "geografia-sabichao-087",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual continente é chamado de \"Velho Continente\" por abrigar civilizações como a grega e a romana?",
+    "resposta": "Europa"
+  },
+  {
+    "id": "geografia-sabichao-088",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual continente é cruzado pela linha do Equador e pelos dois trópicos, o do norte e o do sul?",
+    "resposta": "África"
+  },
+  {
+    "id": "geografia-sabichao-089",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual meridiano, que passa pela cidade de Londres, divide a Terra em Ocidente e Oriente?",
+    "resposta": "Greenwich (Meridiano de Greenwich)"
+  },
+  {
+    "id": "geografia-sabichao-090",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Em qual continente fica o Aconcágua, a montanha mais alta fora da Ásia?",
+    "resposta": "América do Sul"
+  },
+  {
+    "id": "geografia-sabichao-091",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Em qual continente fica o Lago Baikal, o mais profundo do mundo?",
+    "resposta": "Ásia"
+  },
+  {
+    "id": "geografia-sabichao-092",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Em qual continente fica o Kilimanjaro, famosa montanha da Tanzânia?",
+    "resposta": "África"
+  },
+  {
+    "id": "geografia-sabichao-093",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual paralelo, a cerca de 23° ao sul do Equador, passa pela cidade de São Paulo?",
+    "resposta": "Trópico de Capricórnio"
+  },
+  {
+    "id": "geografia-sabichao-094",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual paralelo, a cerca de 23° ao norte do Equador, passa pelo Egito e pela Índia?",
+    "resposta": "Trópico de Câncer"
+  },
+  {
+    "id": "geografia-sabichao-095",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual tipo de clima, com pouca chuva, predomina no sertão nordestino?",
+    "resposta": "Semiárido (Semi-árido)"
+  },
+  {
+    "id": "geografia-sabichao-096",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual tipo de clima, quente e com estação seca e chuvosa, predomina no território brasileiro?",
+    "resposta": "Tropical"
+  },
+  {
+    "id": "geografia-sabichao-097",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual tipo de clima, com quatro estações bem marcadas e geadas, predomina no Sul do Brasil?",
+    "resposta": "Subtropical"
+  },
+  {
+    "id": "geografia-sabichao-098",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual tipo de clima, quente e úmido o ano todo, predomina na Amazônia?",
+    "resposta": "Equatorial"
+  },
+  {
+    "id": "geografia-sabichao-099",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual fenômeno ocorre quando as águas do Pacífico ficam mais quentes que o normal e muda o clima do planeta?",
+    "resposta": "El Niño"
+  },
+  {
+    "id": "geografia-sabichao-100",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual fenômeno resfria as águas do Pacífico e é o oposto do El Niño?",
+    "resposta": "La Niña"
+  },
+  {
+    "id": "geografia-sabichao-101",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual gás da atmosfera filtra boa parte dos raios ultravioleta do Sol?",
+    "resposta": "Ozônio"
+  },
+  {
+    "id": "geografia-sabichao-102",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual é a camada da atmosfera mais próxima do solo, onde se formam as nuvens e a chuva?",
+    "resposta": "Troposfera"
+  },
+  {
+    "id": "geografia-sabichao-103",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual aparelho mede a pressão do ar?",
+    "resposta": "Barômetro"
+  },
+  {
+    "id": "geografia-sabichao-104",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual aparelho mede a quantidade de chuva que cai em um lugar?",
+    "resposta": "Pluviômetro"
+  },
+  {
+    "id": "geografia-sabichao-105",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual aparelho mede a velocidade do vento?",
+    "resposta": "Anemômetro"
+  },
+  {
+    "id": "geografia-sabichao-106",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual vento sazonal traz chuvas intensas ao sul da Ásia durante o verão?",
+    "resposta": "Monção"
+  },
+  {
+    "id": "geografia-sabichao-107",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama o dia do ano em que a noite e o dia têm a mesma duração?",
+    "resposta": "Equinócio"
+  },
+  {
+    "id": "geografia-sabichao-108",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Como se chama o fenômeno de luzes coloridas que surge no céu perto do Polo Norte?",
+    "resposta": "Aurora boreal (Aurora polar)"
+  },
+  {
+    "id": "geografia-sabichao-109",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual famosa casa de espetáculos australiana tem o telhado em forma de velas, à beira do porto?",
+    "resposta": "Ópera de Sydney"
+  },
+  {
+    "id": "geografia-sabichao-110",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual círculo de enormes pedras pré-históricas fica no sul da Inglaterra?",
+    "resposta": "Stonehenge"
+  },
+  {
+    "id": "geografia-sabichao-111",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual antiga cidade de fachadas esculpidas em rocha rosada fica na Jordânia?",
+    "resposta": "Petra"
+  },
+  {
+    "id": "geografia-sabichao-112",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual enorme complexo de templos do Camboja aparece desenhado na bandeira do país?",
+    "resposta": "Angkor Wat"
+  },
+  {
+    "id": "geografia-sabichao-113",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual antiga cidade maia do México tem uma pirâmide chamada El Castillo?",
+    "resposta": "Chichén Itzá"
+  },
+  {
+    "id": "geografia-sabichao-114",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual basílica inacabada, projetada por Gaudí, é um dos símbolos de Barcelona?",
+    "resposta": "Sagrada Família"
+  },
+  {
+    "id": "geografia-sabichao-115",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual praça de Moscou fica ao lado do Kremlin e tem a Catedral de São Basílio?",
+    "resposta": "Praça Vermelha"
+  },
+  {
+    "id": "geografia-sabichao-116",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual ponte de cor laranja avermelhada liga a cidade de São Francisco ao norte da baía?",
+    "resposta": "Golden Gate (Ponte Golden Gate)"
+  },
+  {
+    "id": "geografia-sabichao-117",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Quais cataratas ficam na fronteira entre o Canadá e os Estados Unidos?",
+    "resposta": "Niágara (Cataratas do Niágara)"
+  },
+  {
+    "id": "geografia-sabichao-118",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual praia carioca tem um famoso calçadão em ondas pretas e brancas?",
+    "resposta": "Copacabana"
+  },
+  {
+    "id": "geografia-sabichao-119",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual cidade histórica mineira, de igrejas barrocas, foi o primeiro Patrimônio Mundial do Brasil?",
+    "resposta": "Ouro Preto"
+  },
+  {
+    "id": "geografia-sabichao-120",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual palácio perto de Paris, residência do rei Luís XIV, tem o Salão dos Espelhos?",
+    "resposta": "Versalhes (Palácio de Versalhes)"
+  },
+  {
+    "id": "geografia-sabichao-121",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual antigo palácio imperial chinês fica no centro de Pequim?",
+    "resposta": "Cidade Proibida"
+  },
+  {
+    "id": "geografia-sabichao-122",
+    "tema": "geografia",
+    "nivel": "sabichao",
+    "pergunta": "Qual avenida de São Paulo, onde fica o MASP, é um dos principais cartões-postais da cidade?",
+    "resposta": "Avenida Paulista (Paulista)"
+  }
 ]
