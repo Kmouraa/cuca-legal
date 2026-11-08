@@ -1,0 +1,842 @@
+[
+    {
+        "id": "geografia-sabichao-003",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a capital da Austrália?",
+        "resposta": "Canberra"
+    },
+    {
+        "id": "geografia-sabichao-004",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a capital do Canadá?",
+        "resposta": "Ottawa"
+    },
+    {
+        "id": "geografia-sabichao-005",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a capital da Turquia?",
+        "resposta": "Ancara"
+    },
+    {
+        "id": "geografia-sabichao-006",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a capital do Chile?",
+        "resposta": "Santiago"
+    },
+    {
+        "id": "geografia-sabichao-007",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a capital do Uruguai?",
+        "resposta": "Montevidéu (Montevideu)"
+    },
+    {
+        "id": "geografia-sabichao-008",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a capital da Suíça?",
+        "resposta": "Berna"
+    },
+    {
+        "id": "geografia-sabichao-009",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a capital da Áustria?",
+        "resposta": "Viena"
+    },
+    {
+        "id": "geografia-sabichao-010",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a capital do Quênia?",
+        "resposta": "Nairóbi (Nairobi)"
+    },
+    {
+        "id": "geografia-sabichao-011",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a capital da Índia?",
+        "resposta": "Nova Délhi (Nova Delhi)"
+    },
+    {
+        "id": "geografia-sabichao-012",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a capital da Coreia do Sul?",
+        "resposta": "Seul"
+    },
+    {
+        "id": "geografia-sabichao-013",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a capital da Bélgica?",
+        "resposta": "Bruxelas"
+    },
+    {
+        "id": "geografia-sabichao-014",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a capital da Polônia?",
+        "resposta": "Varsóvia"
+    },
+    {
+        "id": "geografia-sabichao-015",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a capital do estado do Paraná?",
+        "resposta": "Curitiba"
+    },
+    {
+        "id": "geografia-sabichao-016",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a capital do estado de Minas Gerais?",
+        "resposta": "Belo Horizonte"
+    },
+    {
+        "id": "geografia-sabichao-017",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país tem as cidades de Joanesburgo e Cidade do Cabo?",
+        "resposta": "África do Sul"
+    },
+    {
+        "id": "geografia-sabichao-018",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país sul-americano tem La Paz como sede do governo?",
+        "resposta": "Bolívia"
+    },
+    {
+        "id": "geografia-sabichao-019",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país sul-americano tem nome ligado à linha imaginária que divide a Terra em hemisférios?",
+        "resposta": "Equador"
+    },
+    {
+        "id": "geografia-sabichao-020",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país europeu, de vulcões e gêiseres, tem Reykjavik como capital?",
+        "resposta": "Islândia"
+    },
+    {
+        "id": "geografia-sabichao-021",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o menor país do mundo em área?",
+        "resposta": "Vaticano (Cidade do Vaticano)"
+    },
+    {
+        "id": "geografia-sabichao-022",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país asiático é formado por milhares de ilhas, como Java e Bali?",
+        "resposta": "Indonésia"
+    },
+    {
+        "id": "geografia-sabichao-023",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país da América Central tem um canal que liga os oceanos Atlântico e Pacífico?",
+        "resposta": "Panamá"
+    },
+    {
+        "id": "geografia-sabichao-024",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país é uma grande ilha africana famosa pelos lêmures?",
+        "resposta": "Madagascar"
+    },
+    {
+        "id": "geografia-sabichao-025",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país do Himalaia tem Katmandu como capital?",
+        "resposta": "Nepal"
+    },
+    {
+        "id": "geografia-sabichao-026",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Em qual país ficam as cidades de Dubai e Abu Dhabi?",
+        "resposta": "Emirados Árabes Unidos (EAU)"
+    },
+    {
+        "id": "geografia-sabichao-027",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Em qual país fica Istambul, cidade dividida entre a Europa e a Ásia?",
+        "resposta": "Turquia"
+    },
+    {
+        "id": "geografia-sabichao-028",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual rio atravessa Paris?",
+        "resposta": "Sena"
+    },
+    {
+        "id": "geografia-sabichao-029",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual rio atravessa Londres?",
+        "resposta": "Tâmisa (Tamisa)"
+    },
+    {
+        "id": "geografia-sabichao-030",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual rio europeu passa por Viena e Budapeste?",
+        "resposta": "Danúbio"
+    },
+    {
+        "id": "geografia-sabichao-031",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual rio, sagrado para os hindus, passa pela cidade de Varanasi?",
+        "resposta": "Ganges"
+    },
+    {
+        "id": "geografia-sabichao-032",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual rio brasileiro é carinhosamente chamado de \"Velho Chico\"?",
+        "resposta": "São Francisco"
+    },
+    {
+        "id": "geografia-sabichao-033",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual rio atravessa a cidade de São Paulo?",
+        "resposta": "Tietê (Tiete)"
+    },
+    {
+        "id": "geografia-sabichao-034",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual rio americano, ligado a Mark Twain, deságua no Golfo do México?",
+        "resposta": "Mississipi (Mississippi)"
+    },
+    {
+        "id": "geografia-sabichao-035",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual rio de águas escuras se junta ao Solimões perto de Manaus?",
+        "resposta": "Rio Negro (Negro)"
+    },
+    {
+        "id": "geografia-sabichao-036",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual rio forma as cataratas na divisa entre o Brasil e a Argentina?",
+        "resposta": "Iguaçu (Iguazú)"
+    },
+    {
+        "id": "geografia-sabichao-037",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual mar, com ilhas como Santorini e Míconos, banha a Grécia?",
+        "resposta": "Egeu (Mar Egeu)"
+    },
+    {
+        "id": "geografia-sabichao-038",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual mar banha a Suécia, a Finlândia, a Polônia e a Alemanha?",
+        "resposta": "Báltico (Mar Báltico)"
+    },
+    {
+        "id": "geografia-sabichao-039",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual mar, entre Israel e Jordânia, tem água tão salgada que ninguém afunda?",
+        "resposta": "Mar Morto"
+    },
+    {
+        "id": "geografia-sabichao-040",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual estreito separa a Espanha do Marrocos e liga o Atlântico ao Mediterrâneo?",
+        "resposta": "Gibraltar"
+    },
+    {
+        "id": "geografia-sabichao-041",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual canal egípcio liga o Mar Mediterrâneo ao Mar Vermelho?",
+        "resposta": "Suez (Canal de Suez)"
+    },
+    {
+        "id": "geografia-sabichao-042",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual mar banha Cuba, Jamaica e República Dominicana?",
+        "resposta": "Caribe (Mar do Caribe)"
+    },
+    {
+        "id": "geografia-sabichao-043",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o ponto mais alto do Brasil, no estado do Amazonas?",
+        "resposta": "Pico da Neblina (Neblina)"
+    },
+    {
+        "id": "geografia-sabichao-044",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual cordilheira percorre toda a costa oeste da América do Sul?",
+        "resposta": "Andes (Cordilheira dos Andes)"
+    },
+    {
+        "id": "geografia-sabichao-045",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual cordilheira russa separa a Europa da Ásia?",
+        "resposta": "Urais (Montes Urais)"
+    },
+    {
+        "id": "geografia-sabichao-046",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual cordilheira europeia abriga o Mont Blanc e passa pela Suíça e pela Áustria?",
+        "resposta": "Alpes"
+    },
+    {
+        "id": "geografia-sabichao-047",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual deserto chileno é considerado um dos mais secos do planeta?",
+        "resposta": "Atacama"
+    },
+    {
+        "id": "geografia-sabichao-048",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual deserto asiático ocupa parte da Mongólia e do norte da China?",
+        "resposta": "Gobi"
+    },
+    {
+        "id": "geografia-sabichao-049",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o relevo de altitude moderada e superfície quase lisa, em geral acima de 300 metros?",
+        "resposta": "Planalto"
+    },
+    {
+        "id": "geografia-sabichao-050",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o relevo de terras baixas e superfície quase lisa, como as beiras de rios?",
+        "resposta": "Planície"
+    },
+    {
+        "id": "geografia-sabichao-051",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a maior ilha do mundo, território autônomo da Dinamarca?",
+        "resposta": "Groenlândia"
+    },
+    {
+        "id": "geografia-sabichao-052",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual arquipélago do Equador inspirou Charles Darwin e abriga tartarugas gigantes?",
+        "resposta": "Galápagos"
+    },
+    {
+        "id": "geografia-sabichao-053",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual enorme rocha vermelha no deserto da Austrália é sagrada para os aborígenes?",
+        "resposta": "Uluru (Ayers Rock)"
+    },
+    {
+        "id": "geografia-sabichao-054",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual vulcão italiano soterrou a cidade de Pompeia?",
+        "resposta": "Vesúvio"
+    },
+    {
+        "id": "geografia-sabichao-055",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual famoso cânion do Arizona foi escavado pelo rio Colorado?",
+        "resposta": "Grand Canyon (Grande Cânion)"
+    },
+    {
+        "id": "geografia-sabichao-056",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o menor estado brasileiro em área?",
+        "resposta": "Sergipe"
+    },
+    {
+        "id": "geografia-sabichao-057",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o maior estado brasileiro em área?",
+        "resposta": "Amazonas"
+    },
+    {
+        "id": "geografia-sabichao-058",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o estado mais novo do Brasil, criado em 1988?",
+        "resposta": "Tocantins"
+    },
+    {
+        "id": "geografia-sabichao-059",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual estado do extremo norte é cortado pela linha do Equador e faz fronteira com a Guiana Francesa?",
+        "resposta": "Amapá"
+    },
+    {
+        "id": "geografia-sabichao-060",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual estado brasileiro tem Campo Grande como capital?",
+        "resposta": "Mato Grosso do Sul"
+    },
+    {
+        "id": "geografia-sabichao-061",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual estado brasileiro tem Cuiabá como capital?",
+        "resposta": "Mato Grosso"
+    },
+    {
+        "id": "geografia-sabichao-062",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual estado brasileiro tem Natal como capital?",
+        "resposta": "Rio Grande do Norte"
+    },
+    {
+        "id": "geografia-sabichao-063",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual estado brasileiro tem São Luís como capital?",
+        "resposta": "Maranhão"
+    },
+    {
+        "id": "geografia-sabichao-064",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual estado brasileiro tem Teresina como capital?",
+        "resposta": "Piauí"
+    },
+    {
+        "id": "geografia-sabichao-065",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual estado brasileiro tem Vitória como capital?",
+        "resposta": "Espírito Santo"
+    },
+    {
+        "id": "geografia-sabichao-066",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual estado nordestino tem Maceió como capital?",
+        "resposta": "Alagoas"
+    },
+    {
+        "id": "geografia-sabichao-067",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual estado brasileiro tem Porto Velho como capital?",
+        "resposta": "Rondônia"
+    },
+    {
+        "id": "geografia-sabichao-068",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual estado brasileiro tem Rio Branco como capital?",
+        "resposta": "Acre"
+    },
+    {
+        "id": "geografia-sabichao-069",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual estado brasileiro tem Boa Vista como capital?",
+        "resposta": "Roraima"
+    },
+    {
+        "id": "geografia-sabichao-070",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país tem bandeira branca com um grande círculo vermelho no centro?",
+        "resposta": "Japão"
+    },
+    {
+        "id": "geografia-sabichao-071",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país tem, na bandeira, uma águia sobre um cacto devorando uma serpente?",
+        "resposta": "México"
+    },
+    {
+        "id": "geografia-sabichao-072",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país tem a bandeira Tricolor, com faixas verticais azul, branca e vermelha?",
+        "resposta": "França"
+    },
+    {
+        "id": "geografia-sabichao-073",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país nórdico tem a bandeira nacional mais antiga em uso contínuo, com cruz branca em fundo vermelho?",
+        "resposta": "Dinamarca"
+    },
+    {
+        "id": "geografia-sabichao-074",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país tem bandeira vermelha com cinco estrelas amarelas?",
+        "resposta": "China"
+    },
+    {
+        "id": "geografia-sabichao-075",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país tem bandeira com nove listras azuis e brancas e uma cruz no canto?",
+        "resposta": "Grécia"
+    },
+    {
+        "id": "geografia-sabichao-076",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país tem uma roda azul de 24 raios no centro da bandeira?",
+        "resposta": "Índia"
+    },
+    {
+        "id": "geografia-sabichao-077",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país nórdico tem bandeira azul com uma cruz amarela?",
+        "resposta": "Suécia"
+    },
+    {
+        "id": "geografia-sabichao-078",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país nórdico tem bandeira branca com uma cruz azul?",
+        "resposta": "Finlândia"
+    },
+    {
+        "id": "geografia-sabichao-079",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o apelido da bandeira do Reino Unido, que mistura as cruzes de três países?",
+        "resposta": "Union Jack (Union Flag)"
+    },
+    {
+        "id": "geografia-sabichao-080",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual constelação aparece na bandeira do Brasil?",
+        "resposta": "Cruzeiro do Sul (Cruz do Sul)"
+    },
+    {
+        "id": "geografia-sabichao-081",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Quantas estrelas tem a bandeira do Brasil, uma para cada unidade da federação?",
+        "resposta": "27 (vinte e sete)"
+    },
+    {
+        "id": "geografia-sabichao-082",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual país tem bandeira branca com círculo vermelho e azul no centro e quatro traços pretos nos cantos?",
+        "resposta": "Coreia do Sul"
+    },
+    {
+        "id": "geografia-sabichao-083",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual estreito separa a Ásia da América do Norte, entre a Rússia e o Alasca?",
+        "resposta": "Bering (Estreito de Bering)"
+    },
+    {
+        "id": "geografia-sabichao-084",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual era o nome do supercontinente que reunia quase todas as terras há cerca de 250 milhões de anos?",
+        "resposta": "Pangeia (Pangea)"
+    },
+    {
+        "id": "geografia-sabichao-085",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual cientista alemão propôs, em 1912, a teoria da deriva continental?",
+        "resposta": "Alfred Wegener (Wegener)"
+    },
+    {
+        "id": "geografia-sabichao-086",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Como se chamam os imensos blocos da crosta terrestre que se movem lentamente?",
+        "resposta": "Placas tectônicas"
+    },
+    {
+        "id": "geografia-sabichao-087",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual continente é chamado de \"Velho Continente\" por abrigar civilizações como a grega e a romana?",
+        "resposta": "Europa"
+    },
+    {
+        "id": "geografia-sabichao-088",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual continente é cruzado pela linha do Equador e pelos dois trópicos, o do norte e o do sul?",
+        "resposta": "África"
+    },
+    {
+        "id": "geografia-sabichao-089",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual meridiano, que passa pela cidade de Londres, divide a Terra em Ocidente e Oriente?",
+        "resposta": "Greenwich (Meridiano de Greenwich)"
+    },
+    {
+        "id": "geografia-sabichao-090",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Em qual continente fica o Aconcágua, a montanha mais alta fora da Ásia?",
+        "resposta": "América do Sul"
+    },
+    {
+        "id": "geografia-sabichao-091",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Em qual continente fica o Lago Baikal, o mais profundo do mundo?",
+        "resposta": "Ásia"
+    },
+    {
+        "id": "geografia-sabichao-092",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Em qual continente fica o Kilimanjaro, famosa montanha da Tanzânia?",
+        "resposta": "África"
+    },
+    {
+        "id": "geografia-sabichao-093",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual paralelo, a cerca de 23° ao sul do Equador, passa pela cidade de São Paulo?",
+        "resposta": "Trópico de Capricórnio"
+    },
+    {
+        "id": "geografia-sabichao-094",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual paralelo, a cerca de 23° ao norte do Equador, passa pelo Egito e pela Índia?",
+        "resposta": "Trópico de Câncer"
+    },
+    {
+        "id": "geografia-sabichao-095",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual tipo de clima, com pouca chuva, predomina no sertão nordestino?",
+        "resposta": "Semiárido (Semi-árido)"
+    },
+    {
+        "id": "geografia-sabichao-096",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual tipo de clima, quente e com estação seca e chuvosa, predomina no território brasileiro?",
+        "resposta": "Tropical"
+    },
+    {
+        "id": "geografia-sabichao-097",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual tipo de clima, com quatro estações bem marcadas e geadas, predomina no Sul do Brasil?",
+        "resposta": "Subtropical"
+    },
+    {
+        "id": "geografia-sabichao-098",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual tipo de clima, quente e úmido o ano todo, predomina na Amazônia?",
+        "resposta": "Equatorial"
+    },
+    {
+        "id": "geografia-sabichao-099",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual fenômeno ocorre quando as águas do Pacífico ficam mais quentes que o normal e muda o clima do planeta?",
+        "resposta": "El Niño"
+    },
+    {
+        "id": "geografia-sabichao-100",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual fenômeno resfria as águas do Pacífico e é o oposto do El Niño?",
+        "resposta": "La Niña"
+    },
+    {
+        "id": "geografia-sabichao-101",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual gás da atmosfera filtra boa parte dos raios ultravioleta do Sol?",
+        "resposta": "Ozônio"
+    },
+    {
+        "id": "geografia-sabichao-102",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a camada da atmosfera mais próxima do solo, onde se formam as nuvens e a chuva?",
+        "resposta": "Troposfera"
+    },
+    {
+        "id": "geografia-sabichao-103",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual aparelho mede a pressão do ar?",
+        "resposta": "Barômetro"
+    },
+    {
+        "id": "geografia-sabichao-104",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual aparelho mede a quantidade de chuva que cai em um lugar?",
+        "resposta": "Pluviômetro"
+    },
+    {
+        "id": "geografia-sabichao-105",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual aparelho mede a velocidade do vento?",
+        "resposta": "Anemômetro"
+    },
+    {
+        "id": "geografia-sabichao-106",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual vento sazonal traz chuvas intensas ao sul da Ásia durante o verão?",
+        "resposta": "Monção"
+    },
+    {
+        "id": "geografia-sabichao-107",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o dia do ano em que a noite e o dia têm a mesma duração?",
+        "resposta": "Equinócio"
+    },
+    {
+        "id": "geografia-sabichao-108",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o fenômeno de luzes coloridas que surge no céu perto do Polo Norte?",
+        "resposta": "Aurora boreal (Aurora polar)"
+    },
+    {
+        "id": "geografia-sabichao-109",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual famosa casa de espetáculos australiana tem o telhado em forma de velas, à beira do porto?",
+        "resposta": "Ópera de Sydney"
+    },
+    {
+        "id": "geografia-sabichao-110",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual círculo de enormes pedras pré-históricas fica no sul da Inglaterra?",
+        "resposta": "Stonehenge"
+    },
+    {
+        "id": "geografia-sabichao-111",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual antiga cidade de fachadas esculpidas em rocha rosada fica na Jordânia?",
+        "resposta": "Petra"
+    },
+    {
+        "id": "geografia-sabichao-112",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual enorme complexo de templos do Camboja aparece desenhado na bandeira do país?",
+        "resposta": "Angkor Wat"
+    },
+    {
+        "id": "geografia-sabichao-113",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual antiga cidade maia do México tem uma pirâmide chamada El Castillo?",
+        "resposta": "Chichén Itzá"
+    },
+    {
+        "id": "geografia-sabichao-114",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual basílica inacabada, projetada por Gaudí, é um dos símbolos de Barcelona?",
+        "resposta": "Sagrada Família"
+    },
+    {
+        "id": "geografia-sabichao-115",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual praça de Moscou fica ao lado do Kremlin e tem a Catedral de São Basílio?",
+        "resposta": "Praça Vermelha"
+    },
+    {
+        "id": "geografia-sabichao-116",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual ponte de cor laranja avermelhada liga a cidade de São Francisco ao norte da baía?",
+        "resposta": "Golden Gate (Ponte Golden Gate)"
+    },
+    {
+        "id": "geografia-sabichao-117",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Quais cataratas ficam na fronteira entre o Canadá e os Estados Unidos?",
+        "resposta": "Niágara (Cataratas do Niágara)"
+    },
+    {
+        "id": "geografia-sabichao-118",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual praia carioca tem um famoso calçadão em ondas pretas e brancas?",
+        "resposta": "Copacabana"
+    },
+    {
+        "id": "geografia-sabichao-119",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual cidade histórica mineira, de igrejas barrocas, foi o primeiro Patrimônio Mundial do Brasil?",
+        "resposta": "Ouro Preto"
+    },
+    {
+        "id": "geografia-sabichao-120",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual palácio perto de Paris, residência do rei Luís XIV, tem o Salão dos Espelhos?",
+        "resposta": "Versalhes (Palácio de Versalhes)"
+    },
+    {
+        "id": "geografia-sabichao-121",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual antigo palácio imperial chinês fica no centro de Pequim?",
+        "resposta": "Cidade Proibida"
+    },
+    {
+        "id": "geografia-sabichao-122",
+        "tema": "geografia",
+        "nivel": "sabichao",
+        "pergunta": "Qual avenida de São Paulo, onde fica o MASP, é um dos principais cartões-postais da cidade?",
+        "resposta": "Avenida Paulista (Paulista)"
+    }
+]
