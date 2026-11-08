@@ -1,0 +1,842 @@
+[
+    {
+        "id": "portugues-sabichao-003",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o plural da palavra \"cidadão\"?",
+        "resposta": "Cidadãos"
+    },
+    {
+        "id": "portugues-sabichao-004",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o plural da palavra \"capitão\"?",
+        "resposta": "Capitães"
+    },
+    {
+        "id": "portugues-sabichao-005",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o plural da palavra \"alemão\"?",
+        "resposta": "Alemães"
+    },
+    {
+        "id": "portugues-sabichao-006",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o plural da palavra \"cônsul\"?",
+        "resposta": "Cônsules"
+    },
+    {
+        "id": "portugues-sabichao-007",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o plural da palavra \"caracol\"?",
+        "resposta": "Caracóis"
+    },
+    {
+        "id": "portugues-sabichao-008",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o plural da palavra \"lençol\"?",
+        "resposta": "Lençóis"
+    },
+    {
+        "id": "portugues-sabichao-009",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o plural da palavra \"pastel\"?",
+        "resposta": "Pastéis"
+    },
+    {
+        "id": "portugues-sabichao-010",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o plural da palavra \"gás\"?",
+        "resposta": "Gases"
+    },
+    {
+        "id": "portugues-sabichao-011",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o plural da palavra \"obra-prima\"?",
+        "resposta": "Obras-primas"
+    },
+    {
+        "id": "portugues-sabichao-012",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o feminino da palavra \"conde\"?",
+        "resposta": "Condessa"
+    },
+    {
+        "id": "portugues-sabichao-013",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o feminino da palavra \"duque\"?",
+        "resposta": "Duquesa"
+    },
+    {
+        "id": "portugues-sabichao-014",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o feminino da palavra \"frade\"?",
+        "resposta": "Freira"
+    },
+    {
+        "id": "portugues-sabichao-015",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o feminino da palavra \"bode\"?",
+        "resposta": "Cabra"
+    },
+    {
+        "id": "portugues-sabichao-016",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o feminino da palavra \"carneiro\"?",
+        "resposta": "Ovelha"
+    },
+    {
+        "id": "portugues-sabichao-017",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o feminino da palavra \"zangão\"?",
+        "resposta": "Abelha"
+    },
+    {
+        "id": "portugues-sabichao-018",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o feminino da palavra \"monge\"?",
+        "resposta": "Monja"
+    },
+    {
+        "id": "portugues-sabichao-019",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o feminino da palavra \"herói\"?",
+        "resposta": "Heroína"
+    },
+    {
+        "id": "portugues-sabichao-020",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o gênero da palavra \"alface\"?",
+        "resposta": "Feminino"
+    },
+    {
+        "id": "portugues-sabichao-021",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é a grafia correta da palavra que nomeia aquilo que foge à regra?",
+        "resposta": "Exceção"
+    },
+    {
+        "id": "portugues-sabichao-022",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual verbo, escrito com S, significa \"reparar algo quebrado\"?",
+        "resposta": "Consertar"
+    },
+    {
+        "id": "portugues-sabichao-023",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra, escrita com SS, nomeia cada exibição de um filme no cinema?",
+        "resposta": "Sessão"
+    },
+    {
+        "id": "portugues-sabichao-024",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual verbo, escrito com SC, significa \"subir, elevar-se\"?",
+        "resposta": "Ascender"
+    },
+    {
+        "id": "portugues-sabichao-025",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual fruta cítrica, parente da tangerina, é escrita com X e começa com M?",
+        "resposta": "Mexerica"
+    },
+    {
+        "id": "portugues-sabichao-026",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual verbo, escrito com S, significa \"privar de movimentos, imobilizar\"?",
+        "resposta": "Paralisar"
+    },
+    {
+        "id": "portugues-sabichao-027",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra, escrita com SS, nomeia uma ideia fixa que não sai da cabeça?",
+        "resposta": "Obsessão"
+    },
+    {
+        "id": "portugues-sabichao-028",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra, escrita com G, nomeia uma vantagem concedida a poucos?",
+        "resposta": "Privilégio"
+    },
+    {
+        "id": "portugues-sabichao-029",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra, escrita com SS, nomeia o trabalho de quem aconselha e apoia uma autoridade?",
+        "resposta": "Assessoria"
+    },
+    {
+        "id": "portugues-sabichao-030",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual adjetivo, escrito sem I depois do C, completa \"festa ...\", feita para ajudar quem precisa?",
+        "resposta": "Beneficente"
+    },
+    {
+        "id": "portugues-sabichao-031",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama a palavra cuja última sílaba é a mais forte, como \"jacaré\"?",
+        "resposta": "Oxítona"
+    },
+    {
+        "id": "portugues-sabichao-032",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama a palavra cuja penúltima sílaba é a mais forte, como \"amigo\"?",
+        "resposta": "Paroxítona"
+    },
+    {
+        "id": "portugues-sabichao-033",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama a palavra cuja antepenúltima sílaba é a mais forte, como \"lâmpada\"?",
+        "resposta": "Proparoxítona"
+    },
+    {
+        "id": "portugues-sabichao-034",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o encontro de duas vogais em sílabas separadas, como em \"saída\"?",
+        "resposta": "Hiato"
+    },
+    {
+        "id": "portugues-sabichao-035",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o encontro de uma vogal e uma semivogal na mesma sílaba, como em \"pai\"?",
+        "resposta": "Ditongo"
+    },
+    {
+        "id": "portugues-sabichao-036",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o encontro de três vogais na mesma sílaba, como em \"Uruguai\"?",
+        "resposta": "Tritongo"
+    },
+    {
+        "id": "portugues-sabichao-037",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual forma verbal, com circunflexo, indica capacidade no passado em \"Ontem ele ... ir\"?",
+        "resposta": "Pôde"
+    },
+    {
+        "id": "portugues-sabichao-038",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual forma do verbo ter, com acento circunflexo, completa \"Eles ... fome\"?",
+        "resposta": "Têm"
+    },
+    {
+        "id": "portugues-sabichao-039",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual forma do verbo vir, com acento circunflexo, completa \"Eles ... de longe\"?",
+        "resposta": "Vêm"
+    },
+    {
+        "id": "portugues-sabichao-040",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual verbo, com acento circunflexo, significa \"colocar\"?",
+        "resposta": "Pôr"
+    },
+    {
+        "id": "portugues-sabichao-041",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Como se chama o sinal (¨) que deixou de ser usado em \"frequência\" após o Acordo Ortográfico de 2009?",
+        "resposta": "Trema"
+    },
+    {
+        "id": "portugues-sabichao-042",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual acento deixou de ser usado em \"ideia\" e \"assembleia\" a partir do Acordo Ortográfico?",
+        "resposta": "Agudo"
+    },
+    {
+        "id": "portugues-sabichao-043",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual adjetivo de oito letras, que começa com C, é sinônimo de \"valente\"?",
+        "resposta": "Corajoso"
+    },
+    {
+        "id": "portugues-sabichao-044",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual adjetivo de cinco letras, que começa com R, é sinônimo de \"vermelho\"?",
+        "resposta": "Rubro"
+    },
+    {
+        "id": "portugues-sabichao-045",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual substantivo de sete letras, que começa com A, é sinônimo de \"ajuda\"?",
+        "resposta": "Auxílio"
+    },
+    {
+        "id": "portugues-sabichao-046",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra de três letras, que começa com M, é sinônimo de \"ruim\"?",
+        "resposta": "Mau"
+    },
+    {
+        "id": "portugues-sabichao-047",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual substantivo de seis letras, que começa com L, é sinônimo de \"idioma\"?",
+        "resposta": "Língua"
+    },
+    {
+        "id": "portugues-sabichao-048",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra de três letras, que começa com I, é sinônimo de \"raiva\"?",
+        "resposta": "Ira"
+    },
+    {
+        "id": "portugues-sabichao-049",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual substantivo de quatro letras, que começa com A, é sinônimo de \"objetivo\"?",
+        "resposta": "Alvo"
+    },
+    {
+        "id": "portugues-sabichao-050",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"antes\"?",
+        "resposta": "Depois"
+    },
+    {
+        "id": "portugues-sabichao-051",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"máximo\"?",
+        "resposta": "Mínimo"
+    },
+    {
+        "id": "portugues-sabichao-052",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"inocente\"?",
+        "resposta": "Culpado"
+    },
+    {
+        "id": "portugues-sabichao-053",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"abundância\"?",
+        "resposta": "Escassez (Falta)"
+    },
+    {
+        "id": "portugues-sabichao-054",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"construir\"?",
+        "resposta": "Destruir (Demolir)"
+    },
+    {
+        "id": "portugues-sabichao-055",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"maioria\"?",
+        "resposta": "Minoria"
+    },
+    {
+        "id": "portugues-sabichao-056",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"barato\"?",
+        "resposta": "Caro"
+    },
+    {
+        "id": "portugues-sabichao-057",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"otimista\"?",
+        "resposta": "Pessimista"
+    },
+    {
+        "id": "portugues-sabichao-058",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"natural\"?",
+        "resposta": "Artificial"
+    },
+    {
+        "id": "portugues-sabichao-059",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"urbano\"?",
+        "resposta": "Rural"
+    },
+    {
+        "id": "portugues-sabichao-060",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"voluntário\"?",
+        "resposta": "Obrigatório"
+    },
+    {
+        "id": "portugues-sabichao-061",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"vício\"?",
+        "resposta": "Virtude"
+    },
+    {
+        "id": "portugues-sabichao-062",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"transparente\"?",
+        "resposta": "Opaco"
+    },
+    {
+        "id": "portugues-sabichao-063",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo do verbo \"amar\"?",
+        "resposta": "Odiar (Detestar)"
+    },
+    {
+        "id": "portugues-sabichao-064",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"riqueza\"?",
+        "resposta": "Pobreza"
+    },
+    {
+        "id": "portugues-sabichao-065",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo do verbo \"aumentar\"?",
+        "resposta": "Diminuir (Reduzir)"
+    },
+    {
+        "id": "portugues-sabichao-066",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"inferior\"?",
+        "resposta": "Superior"
+    },
+    {
+        "id": "portugues-sabichao-067",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o antônimo de \"cedo\"?",
+        "resposta": "Tarde"
+    },
+    {
+        "id": "portugues-sabichao-068",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura compara dois seres sem usar palavra de comparação, como em \"Seus olhos são duas estrelas\"?",
+        "resposta": "Metáfora"
+    },
+    {
+        "id": "portugues-sabichao-069",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura troca o nome do autor pelo de sua obra, como em \"Li Drummond ontem\"?",
+        "resposta": "Metonímia"
+    },
+    {
+        "id": "portugues-sabichao-070",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura suaviza algo desagradável, como dizer \"melhor idade\" em vez de \"velhice\"?",
+        "resposta": "Eufemismo"
+    },
+    {
+        "id": "portugues-sabichao-071",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura diz o contrário do que se pensa, como em \"Que dia ótimo!\" falado sob uma tempestade?",
+        "resposta": "Ironia"
+    },
+    {
+        "id": "portugues-sabichao-072",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura dá ações humanas a seres não humanos, como em \"O vento sussurrava segredos\"?",
+        "resposta": "Prosopopeia (Personificação)"
+    },
+    {
+        "id": "portugues-sabichao-073",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura aproxima ideias opostas, como em \"Ri por fora, chora por dentro\"?",
+        "resposta": "Antítese"
+    },
+    {
+        "id": "portugues-sabichao-074",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura repete uma ideia para dar ênfase, como em \"entrar para dentro\"?",
+        "resposta": "Pleonasmo"
+    },
+    {
+        "id": "portugues-sabichao-075",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura une palavras de sentidos opostos numa só expressão, como em \"silêncio ensurdecedor\"?",
+        "resposta": "Oxímoro (Paradoxo)"
+    },
+    {
+        "id": "portugues-sabichao-076",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura repete sons consonantais, como o P em \"Pedro pintou pequenos pássaros\"?",
+        "resposta": "Aliteração"
+    },
+    {
+        "id": "portugues-sabichao-077",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura mistura sensações de sentidos diferentes, como em \"voz aveludada\"?",
+        "resposta": "Sinestesia"
+    },
+    {
+        "id": "portugues-sabichao-078",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura omite um termo subentendido, como o verbo em \"Na sala, só silêncio\"?",
+        "resposta": "Elipse"
+    },
+    {
+        "id": "portugues-sabichao-079",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura troca o nome por uma expressão que o identifica, como \"Cidade Luz\" no lugar de Paris?",
+        "resposta": "Perífrase (Antonomásia)"
+    },
+    {
+        "id": "portugues-sabichao-080",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura repete a mesma palavra no começo de frases seguidas, como em \"Era noite, era frio, era silêncio\"?",
+        "resposta": "Anáfora"
+    },
+    {
+        "id": "portugues-sabichao-081",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura ordena ideias em intensidade crescente, como em \"Um passo, uma corrida, um voo\"?",
+        "resposta": "Gradação (Clímax)"
+    },
+    {
+        "id": "portugues-sabichao-082",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual figura chama diretamente alguém ou algo, como em \"Ó lua, acompanha-me!\"?",
+        "resposta": "Apóstrofe (Invocação)"
+    },
+    {
+        "id": "portugues-sabichao-083",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual escritor carioca escreveu o romance Dom Casmurro?",
+        "resposta": "Machado de Assis (Machado)"
+    },
+    {
+        "id": "portugues-sabichao-084",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual personagem de Dom Casmurro, amada por Bentinho, é famosa pelos \"olhos de ressaca\"?",
+        "resposta": "Capitu"
+    },
+    {
+        "id": "portugues-sabichao-085",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual escritor alagoano escreveu Vidas Secas, sobre uma família de retirantes no sertão?",
+        "resposta": "Graciliano Ramos"
+    },
+    {
+        "id": "portugues-sabichao-086",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual é o nome da cachorra da família de Fabiano em Vidas Secas?",
+        "resposta": "Baleia"
+    },
+    {
+        "id": "portugues-sabichao-087",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual escritor baiano criou Gabriela, Cravo e Canela e Capitães da Areia?",
+        "resposta": "Jorge Amado"
+    },
+    {
+        "id": "portugues-sabichao-088",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual poeta mineiro de Itabira escreveu Sentimento do Mundo e A Rosa do Povo?",
+        "resposta": "Carlos Drummond de Andrade"
+    },
+    {
+        "id": "portugues-sabichao-089",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual escritora, nascida na Ucrânia e naturalizada brasileira, escreveu A Hora da Estrela?",
+        "resposta": "Clarice Lispector"
+    },
+    {
+        "id": "portugues-sabichao-090",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual escritor romântico criou os romances Iracema e O Guarani?",
+        "resposta": "José de Alencar (Alencar)"
+    },
+    {
+        "id": "portugues-sabichao-091",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual poeta romântico escreveu a Canção do Exílio, que começa com \"Minha terra tem palmeiras\"?",
+        "resposta": "Gonçalves Dias"
+    },
+    {
+        "id": "portugues-sabichao-092",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual escritor paulista, autor de Macunaíma, foi figura central da Semana de Arte Moderna de 1922?",
+        "resposta": "Mário de Andrade"
+    },
+    {
+        "id": "portugues-sabichao-093",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual poeta baiano, conhecido como \"Poeta dos Escravos\", escreveu O Navio Negreiro?",
+        "resposta": "Castro Alves"
+    },
+    {
+        "id": "portugues-sabichao-094",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual escritor gaúcho escreveu a trilogia O Tempo e o Vento?",
+        "resposta": "Érico Veríssimo (Erico Verissimo)"
+    },
+    {
+        "id": "portugues-sabichao-095",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual escritora, catadora de papel em São Paulo, publicou o diário Quarto de Despejo?",
+        "resposta": "Carolina Maria de Jesus"
+    },
+    {
+        "id": "portugues-sabichao-096",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual escritor, autor de Grande Sertão: Veredas, criou o jagunço Riobaldo?",
+        "resposta": "Guimarães Rosa"
+    },
+    {
+        "id": "portugues-sabichao-097",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra completa o ditado \"Quem semeia vento, colhe ...\"?",
+        "resposta": "Tempestade"
+    },
+    {
+        "id": "portugues-sabichao-098",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra completa o ditado \"Gato escaldado tem medo de água ...\"?",
+        "resposta": "Fria"
+    },
+    {
+        "id": "portugues-sabichao-099",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra completa o ditado \"Pimenta nos olhos dos outros é ...\"?",
+        "resposta": "Refresco"
+    },
+    {
+        "id": "portugues-sabichao-100",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra completa o ditado \"Não deixe para amanhã o que pode fazer ...\"?",
+        "resposta": "Hoje"
+    },
+    {
+        "id": "portugues-sabichao-101",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra completa o ditado \"O seguro morreu de ...\"?",
+        "resposta": "Velho"
+    },
+    {
+        "id": "portugues-sabichao-102",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra completa o ditado \"A pressa é inimiga da ...\"?",
+        "resposta": "Perfeição"
+    },
+    {
+        "id": "portugues-sabichao-103",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra completa o ditado \"Cavalo dado não se olha os ...\"?",
+        "resposta": "Dentes"
+    },
+    {
+        "id": "portugues-sabichao-104",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra completa o ditado \"Quem ama o feio, bonito lhe ...\"?",
+        "resposta": "Parece"
+    },
+    {
+        "id": "portugues-sabichao-105",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra completa o ditado \"Há males que vêm para ...\"?",
+        "resposta": "Bem"
+    },
+    {
+        "id": "portugues-sabichao-106",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra completa o ditado \"Rir é o melhor ...\"?",
+        "resposta": "Remédio"
+    },
+    {
+        "id": "portugues-sabichao-107",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra completa o ditado \"Em boca fechada não entra ...\"?",
+        "resposta": "Mosca"
+    },
+    {
+        "id": "portugues-sabichao-108",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra completa o ditado \"Uma andorinha só não faz ...\"?",
+        "resposta": "Verão"
+    },
+    {
+        "id": "portugues-sabichao-109",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "Qual palavra completa o ditado \"A união faz a ...\"?",
+        "resposta": "Força"
+    },
+    {
+        "id": "portugues-sabichao-110",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "O que significa a palavra \"efêmero\"?",
+        "resposta": "Passageiro (Que dura pouco)"
+    },
+    {
+        "id": "portugues-sabichao-111",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "O que significa a palavra \"ambíguo\"?",
+        "resposta": "Duplo sentido (Dúbio)"
+    },
+    {
+        "id": "portugues-sabichao-112",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "O que significa a palavra \"altruísta\"?",
+        "resposta": "Pensa nos outros (Generoso)"
+    },
+    {
+        "id": "portugues-sabichao-113",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "O que significa a palavra \"prolixo\"?",
+        "resposta": "Longo demais (Cansativo)"
+    },
+    {
+        "id": "portugues-sabichao-114",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "O que significa a palavra \"cético\"?",
+        "resposta": "Duvida de tudo (Descrente)"
+    },
+    {
+        "id": "portugues-sabichao-115",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "O que significa a palavra \"obsoleto\"?",
+        "resposta": "Ultrapassado (Antiquado)"
+    },
+    {
+        "id": "portugues-sabichao-116",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "O que significa a palavra \"eloquente\"?",
+        "resposta": "Fala bem (Expressivo)"
+    },
+    {
+        "id": "portugues-sabichao-117",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "O que significa a palavra \"inédito\"?",
+        "resposta": "Nunca visto (Nunca publicado)"
+    },
+    {
+        "id": "portugues-sabichao-118",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "O que significa o verbo \"plagiar\"?",
+        "resposta": "Copiar (Copiar obra alheia)"
+    },
+    {
+        "id": "portugues-sabichao-119",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "O que significa a palavra \"frugal\"?",
+        "resposta": "Simples (Moderado)"
+    },
+    {
+        "id": "portugues-sabichao-120",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "O que significa a palavra \"ocioso\"?",
+        "resposta": "Sem fazer nada (Desocupado)"
+    },
+    {
+        "id": "portugues-sabichao-121",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "O que significa a palavra \"benevolente\"?",
+        "resposta": "Bondoso (Bom)"
+    },
+    {
+        "id": "portugues-sabichao-122",
+        "tema": "portugues",
+        "nivel": "sabichao",
+        "pergunta": "O que significa a palavra \"lacônico\"?",
+        "resposta": "Fala pouco (Breve)"
+    }
+]
