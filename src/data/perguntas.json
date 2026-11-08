@@ -8692,5 +8692,845 @@
     "nivel": "sabichao",
     "pergunta": "Qual avenida de São Paulo, onde fica o MASP, é um dos principais cartões-postais da cidade?",
     "resposta": "Avenida Paulista (Paulista)"
+  },
+  {
+    "id": "historia-sabichao-003",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual tratado, assinado em 1494, dividiu as terras do Novo Mundo entre Portugal e Espanha?",
+    "resposta": "Tordesilhas"
+  },
+  {
+    "id": "historia-sabichao-004",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Como se chamou o sistema, criado por Dom João III, que dividiu o Brasil em faixas de terra entregues a nobres?",
+    "resposta": "Capitanias hereditárias (Capitanias)"
+  },
+  {
+    "id": "historia-sabichao-005",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Quem foi o primeiro governador-geral do Brasil, nomeado em 1549?",
+    "resposta": "Tomé de Sousa"
+  },
+  {
+    "id": "historia-sabichao-006",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual cidade foi fundada em 1549 para ser a primeira capital do Brasil colonial?",
+    "resposta": "Salvador"
+  },
+  {
+    "id": "historia-sabichao-007",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Em que ano foi fundada a cidade de São Paulo, por jesuítas, no planalto de Piratininga?",
+    "resposta": "1554"
+  },
+  {
+    "id": "historia-sabichao-008",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual colônia, fundada por navegadores vindos de Paris em 1555, ocupou a Baía de Guanabara?",
+    "resposta": "França Antártica"
+  },
+  {
+    "id": "historia-sabichao-009",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual povo europeu dominou parte do Nordeste açucareiro no século XVII, sob o comando de Maurício de Nassau?",
+    "resposta": "Holandeses (Holanda)"
+  },
+  {
+    "id": "historia-sabichao-010",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual batalha de 1648 e 1649, perto do Recife, marcou o início do fim da ocupação estrangeira no Nordeste?",
+    "resposta": "Guararapes"
+  },
+  {
+    "id": "historia-sabichao-011",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual imposto cobrado pela Coroa portuguesa correspondia a 20% do ouro extraído?",
+    "resposta": "Quinto"
+  },
+  {
+    "id": "historia-sabichao-012",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual revolta de 1798, em Salvador, inspirada na Revolução Francesa, pedia igualdade e o fim da escravidão?",
+    "resposta": "Conjuração Baiana (Alfaiates)"
+  },
+  {
+    "id": "historia-sabichao-013",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual poderoso ministro do rei Dom José I expulsou os jesuítas de Portugal e do Brasil em 1759?",
+    "resposta": "Marquês de Pombal (Pombal)"
+  },
+  {
+    "id": "historia-sabichao-014",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Como eram chamados os exploradores paulistas que desbravaram o interior atrás de indígenas e riquezas?",
+    "resposta": "Bandeirantes"
+  },
+  {
+    "id": "historia-sabichao-015",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Como se chamava o alojamento onde viviam as pessoas escravizadas nos engenhos?",
+    "resposta": "Senzala"
+  },
+  {
+    "id": "historia-sabichao-016",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Em que ano a família real portuguesa chegou ao Brasil, fugindo das tropas de Napoleão?",
+    "resposta": "1808"
+  },
+  {
+    "id": "historia-sabichao-017",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rei português governou o Brasil a partir do Rio de Janeiro e voltou a Portugal em 1821?",
+    "resposta": "Dom João VI (João VI)"
+  },
+  {
+    "id": "historia-sabichao-018",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Como ficou conhecido o 9 de janeiro de 1822, quando o príncipe regente decidiu permanecer no Brasil?",
+    "resposta": "Dia do Fico"
+  },
+  {
+    "id": "historia-sabichao-019",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Em que ano o primeiro imperador do Brasil outorgou a primeira Constituição do país?",
+    "resposta": "1824"
+  },
+  {
+    "id": "historia-sabichao-020",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Como se chamava a prerrogativa do imperador, criada em 1824, para arbitrar os outros ramos do governo?",
+    "resposta": "Poder Moderador"
+  },
+  {
+    "id": "historia-sabichao-021",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual revolta, entre 1835 e 1845, opôs gaúchos ao governo imperial?",
+    "resposta": "Farroupilha (Guerra dos Farrapos)"
+  },
+  {
+    "id": "historia-sabichao-022",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Como é chamado o período, entre 1831 e 1840, em que o país foi governado em nome de um imperador-menino?",
+    "resposta": "Regência"
+  },
+  {
+    "id": "historia-sabichao-023",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Como ficou conhecido o movimento político de 1840 que declarou o jovem Pedro II apto a governar aos 14 anos?",
+    "resposta": "Golpe da Maioridade"
+  },
+  {
+    "id": "historia-sabichao-024",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual conflito de 1864 a 1870 opôs Brasil, Argentina e Uruguai a um vizinho governado por Solano López?",
+    "resposta": "Guerra do Paraguai"
+  },
+  {
+    "id": "historia-sabichao-025",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual lei de 1850 proibiu o tráfico de africanos escravizados para o Brasil?",
+    "resposta": "Eusébio de Queirós"
+  },
+  {
+    "id": "historia-sabichao-026",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Como ficou conhecida a norma de 1871 que libertou os filhos de mulheres escravizadas nascidos depois dela?",
+    "resposta": "Lei do Ventre Livre (Ventre Livre)"
+  },
+  {
+    "id": "historia-sabichao-027",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual compositor brasileiro do século XIX criou a ópera O Guarani?",
+    "resposta": "Carlos Gomes"
+  },
+  {
+    "id": "historia-sabichao-028",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual imperatriz austríaca, primeira esposa do primeiro imperador, apoiou a Independência do Brasil?",
+    "resposta": "Leopoldina (Dona Leopoldina)"
+  },
+  {
+    "id": "historia-sabichao-029",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual marechal liderou o golpe que proclamou a República em 1889?",
+    "resposta": "Deodoro da Fonseca (Deodoro)"
+  },
+  {
+    "id": "historia-sabichao-030",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual marechal, apelidado de \"Marechal de Ferro\", foi o segundo presidente do Brasil?",
+    "resposta": "Floriano Peixoto (Floriano)"
+  },
+  {
+    "id": "historia-sabichao-031",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual conflito no sertão da Bahia, entre 1896 e 1897, teve como líder Antônio Conselheiro?",
+    "resposta": "Guerra de Canudos (Canudos)"
+  },
+  {
+    "id": "historia-sabichao-032",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual levante de 1904, no Rio de Janeiro, foi motivado pela imunização obrigatória contra a varíola?",
+    "resposta": "Revolta da Vacina"
+  },
+  {
+    "id": "historia-sabichao-033",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Como ficou conhecido o acordo informal que alternava no comando do país presidentes paulistas e mineiros?",
+    "resposta": "Café com Leite"
+  },
+  {
+    "id": "historia-sabichao-034",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rebelião de 1910, liderada por João Cândido, protestou contra os castigos físicos na Marinha?",
+    "resposta": "Revolta da Chibata (Chibata)"
+  },
+  {
+    "id": "historia-sabichao-035",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Em que ano uma revolução encerrou a chamada República Velha?",
+    "resposta": "1930"
+  },
+  {
+    "id": "historia-sabichao-036",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual regime autoritário foi implantado por Getúlio Vargas em 1937?",
+    "resposta": "Estado Novo"
+  },
+  {
+    "id": "historia-sabichao-037",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Em qual país europeu lutou a Força Expedicionária Brasileira na Segunda Guerra Mundial?",
+    "resposta": "Itália"
+  },
+  {
+    "id": "historia-sabichao-038",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual presidente, autor do lema \"50 anos em 5\", inaugurou Brasília em 1960?",
+    "resposta": "Juscelino Kubitschek (JK)"
+  },
+  {
+    "id": "historia-sabichao-039",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual movimento popular de 1984 lotou praças do país exigindo voto para escolher o presidente?",
+    "resposta": "Diretas Já (Diretas)"
+  },
+  {
+    "id": "historia-sabichao-040",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Como se chamou o programa econômico de 1994 que controlou a hiperinflação e criou uma nova moeda?",
+    "resposta": "Plano Real (Real)"
+  },
+  {
+    "id": "historia-sabichao-041",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual apelido, dado por Ulysses Guimarães, ficou famoso para a lei maior promulgada em 1988?",
+    "resposta": "Constituição Cidadã (Cidadã)"
+  },
+  {
+    "id": "historia-sabichao-042",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual escritor foi o primeiro presidente da Academia Brasileira de Letras, fundada em 1897?",
+    "resposta": "Machado de Assis"
+  },
+  {
+    "id": "historia-sabichao-043",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Em qual região, entre os rios Tigre e Eufrates, surgiram as primeiras cidades e a escrita?",
+    "resposta": "Mesopotâmia"
+  },
+  {
+    "id": "historia-sabichao-044",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual povo antigo criou a escrita cuneiforme, feita com marcas em forma de cunha?",
+    "resposta": "Sumérios"
+  },
+  {
+    "id": "historia-sabichao-045",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual conjunto de leis babilônico, famoso pelo \"olho por olho\", é um dos mais antigos da humanidade?",
+    "resposta": "Código de Hamurabi (Hamurabi)"
+  },
+  {
+    "id": "historia-sabichao-046",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual filósofo grego, mestre de Platão, ficou famoso por ensinar fazendo perguntas?",
+    "resposta": "Sócrates"
+  },
+  {
+    "id": "historia-sabichao-047",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual filósofo grego, discípulo de Platão, fundou a escola chamada Liceu?",
+    "resposta": "Aristóteles"
+  },
+  {
+    "id": "historia-sabichao-048",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rei da Macedônia conquistou um império que ia da Grécia até a Índia, antes de morrer jovem?",
+    "resposta": "Alexandre, o Grande (Alexandre)"
+  },
+  {
+    "id": "historia-sabichao-049",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual cidade-estado grega era famosa pelo treinamento militar rigoroso de seus cidadãos desde a infância?",
+    "resposta": "Esparta"
+  },
+  {
+    "id": "historia-sabichao-050",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual batalha de 490 a.C., vencida pelos gregos sobre os persas, inspirou o nome de uma prova de corrida?",
+    "resposta": "Maratona"
+  },
+  {
+    "id": "historia-sabichao-051",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual general cartaginês atravessou os Alpes com elefantes para atacar Roma?",
+    "resposta": "Aníbal"
+  },
+  {
+    "id": "historia-sabichao-052",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual general romano conquistou a Gália e cruzou o rio Rubicão em 49 a.C.?",
+    "resposta": "Júlio César"
+  },
+  {
+    "id": "historia-sabichao-053",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual foi o primeiro imperador de Roma, sobrinho-neto de Júlio César?",
+    "resposta": "Augusto (Otaviano)"
+  },
+  {
+    "id": "historia-sabichao-054",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Em que ano o Império Romano do Ocidente chegou ao fim, com a queda do imperador Rômulo Augústulo?",
+    "resposta": "476 d.C. (476)"
+  },
+  {
+    "id": "historia-sabichao-055",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual povo antigo, navegador e comerciante do Mediterrâneo oriental, criou o alfabeto que deu origem ao grego?",
+    "resposta": "Fenícios"
+  },
+  {
+    "id": "historia-sabichao-056",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual jovem faraó teve o túmulo encontrado quase intacto, em 1922, por Howard Carter?",
+    "resposta": "Tutancâmon (Tutankhamon)"
+  },
+  {
+    "id": "historia-sabichao-057",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rei dos francos foi coroado imperador pelo papa no ano 800?",
+    "resposta": "Carlos Magno"
+  },
+  {
+    "id": "historia-sabichao-058",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual imperador romano concedeu liberdade religiosa aos cristãos pelo Édito de Milão, em 313?",
+    "resposta": "Constantino"
+  },
+  {
+    "id": "historia-sabichao-059",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual cidade, antiga Bizâncio, caiu diante dos turcos em 1453, pondo fim ao Império Bizantino?",
+    "resposta": "Constantinopla (Istambul)"
+  },
+  {
+    "id": "historia-sabichao-060",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rei inglês foi forçado por nobres a assinar a Magna Carta, em 1215?",
+    "resposta": "João Sem Terra (João)"
+  },
+  {
+    "id": "historia-sabichao-061",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Como ficaram conhecidas as expedições militares cristãs, iniciadas em 1096, para retomar Jerusalém?",
+    "resposta": "Cruzadas"
+  },
+  {
+    "id": "historia-sabichao-062",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual epidemia devastou a Europa entre 1347 e 1351, atingindo cerca de um terço da população?",
+    "resposta": "Peste Negra (Peste Bubônica)"
+  },
+  {
+    "id": "historia-sabichao-063",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual conflito entre Inglaterra e França durou de 1337 a 1453?",
+    "resposta": "Guerra dos Cem Anos"
+  },
+  {
+    "id": "historia-sabichao-064",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual religião, fundada por Maomé no século VII, se espalhou rapidamente pelo Oriente Médio?",
+    "resposta": "Islamismo (Islã)"
+  },
+  {
+    "id": "historia-sabichao-065",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual sistema medieval se baseava na posse de terras e em laços entre senhores e vassalos?",
+    "resposta": "Feudalismo"
+  },
+  {
+    "id": "historia-sabichao-066",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Como eram chamados os camponeses ligados à terra do senhor feudal, sem poder deixá-la?",
+    "resposta": "Servos"
+  },
+  {
+    "id": "historia-sabichao-067",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual mercador veneziano viajou até a China e narrou o que viu na corte de Kublai Khan?",
+    "resposta": "Marco Polo"
+  },
+  {
+    "id": "historia-sabichao-068",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual líder mongol uniu as tribos e fundou, no século XIII, um dos maiores impérios da história?",
+    "resposta": "Gengis Khan"
+  },
+  {
+    "id": "historia-sabichao-069",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual invenção de Johannes Gutenberg, de meados do século XV, revolucionou a produção de livros?",
+    "resposta": "Imprensa (Prensa)"
+  },
+  {
+    "id": "historia-sabichao-070",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Em que ano começou a Primeira Guerra Mundial?",
+    "resposta": "1914"
+  },
+  {
+    "id": "historia-sabichao-071",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Em que ano terminou a Primeira Guerra Mundial?",
+    "resposta": "1918"
+  },
+  {
+    "id": "historia-sabichao-072",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual acordo de paz de 1919, assinado perto de Paris, impôs duras condições à Alemanha?",
+    "resposta": "Tratado de Versalhes (Versalhes)"
+  },
+  {
+    "id": "historia-sabichao-073",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Como se chamavam as valas escavadas no chão onde os soldados se abrigavam na Primeira Guerra?",
+    "resposta": "Trincheiras"
+  },
+  {
+    "id": "historia-sabichao-074",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual organização, criada após a Primeira Guerra e com sede em Genebra, tentou manter a paz mundial?",
+    "resposta": "Liga das Nações"
+  },
+  {
+    "id": "historia-sabichao-075",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Em que ano começou a Segunda Guerra Mundial?",
+    "resposta": "1939"
+  },
+  {
+    "id": "historia-sabichao-076",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual primeiro-ministro britânico ficou famoso pelo sinal de V da vitória na Segunda Guerra?",
+    "resposta": "Winston Churchill (Churchill)"
+  },
+  {
+    "id": "historia-sabichao-077",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual base naval americana, no Havaí, foi atacada pelo Japão em dezembro de 1941?",
+    "resposta": "Pearl Harbor"
+  },
+  {
+    "id": "historia-sabichao-078",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual região do norte da França foi palco do Dia D, o grande desembarque aliado de 1944?",
+    "resposta": "Normandia"
+  },
+  {
+    "id": "historia-sabichao-079",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Como se chamava a aliança militar entre Alemanha, Itália e Japão na Segunda Guerra?",
+    "resposta": "Eixo"
+  },
+  {
+    "id": "historia-sabichao-080",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual máquina alemã de codificar mensagens foi decifrada pela equipe do matemático Alan Turing?",
+    "resposta": "Enigma"
+  },
+  {
+    "id": "historia-sabichao-081",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual cidade russa, às margens do rio Volga, foi palco da grande batalha de 1942 e 1943 contra os nazistas?",
+    "resposta": "Stalingrado (Volgogrado)"
+  },
+  {
+    "id": "historia-sabichao-082",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual jovem judia escreveu um famoso diário enquanto se escondia em Amsterdã durante a guerra?",
+    "resposta": "Anne Frank"
+  },
+  {
+    "id": "historia-sabichao-083",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual navegador português comandou a frota espanhola que iniciou a primeira volta ao mundo, em 1519?",
+    "resposta": "Fernão de Magalhães (Magalhães)"
+  },
+  {
+    "id": "historia-sabichao-084",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual navegador basco concluiu, em 1522, a primeira volta ao mundo?",
+    "resposta": "Juan Sebastián Elcano (Elcano)"
+  },
+  {
+    "id": "historia-sabichao-085",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual navegador português foi o primeiro europeu a contornar o Cabo da Boa Esperança, em 1488?",
+    "resposta": "Bartolomeu Dias"
+  },
+  {
+    "id": "historia-sabichao-086",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual príncipe português do século XV é conhecido pelo apelido de \"o Navegador\"?",
+    "resposta": "Infante Dom Henrique (Dom Henrique)"
+  },
+  {
+    "id": "historia-sabichao-087",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual navegador florentino emprestou seu nome ao continente em que fica o Brasil?",
+    "resposta": "Américo Vespúcio (Vespúcio)"
+  },
+  {
+    "id": "historia-sabichao-088",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual conquistador espanhol liderou a conquista do México asteca a partir de 1519?",
+    "resposta": "Hernán Cortés (Cortés)"
+  },
+  {
+    "id": "historia-sabichao-089",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual conquistador espanhol derrubou o Império Inca, no Peru, a partir de 1532?",
+    "resposta": "Francisco Pizarro (Pizarro)"
+  },
+  {
+    "id": "historia-sabichao-090",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual navegador inglês mapeou a costa leste da Austrália, em 1770?",
+    "resposta": "James Cook (Cook)"
+  },
+  {
+    "id": "historia-sabichao-091",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual explorador viking é considerado o primeiro europeu a chegar à América do Norte, por volta do ano 1000?",
+    "resposta": "Leif Eriksson (Leif Erikson)"
+  },
+  {
+    "id": "historia-sabichao-092",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rainha de Castela financiou a viagem de Colombo, em 1492?",
+    "resposta": "Isabel (Isabel, a Católica)"
+  },
+  {
+    "id": "historia-sabichao-093",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual escrivão da frota de Cabral escreveu ao rei de Portugal a carta que descreve a chegada ao Brasil?",
+    "resposta": "Pero Vaz de Caminha (Caminha)"
+  },
+  {
+    "id": "historia-sabichao-094",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual elevação do litoral baiano foi o primeiro ponto de terra avistado pela frota de Cabral, em 1500?",
+    "resposta": "Monte Pascoal"
+  },
+  {
+    "id": "historia-sabichao-095",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual rei de Portugal enviou a frota de Cabral em direção às Índias, em 1500?",
+    "resposta": "Dom Manuel I (Manuel I)"
+  },
+  {
+    "id": "historia-sabichao-096",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual jovem camponesa francesa, guiada por visões, liderou tropas na libertação de Orléans, em 1429?",
+    "resposta": "Joana d'Arc"
+  },
+  {
+    "id": "historia-sabichao-097",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual líder indiano conduziu a luta pela independência da Índia com a não violência?",
+    "resposta": "Mahatma Gandhi (Gandhi)"
+  },
+  {
+    "id": "historia-sabichao-098",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual líder, preso por 27 anos, tornou-se em 1994 o primeiro presidente negro da África do Sul?",
+    "resposta": "Nelson Mandela (Mandela)"
+  },
+  {
+    "id": "historia-sabichao-099",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual pastor americano, autor do discurso \"Eu tenho um sonho\", lutou pelos direitos civis nos anos 1960?",
+    "resposta": "Martin Luther King (Luther King)"
+  },
+  {
+    "id": "historia-sabichao-100",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual religiosa de origem albanesa, Nobel da Paz de 1979, dedicou a vida aos pobres da Índia?",
+    "resposta": "Madre Teresa de Calcutá (Madre Teresa)"
+  },
+  {
+    "id": "historia-sabichao-101",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual cientista polonesa foi a primeira pessoa a ganhar dois prêmios Nobel, em Física e em Química?",
+    "resposta": "Marie Curie (Curie)"
+  },
+  {
+    "id": "historia-sabichao-102",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual naturalista inglês propôs a evolução por seleção natural no livro A Origem das Espécies?",
+    "resposta": "Charles Darwin (Darwin)"
+  },
+  {
+    "id": "historia-sabichao-103",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual cientista francês criou a vacina contra a raiva e deu nome ao processo de esterilização do leite?",
+    "resposta": "Louis Pasteur (Pasteur)"
+  },
+  {
+    "id": "historia-sabichao-104",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual soberana britânica reinou de 1837 a 1901 e deu nome a uma era do Império Britânico?",
+    "resposta": "Rainha Vitória (Vitória)"
+  },
+  {
+    "id": "historia-sabichao-105",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual líder venezuelano, chamado de \"O Libertador\", lutou pela independência de vários países sul-americanos?",
+    "resposta": "Simón Bolívar (Bolívar)"
+  },
+  {
+    "id": "historia-sabichao-106",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual compositor alemão continuou criando música depois de ficar surdo e escreveu a Nona Sinfonia?",
+    "resposta": "Ludwig van Beethoven (Beethoven)"
+  },
+  {
+    "id": "historia-sabichao-107",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual artista italiano pintou o teto da Capela Sistina, no Vaticano?",
+    "resposta": "Michelangelo"
+  },
+  {
+    "id": "historia-sabichao-108",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual marechal, explorador do interior do Brasil e defensor dos indígenas, dá nome a um estado do Norte?",
+    "resposta": "Cândido Rondon (Rondon)"
+  },
+  {
+    "id": "historia-sabichao-109",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual médico sanitarista brasileiro liderou, no início do século XX, o combate à febre amarela no Rio?",
+    "resposta": "Oswaldo Cruz"
+  },
+  {
+    "id": "historia-sabichao-110",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual engenheiro escocês aperfeiçoou a máquina a vapor no século XVIII, impulsionando a Revolução Industrial?",
+    "resposta": "James Watt (Watt)"
+  },
+  {
+    "id": "historia-sabichao-111",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual inventor americano criou o telégrafo elétrico e um código de pontos e traços?",
+    "resposta": "Samuel Morse (Morse)"
+  },
+  {
+    "id": "historia-sabichao-112",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual escocês, naturalizado americano, patenteou o telefone em 1876?",
+    "resposta": "Alexander Graham Bell (Graham Bell)"
+  },
+  {
+    "id": "historia-sabichao-113",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual inventor americano criou o fonógrafo, aparelho que gravava e reproduzia sons?",
+    "resposta": "Thomas Edison (Edison)"
+  },
+  {
+    "id": "historia-sabichao-114",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual povo asiático inventou a pólvora, usada primeiro em fogos de artifício?",
+    "resposta": "Chineses (China)"
+  },
+  {
+    "id": "historia-sabichao-115",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual cientista britânico descobriu a penicilina, em 1928?",
+    "resposta": "Alexander Fleming (Fleming)"
+  },
+  {
+    "id": "historia-sabichao-116",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual físico alemão descobriu os raios X, em 1895?",
+    "resposta": "Wilhelm Röntgen (Röntgen)"
+  },
+  {
+    "id": "historia-sabichao-117",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual cientista e político americano inventou o para-raios, no século XVIII?",
+    "resposta": "Benjamin Franklin (Franklin)"
+  },
+  {
+    "id": "historia-sabichao-118",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual físico italiano criou a pilha elétrica, em 1800?",
+    "resposta": "Alessandro Volta (Volta)"
+  },
+  {
+    "id": "historia-sabichao-119",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual dupla francesa, formada por Auguste e Louis, fez a primeira exibição pública de cinema, em 1895?",
+    "resposta": "Irmãos Lumière (Lumière)"
+  },
+  {
+    "id": "historia-sabichao-120",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual povo do sul da Ásia criou o sistema de numeração decimal com zero que usamos hoje?",
+    "resposta": "Indianos (Índia)"
+  },
+  {
+    "id": "historia-sabichao-121",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual civilização mesoamericana criou um calendário preciso e uma escrita com glifos?",
+    "resposta": "Maias (Maia)"
+  },
+  {
+    "id": "historia-sabichao-122",
+    "tema": "historia",
+    "nivel": "sabichao",
+    "pergunta": "Qual engenheiro alemão patenteou, em 1886, o primeiro automóvel com motor a combustão?",
+    "resposta": "Karl Benz (Benz)"
   }
 ]
