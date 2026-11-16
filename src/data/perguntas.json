@@ -10372,5 +10372,845 @@
     "nivel": "sabichao",
     "pergunta": "O que significa a palavra \"lacônico\"?",
     "resposta": "Fala pouco (Breve)"
+  },
+  {
+    "id": "atualidades-fera-003",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual é o nome do reino fictício onde se passa a maior parte dos jogos da série Zelda?",
+    "resposta": "Hyrule"
+  },
+  {
+    "id": "atualidades-fera-004",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual cientista de óculos, herói silencioso do jogo Half-Life, trabalha no laboratório Black Mesa?",
+    "resposta": "Gordon Freeman"
+  },
+  {
+    "id": "atualidades-fera-005",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual jogo da Valve de 2007 tem uma IA chamada GLaDOS e a frase \"o bolo é uma mentira\"?",
+    "resposta": "Portal"
+  },
+  {
+    "id": "atualidades-fera-006",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual designer japonês da Nintendo criou os personagens Mario e Donkey Kong e a série Zelda?",
+    "resposta": "Shigeru Miyamoto (Miyamoto)"
+  },
+  {
+    "id": "atualidades-fera-007",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual foi o último console doméstico da Sega, lançado em 1998 no Japão?",
+    "resposta": "Dreamcast"
+  },
+  {
+    "id": "atualidades-fera-008",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual Pokémon, de tipo planta e veneno, é o número 001 da Pokédex Nacional?",
+    "resposta": "Bulbasaur"
+  },
+  {
+    "id": "atualidades-fera-009",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual é o nome do planeta onde se passa o jogo de computador World of Warcraft?",
+    "resposta": "Azeroth"
+  },
+  {
+    "id": "atualidades-fera-010",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Em qual console de 8 bits da Nintendo foi lançado Super Mario Bros., em 1985?",
+    "resposta": "NES (Famicom, Nintendinho)"
+  },
+  {
+    "id": "atualidades-fera-011",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual caçador de tesouros é o herói da série de jogos Uncharted, da Naughty Dog?",
+    "resposta": "Nathan Drake"
+  },
+  {
+    "id": "atualidades-fera-012",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual jogo de RPG de 2011 virou meme pela frase do guarda sobre uma flechada no joelho?",
+    "resposta": "Skyrim"
+  },
+  {
+    "id": "atualidades-fera-013",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual empresa japonesa lançou o fliperama Space Invaders, em 1978?",
+    "resposta": "Taito"
+  },
+  {
+    "id": "atualidades-fera-014",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual jogo de 1996 apresenta a arqueóloga britânica Lara Croft?",
+    "resposta": "Tomb Raider"
+  },
+  {
+    "id": "atualidades-fera-015",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual novela de 2012 da Globo tem a vilã Carminha, vivida por Adriana Esteves?",
+    "resposta": "Avenida Brasil"
+  },
+  {
+    "id": "atualidades-fera-016",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual novela de 1985 tem o coronel Sinhozinho Malta e a viúva Porcina?",
+    "resposta": "Roque Santeiro"
+  },
+  {
+    "id": "atualidades-fera-017",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual novela de 2007 tem as gêmeas Paula e Taís, interpretadas por Alessandra Negrini?",
+    "resposta": "Paraíso Tropical"
+  },
+  {
+    "id": "atualidades-fera-018",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual novela baseada em Jorge Amado traz uma mulher que volta rica a Santana do Agreste?",
+    "resposta": "Tieta"
+  },
+  {
+    "id": "atualidades-fera-019",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual novela de 1996 tem o pecuarista Bruno Mezenga, interpretado por Antonio Fagundes?",
+    "resposta": "O Rei do Gado"
+  },
+  {
+    "id": "atualidades-fera-020",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual humorista criou e viveu o Professor Raimundo, na Escolinha da Globo?",
+    "resposta": "Chico Anysio"
+  },
+  {
+    "id": "atualidades-fera-021",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual apresentador de auditório dizia \"Eu vim para confundir, não para explicar\"?",
+    "resposta": "Chacrinha (Abelardo Barbosa)"
+  },
+  {
+    "id": "atualidades-fera-022",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual sitcom da Globo, gravada em teatro, tem os personagens Caco Antibes e Magda?",
+    "resposta": "Sai de Baixo"
+  },
+  {
+    "id": "atualidades-fera-023",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual série de comédia mostra o gerente Michael Scott na empresa de papel Dunder Mifflin?",
+    "resposta": "The Office"
+  },
+  {
+    "id": "atualidades-fera-024",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Em Doctor Who, como se chama a nave em forma de cabine policial azul?",
+    "resposta": "TARDIS"
+  },
+  {
+    "id": "atualidades-fera-025",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual série dos anos 90 traz os agentes do FBI Mulder e Scully investigando casos paranormais?",
+    "resposta": "Arquivo X (The X-Files)"
+  },
+  {
+    "id": "atualidades-fera-026",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual série criada por Gene Roddenberry tem a saudação \"vida longa e próspera\"?",
+    "resposta": "Star Trek (Jornada nas Estrelas)"
+  },
+  {
+    "id": "atualidades-fera-027",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual série da HBO de 2019 retrata o acidente nuclear ocorrido em 1986 na Ucrânia?",
+    "resposta": "Chernobyl"
+  },
+  {
+    "id": "atualidades-fera-028",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual série espanhola da Netflix tem assaltantes com máscaras de Salvador Dalí e macacões vermelhos?",
+    "resposta": "La Casa de Papel (Money Heist)"
+  },
+  {
+    "id": "atualidades-fera-029",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual série da Netflix retrata o reinado de Elizabeth II, da juventude à maturidade?",
+    "resposta": "The Crown"
+  },
+  {
+    "id": "atualidades-fera-030",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual é o nome do pequeno alienígena verde que acompanha o caçador de recompensas em The Mandalorian?",
+    "resposta": "Grogu"
+  },
+  {
+    "id": "atualidades-fera-031",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual filme de 1998 estrelado por Fernanda Montenegro mostra uma ex-professora que escreve cartas?",
+    "resposta": "Central do Brasil"
+  },
+  {
+    "id": "atualidades-fera-032",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual filme brasileiro de 2000 tem João Grilo e Chicó, baseado na peça de Ariano Suassuna?",
+    "resposta": "O Auto da Compadecida"
+  },
+  {
+    "id": "atualidades-fera-033",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual filme sul-coreano de 2019 foi o primeiro de língua não inglesa a vencer o Oscar de melhor filme?",
+    "resposta": "Parasita (Parasite)"
+  },
+  {
+    "id": "atualidades-fera-034",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual diretor britânico, mestre do suspense, fez Janela Indiscreta e Um Corpo que Cai?",
+    "resposta": "Alfred Hitchcock"
+  },
+  {
+    "id": "atualidades-fera-035",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual estúdio lançou em 1995 o primeiro longa-metragem totalmente feito em computação gráfica?",
+    "resposta": "Pixar"
+  },
+  {
+    "id": "atualidades-fera-036",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual foi o primeiro longa-metragem de animação da Disney, lançado em 1937?",
+    "resposta": "Branca de Neve"
+  },
+  {
+    "id": "atualidades-fera-037",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual animação japonesa de 1988 tem um ônibus em forma de gato e um espírito da floresta?",
+    "resposta": "Meu Amigo Totoro (Totoro)"
+  },
+  {
+    "id": "atualidades-fera-038",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual filme de 1982 de Ridley Scott mostra um caçador de androides na Los Angeles do futuro?",
+    "resposta": "Blade Runner"
+  },
+  {
+    "id": "atualidades-fera-039",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual filme de 1939 mostra Dorothy seguindo uma estrada de tijolos amarelos?",
+    "resposta": "O Mágico de Oz"
+  },
+  {
+    "id": "atualidades-fera-040",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual compositor criou as trilhas de Star Wars, Tubarão e Indiana Jones?",
+    "resposta": "John Williams"
+  },
+  {
+    "id": "atualidades-fera-041",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual saga criada por C. S. Lewis leva quatro irmãos por um guarda-roupa a uma terra mágica?",
+    "resposta": "As Crônicas de Nárnia"
+  },
+  {
+    "id": "atualidades-fera-042",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual filme de Orson Welles, de 1941, gira em torno da palavra \"Rosebud\"?",
+    "resposta": "Cidadão Kane"
+  },
+  {
+    "id": "atualidades-fera-043",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual compositor austríaco, criança prodígio, escreveu a ópera A Flauta Mágica?",
+    "resposta": "Mozart"
+  },
+  {
+    "id": "atualidades-fera-044",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual compositor italiano escreveu o concerto As Quatro Estações?",
+    "resposta": "Vivaldi"
+  },
+  {
+    "id": "atualidades-fera-045",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual banda britânica lançou o álbum The Dark Side of the Moon, com um prisma na capa?",
+    "resposta": "Pink Floyd"
+  },
+  {
+    "id": "atualidades-fera-046",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual sanfoneiro pernambucano, o Rei do Baião, compôs Asa Branca com Humberto Teixeira?",
+    "resposta": "Luiz Gonzaga"
+  },
+  {
+    "id": "atualidades-fera-047",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual cantora gaúcha, apelidada de Pimentinha, gravou Como Nossos Pais e Água de Beber?",
+    "resposta": "Elis Regina"
+  },
+  {
+    "id": "atualidades-fera-048",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual compositor russo escreveu o balé O Lago dos Cisnes?",
+    "resposta": "Tchaikovsky (Tchaikóvski)"
+  },
+  {
+    "id": "atualidades-fera-049",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual instrumento indiano de cordas ficou famoso no Ocidente graças ao músico Ravi Shankar?",
+    "resposta": "Sitar"
+  },
+  {
+    "id": "atualidades-fera-050",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual compositor alemão do barroco escreveu a Paixão Segundo São Mateus?",
+    "resposta": "Bach (Johann Sebastian Bach)"
+  },
+  {
+    "id": "atualidades-fera-051",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual banda de Seattle lançou o álbum Nevermind, em 1991, com um bebê nadando na capa?",
+    "resposta": "Nirvana"
+  },
+  {
+    "id": "atualidades-fera-052",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual cantora americana, conhecida como a Rainha do Soul, gravou o sucesso Respect?",
+    "resposta": "Aretha Franklin"
+  },
+  {
+    "id": "atualidades-fera-053",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual festival de música de 1969, no estado de Nova York, reuniu cerca de 400 mil pessoas?",
+    "resposta": "Woodstock"
+  },
+  {
+    "id": "atualidades-fera-054",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual famoso festival de música britânico acontece numa fazenda em Somerset, desde 1970?",
+    "resposta": "Glastonbury"
+  },
+  {
+    "id": "atualidades-fera-055",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual cantora portuguesa, conhecida como a Rainha do Fado, gravou Estranha Forma de Vida?",
+    "resposta": "Amália Rodrigues"
+  },
+  {
+    "id": "atualidades-fera-056",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual cantor americano, apelidado de Ol' Blue Eyes, gravou a versão mais famosa de My Way?",
+    "resposta": "Frank Sinatra"
+  },
+  {
+    "id": "atualidades-fera-057",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual ator britânico criou o vagabundo Carlitos, de bigodinho, chapéu-coco e bengala?",
+    "resposta": "Charlie Chaplin"
+  },
+  {
+    "id": "atualidades-fera-058",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual desenhista e empresário americano criou o camundongo Mickey Mouse, em 1928?",
+    "resposta": "Walt Disney"
+  },
+  {
+    "id": "atualidades-fera-059",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual atriz de vestido preto e colar de pérolas ficou famosa em Bonequinha de Luxo?",
+    "resposta": "Audrey Hepburn"
+  },
+  {
+    "id": "atualidades-fera-060",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual cantora e atriz viveu a Sandy no filme Grease, de 1978?",
+    "resposta": "Olivia Newton-John"
+  },
+  {
+    "id": "atualidades-fera-061",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual ator americano interpretou Forrest Gump e o náufrago Chuck Noland?",
+    "resposta": "Tom Hanks"
+  },
+  {
+    "id": "atualidades-fera-062",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual ator britânico interpretou James Bond em 007 – Cassino Royale, de 2006?",
+    "resposta": "Daniel Craig"
+  },
+  {
+    "id": "atualidades-fera-063",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual diretor americano filmou E.T. – O Extraterrestre e Caçadores da Arca Perdida?",
+    "resposta": "Steven Spielberg"
+  },
+  {
+    "id": "atualidades-fera-064",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual princesa britânica, ex-mulher do príncipe Charles, ficou conhecida como a Princesa do Povo?",
+    "resposta": "Diana (Lady Di)"
+  },
+  {
+    "id": "atualidades-fera-065",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual dançarino e ator americano ficou famoso por dançar com um guarda-chuva em Cantando na Chuva?",
+    "resposta": "Gene Kelly"
+  },
+  {
+    "id": "atualidades-fera-066",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual ator americano interpretou o Homem de Ferro nos filmes da Marvel?",
+    "resposta": "Robert Downey Jr."
+  },
+  {
+    "id": "atualidades-fera-067",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual atriz de Hollywood se casou em 1956 e se tornou princesa de Mônaco?",
+    "resposta": "Grace Kelly"
+  },
+  {
+    "id": "atualidades-fera-068",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual atriz americana loira estrelou Quanto Mais Quente Melhor, de 1959?",
+    "resposta": "Marilyn Monroe"
+  },
+  {
+    "id": "atualidades-fera-069",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual cientista britânico inventou a World Wide Web em 1989?",
+    "resposta": "Tim Berners-Lee"
+  },
+  {
+    "id": "atualidades-fera-070",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual sigla de quatro letras nomeia a linguagem usada para estruturar páginas da web?",
+    "resposta": "HTML"
+  },
+  {
+    "id": "atualidades-fera-071",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual navegador da Microsoft, lançado em 1995, ficou famoso pelo ícone de um \"e\" azul?",
+    "resposta": "Internet Explorer"
+  },
+  {
+    "id": "atualidades-fera-072",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual rede social do Google, lançada em 2004, foi febre no Brasil antes do Facebook?",
+    "resposta": "Orkut"
+  },
+  {
+    "id": "atualidades-fera-073",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual mensageiro instantâneo da Microsoft foi febre nos anos 2000 e tinha o recurso \"chamar atenção\"?",
+    "resposta": "MSN Messenger"
+  },
+  {
+    "id": "atualidades-fera-074",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual aplicativo, comprado pelo Twitter em 2012, popularizou vídeos de seis segundos em repetição?",
+    "resposta": "Vine"
+  },
+  {
+    "id": "atualidades-fera-075",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual site de comunidades, criado em 2005, se apresenta como a primeira página da internet?",
+    "resposta": "Reddit"
+  },
+  {
+    "id": "atualidades-fera-076",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual plataforma de conversa por voz e texto, com servidores e canais, é popular entre jogadores?",
+    "resposta": "Discord"
+  },
+  {
+    "id": "atualidades-fera-077",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual rede social criada em 2003 foi a mais visitada do mundo antes do Facebook?",
+    "resposta": "MySpace"
+  },
+  {
+    "id": "atualidades-fera-078",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual portal e buscador, fundado por Jerry Yang e David Filo, tem um ponto de exclamação no nome?",
+    "resposta": "Yahoo!"
+  },
+  {
+    "id": "atualidades-fera-079",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual rede de computadores dos anos 1960, criada nos EUA, foi a precursora da internet?",
+    "resposta": "ARPANET"
+  },
+  {
+    "id": "atualidades-fera-080",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual sigla de cinco letras aparece no início do endereço de sites com conexão segura e cadeado?",
+    "resposta": "HTTPS"
+  },
+  {
+    "id": "atualidades-fera-081",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual rede social de inspirações organiza imagens em quadros e tem um logotipo vermelho?",
+    "resposta": "Pinterest"
+  },
+  {
+    "id": "atualidades-fera-082",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual empresa lançou o ChatGPT, em 2022?",
+    "resposta": "OpenAI"
+  },
+  {
+    "id": "atualidades-fera-083",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual formato de áudio comprimido popularizou os tocadores portáteis nos anos 2000?",
+    "resposta": "MP3"
+  },
+  {
+    "id": "atualidades-fera-084",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual sigla de três letras nomeia o armazenamento sem partes móveis que substitui o HD?",
+    "resposta": "SSD"
+  },
+  {
+    "id": "atualidades-fera-085",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual tipo de bateria recarregável equipa a maioria dos celulares e notebooks atuais?",
+    "resposta": "Íons de lítio (Li-ion)"
+  },
+  {
+    "id": "atualidades-fera-086",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual disco óptico, criado nos anos 1990, substituiu a fita VHS para filmes?",
+    "resposta": "DVD"
+  },
+  {
+    "id": "atualidades-fera-087",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual celular, lançado pela Apple em 2007, popularizou os smartphones sem teclado físico?",
+    "resposta": "iPhone"
+  },
+  {
+    "id": "atualidades-fera-088",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual sigla de quatro letras nomeia o formato de foto comprimida mais usado nas câmeras?",
+    "resposta": "JPEG (JPG)"
+  },
+  {
+    "id": "atualidades-fera-089",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual sigla de quatro letras nomeia o cabo que leva imagem e som digitais de um console à TV?",
+    "resposta": "HDMI"
+  },
+  {
+    "id": "atualidades-fera-090",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual sigla de três letras nomeia o chip que identifica a linha do celular?",
+    "resposta": "SIM"
+  },
+  {
+    "id": "atualidades-fera-091",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Em qual unidade, com o prefixo giga, se mede a frequência de um processador?",
+    "resposta": "Hertz (Hz)"
+  },
+  {
+    "id": "atualidades-fera-092",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual sistema operacional do Google, com um robozinho verde de mascote, roda em milhões de celulares?",
+    "resposta": "Android"
+  },
+  {
+    "id": "atualidades-fera-093",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Quantos bits formam um byte?",
+    "resposta": "Oito (8)"
+  },
+  {
+    "id": "atualidades-fera-094",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual sistema de numeração, só com 0 e 1, é a base da linguagem dos computadores?",
+    "resposta": "Binário"
+  },
+  {
+    "id": "atualidades-fera-095",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual sigla de três letras nomeia a placa que cuida dos gráficos e dos jogos no computador?",
+    "resposta": "GPU"
+  },
+  {
+    "id": "atualidades-fera-096",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual gás de efeito estufa, liberado por aterros e pelo gado, é mais potente que o gás carbônico?",
+    "resposta": "Metano"
+  },
+  {
+    "id": "atualidades-fera-097",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual conferência da ONU sobre meio ambiente reuniu líderes no Brasil no início dos anos 1990?",
+    "resposta": "Eco-92 (Rio-92)"
+  },
+  {
+    "id": "atualidades-fera-098",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual animal branco do Ártico vive sobre o gelo do mar e virou símbolo do aquecimento global?",
+    "resposta": "Urso-polar"
+  },
+  {
+    "id": "atualidades-fera-099",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Que problema ambiental, causado pelo excesso de lâmpadas acesas, esconde as estrelas das cidades?",
+    "resposta": "Poluição luminosa"
+  },
+  {
+    "id": "atualidades-fera-100",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Como se chama o fenômeno em que o centro das cidades fica mais quente que o campo ao redor?",
+    "resposta": "Ilha de calor"
+  },
+  {
+    "id": "atualidades-fera-101",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual material biodegradável, feito de milho ou cana, substitui derivados de petróleo em sacolas?",
+    "resposta": "Bioplástico"
+  },
+  {
+    "id": "atualidades-fera-102",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual tipo de energia renovável vem da queima de matéria orgânica, como o bagaço de cana?",
+    "resposta": "Biomassa"
+  },
+  {
+    "id": "atualidades-fera-103",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual tratado de 1987 baniu os CFCs para proteger a camada de ozônio?",
+    "resposta": "Protocolo de Montreal"
+  },
+  {
+    "id": "atualidades-fera-104",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Em que dia e mês se comemora o Dia Mundial do Meio Ambiente?",
+    "resposta": "5 de junho"
+  },
+  {
+    "id": "atualidades-fera-105",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual iniciativa brasileira de conservação, criada em 1980, protege tartarugas marinhas no litoral?",
+    "resposta": "Projeto Tamar"
+  },
+  {
+    "id": "atualidades-fera-106",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual bioma frio, de florestas de coníferas, cobre grande parte do Canadá e da Sibéria?",
+    "resposta": "Taiga"
+  },
+  {
+    "id": "atualidades-fera-107",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual é a maior estrutura viva do planeta, formada por pólipos na costa da Austrália?",
+    "resposta": "Grande Barreira de Corais"
+  },
+  {
+    "id": "atualidades-fera-108",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual bióloga americana escreveu Primavera Silenciosa, livro de 1962 sobre pesticidas?",
+    "resposta": "Rachel Carson"
+  },
+  {
+    "id": "atualidades-fera-109",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual inventor húngaro criou a caneta esferográfica, patenteada em 1938?",
+    "resposta": "László Bíró (Biro)"
+  },
+  {
+    "id": "atualidades-fera-110",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual invenção, inspirada em carrapichos, fecha tênis e mochilas sem cadarço nem zíper?",
+    "resposta": "Velcro"
+  },
+  {
+    "id": "atualidades-fera-111",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual instrumento criado por Laennec, em 1816, permite ouvir os batimentos do coração?",
+    "resposta": "Estetoscópio"
+  },
+  {
+    "id": "atualidades-fera-112",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual invenção de um físico italiano, em 1800, foi a primeira fonte de corrente elétrica contínua?",
+    "resposta": "Pilha"
+  },
+  {
+    "id": "atualidades-fera-113",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual invenção dos irmãos Lumière projetou filmes para o público em 1895?",
+    "resposta": "Cinematógrafo"
+  },
+  {
+    "id": "atualidades-fera-114",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual instrumento de teclas, criado na Itália por volta de 1700, permite tocar suave ou forte?",
+    "resposta": "Piano"
+  },
+  {
+    "id": "atualidades-fera-115",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual cientista inglês criou a primeira vacina, contra a varíola, em 1796?",
+    "resposta": "Edward Jenner"
+  },
+  {
+    "id": "atualidades-fera-116",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual invenção, aperfeiçoada por James Watt e movida por água fervente, impulsionou a Revolução Industrial?",
+    "resposta": "Máquina a vapor"
+  },
+  {
+    "id": "atualidades-fera-117",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual sistema de pontos em relevo permite que pessoas cegas leiam com os dedos?",
+    "resposta": "Braille"
+  },
+  {
+    "id": "atualidades-fera-118",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual aparelho, criado por Willis Carrier em 1902, controla a temperatura e a umidade do ar?",
+    "resposta": "Ar-condicionado"
+  },
+  {
+    "id": "atualidades-fera-119",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual carro de Henry Ford, lançado em 1908, ficou famoso por ser barato e feito em grande escala?",
+    "resposta": "Modelo T"
+  },
+  {
+    "id": "atualidades-fera-120",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual material, criado em 1907 por Leo Baekeland, foi o primeiro plástico totalmente sintético?",
+    "resposta": "Baquelite"
+  },
+  {
+    "id": "atualidades-fera-121",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual invenção criada em 1920 por Earl Dickson para a esposa protege pequenos cortes na pele?",
+    "resposta": "Curativo adesivo (Band-Aid)"
+  },
+  {
+    "id": "atualidades-fera-122",
+    "tema": "atualidades",
+    "nivel": "fera",
+    "pergunta": "Qual cientista alemão descobriu os raios X em 1895?",
+    "resposta": "Wilhelm Röntgen (Röntgen)"
   }
 ]
