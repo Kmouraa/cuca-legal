@@ -11212,5 +11212,845 @@
     "nivel": "fera",
     "pergunta": "Qual cientista alemão descobriu os raios X em 1895?",
     "resposta": "Wilhelm Röntgen (Röntgen)"
+  },
+  {
+    "id": "ciencias-fera-003",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Como se chama o osso achatado no meio do peito, ao qual se ligam as costelas?",
+    "resposta": "Esterno"
+  },
+  {
+    "id": "ciencias-fera-004",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é o único osso móvel do crânio, que permite mastigar e falar?",
+    "resposta": "Mandíbula"
+  },
+  {
+    "id": "ciencias-fera-005",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual camada transparente cobre a frente do olho, como um vidro de relógio?",
+    "resposta": "Córnea"
+  },
+  {
+    "id": "ciencias-fera-006",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual parte colorida do olho regula o tamanho da pupila?",
+    "resposta": "Íris"
+  },
+  {
+    "id": "ciencias-fera-007",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual estrutura do ouvido interno, em forma de caracol, transforma o som em sinais nervosos?",
+    "resposta": "Cóclea"
+  },
+  {
+    "id": "ciencias-fera-008",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual hormônio, liberado em situações de susto, acelera o coração e prepara o corpo para fugir?",
+    "resposta": "Adrenalina"
+  },
+  {
+    "id": "ciencias-fera-009",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual glândula, em forma de borboleta no pescoço, regula o metabolismo do corpo?",
+    "resposta": "Tireoide"
+  },
+  {
+    "id": "ciencias-fera-010",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual tipo sanguíneo é chamado de doador universal?",
+    "resposta": "O negativo (O-)"
+  },
+  {
+    "id": "ciencias-fera-011",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual proteína do sangue transporta o oxigênio e lhe dá a cor vermelha?",
+    "resposta": "Hemoglobina"
+  },
+  {
+    "id": "ciencias-fera-012",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Quantos pares de cromossomos tem uma célula humana comum?",
+    "resposta": "23 (vinte e três)"
+  },
+  {
+    "id": "ciencias-fera-013",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual parte do sistema nervoso, na nuca, coordena o equilíbrio e os movimentos finos?",
+    "resposta": "Cerebelo"
+  },
+  {
+    "id": "ciencias-fera-014",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é a maior artéria do corpo humano, que sai do coração?",
+    "resposta": "Aorta"
+  },
+  {
+    "id": "ciencias-fera-015",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Quais fragmentos de células do sangue ajudam na coagulação?",
+    "resposta": "Plaquetas"
+  },
+  {
+    "id": "ciencias-fera-016",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual pequeno órgão em forma de pera, sob o fígado, guarda o líquido que digere gorduras?",
+    "resposta": "Vesícula biliar (vesícula)"
+  },
+  {
+    "id": "ciencias-fera-017",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual mamífero australiano coberto de espinhos também põe ovos?",
+    "resposta": "Equidna"
+  },
+  {
+    "id": "ciencias-fera-018",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual ave marinha tem a maior envergadura de asas do mundo, de mais de 3 metros?",
+    "resposta": "Albatroz-errante (albatroz)"
+  },
+  {
+    "id": "ciencias-fera-019",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é a ave mais rápida do mundo, que passa de 300 km/h em mergulho?",
+    "resposta": "Falcão-peregrino"
+  },
+  {
+    "id": "ciencias-fera-020",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual peixe de focinho em forma de tubo tem machos que carregam os filhotes numa bolsa?",
+    "resposta": "Cavalo-marinho"
+  },
+  {
+    "id": "ciencias-fera-021",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é o maior réptil vivo do mundo?",
+    "resposta": "Crocodilo-marinho (de água salgada)"
+  },
+  {
+    "id": "ciencias-fera-022",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual animal australiano, além dos humanos e primatas, possui impressões digitais?",
+    "resposta": "Coala"
+  },
+  {
+    "id": "ciencias-fera-023",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual mamífero da Caatinga, de couraça de placas, se fecha completamente ao se enrolar?",
+    "resposta": "Tatu-bola"
+  },
+  {
+    "id": "ciencias-fera-024",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Como se chama o sono profundo, com metabolismo reduzido, de animais no inverno?",
+    "resposta": "Hibernação"
+  },
+  {
+    "id": "ciencias-fera-025",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Como se chama o processo em que as cobras trocam de pele?",
+    "resposta": "Ecdise (muda)"
+  },
+  {
+    "id": "ciencias-fera-026",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual ave marinha faz a maior migração conhecida, indo de um polo a outro todo ano?",
+    "resposta": "Trinta-réis-ártico"
+  },
+  {
+    "id": "ciencias-fera-027",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual animal tem o maior cérebro do planeta e mergulha fundo para caçar lulas gigantes?",
+    "resposta": "Cachalote"
+  },
+  {
+    "id": "ciencias-fera-028",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual grande ave de pescoço vermelho é símbolo do Pantanal?",
+    "resposta": "Tuiuiú (jaburu)"
+  },
+  {
+    "id": "ciencias-fera-029",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual baleia ártica tem um longo dente em espiral e é chamada de unicórnio-do-mar?",
+    "resposta": "Narval"
+  },
+  {
+    "id": "ciencias-fera-030",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual tecido da planta leva a seiva bruta, com água e sais, das raízes até as folhas?",
+    "resposta": "Xilema (lenho)"
+  },
+  {
+    "id": "ciencias-fera-031",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual tecido da planta leva a seiva elaborada, rica em açúcares, das folhas ao resto da planta?",
+    "resposta": "Floema (líber)"
+  },
+  {
+    "id": "ciencias-fera-032",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual parte masculina da flor produz o pólen?",
+    "resposta": "Estame (antera)"
+  },
+  {
+    "id": "ciencias-fera-033",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual parte da flor, na base do pistilo, guarda os óvulos e se transforma em fruto?",
+    "resposta": "Ovário"
+  },
+  {
+    "id": "ciencias-fera-034",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual hormônio vegetal, em forma de gás, estimula o amadurecimento dos frutos?",
+    "resposta": "Etileno"
+  },
+  {
+    "id": "ciencias-fera-035",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual grupo de plantas tem sementes nuas, sem frutos, como os pinheiros?",
+    "resposta": "Gimnospermas"
+  },
+  {
+    "id": "ciencias-fera-036",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual grupo de plantas pequenas, sem vasos condutores, forma tapetes verdes em lugares úmidos?",
+    "resposta": "Briófitas (musgos)"
+  },
+  {
+    "id": "ciencias-fera-037",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é a maior flor individual do mundo, de cheiro fétido, nas florestas da Indonésia?",
+    "resposta": "Rafflesia"
+  },
+  {
+    "id": "ciencias-fera-038",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual fruta, na verdade um conjunto de frutos unidos, tem casca áspera e uma coroa de folhas?",
+    "resposta": "Abacaxi"
+  },
+  {
+    "id": "ciencias-fera-039",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Como se chama o movimento de uma planta em direção à luz?",
+    "resposta": "Fototropismo"
+  },
+  {
+    "id": "ciencias-fera-040",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual planta, também chamada de dormideira, fecha as folhinhas quando é tocada?",
+    "resposta": "Sensitiva"
+  },
+  {
+    "id": "ciencias-fera-041",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual pigmento dá a cor vermelha ao tomate maduro?",
+    "resposta": "Licopeno"
+  },
+  {
+    "id": "ciencias-fera-042",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Como se chama o conjunto de pétalas de uma flor?",
+    "resposta": "Corola"
+  },
+  {
+    "id": "ciencias-fera-043",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é o planeta mais distante do Sol no Sistema Solar?",
+    "resposta": "Netuno"
+  },
+  {
+    "id": "ciencias-fera-044",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é o maior vulcão do Sistema Solar, localizado no planeta vermelho?",
+    "resposta": "Monte Olimpo (Olympus Mons)"
+  },
+  {
+    "id": "ciencias-fera-045",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual planeta gira praticamente deitado, com o eixo quase paralelo à sua órbita?",
+    "resposta": "Urano"
+  },
+  {
+    "id": "ciencias-fera-046",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é a maior lua de Saturno?",
+    "resposta": "Titã"
+  },
+  {
+    "id": "ciencias-fera-047",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual lua de Júpiter é o corpo mais vulcânico do Sistema Solar?",
+    "resposta": "Io"
+  },
+  {
+    "id": "ciencias-fera-048",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual anã vermelha é a estrela mais vizinha do Sol?",
+    "resposta": "Próxima Centauri"
+  },
+  {
+    "id": "ciencias-fera-049",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual unidade, usada em astronomia, equivale a cerca de 9,5 trilhões de quilômetros?",
+    "resposta": "Ano-luz"
+  },
+  {
+    "id": "ciencias-fera-050",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual telescópio espacial, lançado em 1990, leva o nome de um astrônomo americano?",
+    "resposta": "Hubble"
+  },
+  {
+    "id": "ciencias-fera-051",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual região entre Marte e Júpiter reúne milhares de rochas que orbitam o Sol?",
+    "resposta": "Cinturão de asteroides"
+  },
+  {
+    "id": "ciencias-fera-052",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual foi o primeiro satélite artificial da Terra, lançado pela União Soviética em 1957?",
+    "resposta": "Sputnik (Sputnik 1)"
+  },
+  {
+    "id": "ciencias-fera-053",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual missão da Nasa levou os primeiros humanos à Lua, em 1969?",
+    "resposta": "Apollo 11"
+  },
+  {
+    "id": "ciencias-fera-054",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual astronauta brasileiro foi o primeiro do país a ir ao espaço, em 2006?",
+    "resposta": "Marcos Pontes"
+  },
+  {
+    "id": "ciencias-fera-055",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual corpo celeste, descoberto em 1930, deixou de ser considerado planeta em 2006?",
+    "resposta": "Plutão"
+  },
+  {
+    "id": "ciencias-fera-056",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é o elemento químico mais leve e mais abundante do universo?",
+    "resposta": "Hidrogênio"
+  },
+  {
+    "id": "ciencias-fera-057",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é o símbolo químico da prata?",
+    "resposta": "Ag"
+  },
+  {
+    "id": "ciencias-fera-058",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é o símbolo químico do potássio?",
+    "resposta": "K"
+  },
+  {
+    "id": "ciencias-fera-059",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual partícula, sem carga elétrica, fica no núcleo do átomo?",
+    "resposta": "Nêutron"
+  },
+  {
+    "id": "ciencias-fera-060",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é o número atômico do carbono?",
+    "resposta": "6 (seis)"
+  },
+  {
+    "id": "ciencias-fera-061",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é o valor do pH da água pura?",
+    "resposta": "7 (sete)"
+  },
+  {
+    "id": "ciencias-fera-062",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é a unidade de energia no Sistema Internacional?",
+    "resposta": "Joule"
+  },
+  {
+    "id": "ciencias-fera-063",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual unidade mede a resistência elétrica?",
+    "resposta": "Ohm"
+  },
+  {
+    "id": "ciencias-fera-064",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é a velocidade aproximada da luz no vácuo, em quilômetros por segundo?",
+    "resposta": "300 mil (300.000 km/s)"
+  },
+  {
+    "id": "ciencias-fera-065",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual cientista neozelandês descobriu o núcleo do átomo, em 1911?",
+    "resposta": "Ernest Rutherford (Rutherford)"
+  },
+  {
+    "id": "ciencias-fera-066",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual princípio de Newton diz que toda ação tem uma reação de mesma intensidade e sentido oposto?",
+    "resposta": "Terceira lei (3ª lei)"
+  },
+  {
+    "id": "ciencias-fera-067",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual processo transforma o vapor em gotinhas de água, como no espelho do banheiro?",
+    "resposta": "Condensação"
+  },
+  {
+    "id": "ciencias-fera-068",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual liga de cobre e zinco é usada em torneiras e instrumentos musicais?",
+    "resposta": "Latão"
+  },
+  {
+    "id": "ciencias-fera-069",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual fenômeno da luz faz um lápis parecer quebrado dentro de um copo com água?",
+    "resposta": "Refração"
+  },
+  {
+    "id": "ciencias-fera-070",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual nutriente, presente na cenoura e no fígado, é essencial para a visão?",
+    "resposta": "Vitamina A"
+  },
+  {
+    "id": "ciencias-fera-071",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual nutriente, presente em carnes e ovos e chamado de cobalamina, previne certo tipo de anemia?",
+    "resposta": "Vitamina B12 (B12)"
+  },
+  {
+    "id": "ciencias-fera-072",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual nutriente, presente em castanhas e óleos vegetais, atua como antioxidante?",
+    "resposta": "Vitamina E"
+  },
+  {
+    "id": "ciencias-fera-073",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual mineral, presente em frutos do mar e adicionado ao sal de cozinha, é essencial para a tireoide?",
+    "resposta": "Iodo"
+  },
+  {
+    "id": "ciencias-fera-074",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual doença, que deixa os ossos moles nas crianças, é causada pela falta de vitamina D?",
+    "resposta": "Raquitismo"
+  },
+  {
+    "id": "ciencias-fera-075",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual doença, causada pela falta de vitamina B1, era comum em dietas só de arroz polido?",
+    "resposta": "Beribéri"
+  },
+  {
+    "id": "ciencias-fera-076",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual açúcar do leite não é digerido por pessoas com intolerância?",
+    "resposta": "Lactose"
+  },
+  {
+    "id": "ciencias-fera-077",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual proteína do trigo, da cevada e do centeio deve ser evitada por pessoas celíacas?",
+    "resposta": "Glúten"
+  },
+  {
+    "id": "ciencias-fera-078",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual tipo de lipídio, comum em frituras e margarinas antigas, eleva o colesterol ruim?",
+    "resposta": "Gordura trans (trans)"
+  },
+  {
+    "id": "ciencias-fera-079",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual hormônio, produzido pela glândula pineal, regula o ciclo do sono?",
+    "resposta": "Melatonina"
+  },
+  {
+    "id": "ciencias-fera-080",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual elemento químico, adicionado à água tratada e ao creme dental, protege os dentes das cáries?",
+    "resposta": "Flúor"
+  },
+  {
+    "id": "ciencias-fera-081",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual vacina, dada ao nascer, protege contra formas graves da tuberculose?",
+    "resposta": "BCG"
+  },
+  {
+    "id": "ciencias-fera-082",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual doença, transmitida pelo mosquito Anopheles, é causada por um protozoário e provoca febre alta?",
+    "resposta": "Malária"
+  },
+  {
+    "id": "ciencias-fera-083",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual escala, de 1 a 5, classifica a intensidade dos furacões pela velocidade dos ventos?",
+    "resposta": "Saffir-Simpson"
+  },
+  {
+    "id": "ciencias-fera-084",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual escala mede a magnitude dos terremotos, criada por um sismólogo americano em 1935?",
+    "resposta": "Richter"
+  },
+  {
+    "id": "ciencias-fera-085",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual vento refrescante sopra, durante o dia, do oceano para o litoral?",
+    "resposta": "Brisa marítima"
+  },
+  {
+    "id": "ciencias-fera-086",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual tipo de nuvem, alta e fina como fios de algodão, é formada por cristais de gelo?",
+    "resposta": "Cirro (cirrus)"
+  },
+  {
+    "id": "ciencias-fera-087",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual tipo de nuvem baixa e cinzenta, parecida com um lençol, costuma trazer garoa?",
+    "resposta": "Estrato (stratus)"
+  },
+  {
+    "id": "ciencias-fera-088",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual fenômeno, oposto ao El Niño, esfria as águas do Pacífico equatorial?",
+    "resposta": "La Niña"
+  },
+  {
+    "id": "ciencias-fera-089",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual fenômeno, causado principalmente pela atração da Lua, faz o nível dos oceanos subir e descer?",
+    "resposta": "Marés (maré)"
+  },
+  {
+    "id": "ciencias-fera-090",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual camada da Terra, entre a crosta e o núcleo, é feita de rocha quente e pastosa?",
+    "resposta": "Manto"
+  },
+  {
+    "id": "ciencias-fera-091",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual tipo de rocha, como o mármore, se forma pela transformação de outras rochas sob calor e pressão?",
+    "resposta": "Metamórfica"
+  },
+  {
+    "id": "ciencias-fera-092",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual teoria explica o movimento de grandes blocos da crosta, que causa terremotos e vulcões?",
+    "resposta": "Tectônica de placas"
+  },
+  {
+    "id": "ciencias-fera-093",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual cientista alemão propôs a teoria da deriva continental, em 1912?",
+    "resposta": "Alfred Wegener (Wegener)"
+  },
+  {
+    "id": "ciencias-fera-094",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Como se chama o dia do ano com a noite mais longa em cada hemisfério?",
+    "resposta": "Solstício de inverno"
+  },
+  {
+    "id": "ciencias-fera-095",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual vento sazonal do sul da Ásia traz chuvas intensas no verão?",
+    "resposta": "Monção"
+  },
+  {
+    "id": "ciencias-fera-096",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual inventor e político americano criou o para-raios, em meados do século XVIII?",
+    "resposta": "Benjamin Franklin"
+  },
+  {
+    "id": "ciencias-fera-097",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual engenheiro alemão inventou, em 1892, o motor de combustão a que deu seu sobrenome?",
+    "resposta": "Rudolf Diesel"
+  },
+  {
+    "id": "ciencias-fera-098",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual inventor escocês fez a primeira demonstração pública de televisão, em 1926?",
+    "resposta": "John Logie Baird (Baird)"
+  },
+  {
+    "id": "ciencias-fera-099",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual arquiteto húngaro criou, em 1974, um quebra-cabeça em forma de cubo colorido?",
+    "resposta": "Ernő Rubik (Rubik)"
+  },
+  {
+    "id": "ciencias-fera-100",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual americano criou, em 1839, o processo de vulcanização da borracha?",
+    "resposta": "Charles Goodyear (Goodyear)"
+  },
+  {
+    "id": "ciencias-fera-101",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Quais dois franceses, fabricantes de papel, lançaram o primeiro balão tripulado de ar quente, em 1783?",
+    "resposta": "Irmãos Montgolfier"
+  },
+  {
+    "id": "ciencias-fera-102",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual matemático inglês projetou a máquina analítica, precursora do computador?",
+    "resposta": "Charles Babbage (Babbage)"
+  },
+  {
+    "id": "ciencias-fera-103",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual matemática inglesa, filha de um famoso poeta, é lembrada como a primeira programadora?",
+    "resposta": "Ada Lovelace"
+  },
+  {
+    "id": "ciencias-fera-104",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual matemático britânico propôs a máquina teórica que deu base à computação moderna?",
+    "resposta": "Alan Turing (Turing)"
+  },
+  {
+    "id": "ciencias-fera-105",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual engenheiro inglês construiu a locomotiva a vapor Rocket, em 1829?",
+    "resposta": "George Stephenson"
+  },
+  {
+    "id": "ciencias-fera-106",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual cientista inglês usou o microscópio e batizou a célula, em 1665?",
+    "resposta": "Robert Hooke (Hooke)"
+  },
+  {
+    "id": "ciencias-fera-107",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual matemático francês, que dá nome a uma unidade de pressão, criou uma calculadora mecânica?",
+    "resposta": "Blaise Pascal (Pascal)"
+  },
+  {
+    "id": "ciencias-fera-108",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual cientista inglês descobriu a indução eletromagnética, em 1831?",
+    "resposta": "Michael Faraday (Faraday)"
+  },
+  {
+    "id": "ciencias-fera-109",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual cientista dinamarquês descobriu, em 1820, que a corrente elétrica cria um campo magnético?",
+    "resposta": "Hans Christian Ørsted (Ørsted)"
+  },
+  {
+    "id": "ciencias-fera-110",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Um tênis de R$ 80 tem desconto de 25%. Quanto passa a custar?",
+    "resposta": "R$ 60 (sessenta reais)"
+  },
+  {
+    "id": "ciencias-fera-111",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Um preço de R$ 200 sobe 10% e depois cai 10%. Quanto custa no final?",
+    "resposta": "R$ 198"
+  },
+  {
+    "id": "ciencias-fera-112",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Quanto é 3/8 de 64?",
+    "resposta": "24 (vinte e quatro)"
+  },
+  {
+    "id": "ciencias-fera-113",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é a média das notas 4, 6, 8 e 10?",
+    "resposta": "7 (sete)"
+  },
+  {
+    "id": "ciencias-fera-114",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Um carro percorre 180 km em 2 horas. Qual é a velocidade média, em km/h?",
+    "resposta": "90 (noventa)"
+  },
+  {
+    "id": "ciencias-fera-115",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Quantos minutos tem um dia inteiro?",
+    "resposta": "1440 (1.440)"
+  },
+  {
+    "id": "ciencias-fera-116",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Quantos centímetros quadrados cabem em um metro quadrado?",
+    "resposta": "10.000 (dez mil)"
+  },
+  {
+    "id": "ciencias-fera-117",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Quantos litros cabem em um cubo de 20 cm de aresta?",
+    "resposta": "8 (oito)"
+  },
+  {
+    "id": "ciencias-fera-118",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Quanto é 2 elevado à décima potência?",
+    "resposta": "1024 (1.024)"
+  },
+  {
+    "id": "ciencias-fera-119",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é o mínimo múltiplo comum de 4 e 6?",
+    "resposta": "12 (doze)"
+  },
+  {
+    "id": "ciencias-fera-120",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Quanto é 5 + 3 × 2?",
+    "resposta": "11 (onze)"
+  },
+  {
+    "id": "ciencias-fera-121",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Qual é a soma de todos os números inteiros de 1 a 10?",
+    "resposta": "55 (cinquenta e cinco)"
+  },
+  {
+    "id": "ciencias-fera-122",
+    "tema": "ciencias",
+    "nivel": "fera",
+    "pergunta": "Quanto é 1/2 + 1/3?",
+    "resposta": "5/6 (cinco sextos)"
   }
 ]
